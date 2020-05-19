@@ -1,0 +1,4 @@
+.DS_Store
+*.rpp-bak
+/analysis/
+*.wav
