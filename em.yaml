@@ -1,0 +1,26 @@
+source: ~/syncthing/ElectroMagnetic/reaper/bounces
+folder: ~/syncthing/ElectroMagnetic/analysis
+mode: chain
+
+analysers:
+    fluid_noveltyslice:
+        threshold: 0.48
+    audio_explode:
+
+    mfcc:
+        amplitude: False
+    
+    stats:
+        numderivs: 3
+        flatten: True
+
+    dimension_reduction:
+        scaling: standardise
+        post_scaling: none
+        components: 10
+    
+    cluster:
+        algorithm: AgglomCluster
+        numclusters: 10
+        scaling: standardise
+    
