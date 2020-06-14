@@ -12,14 +12,17 @@ from pathlib import Path
 from uuid import uuid4
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import AgglomerativeClustering
+import hdbscan
 
-
-
-COMPONENTS = 2  # UMAP Components
+COMPONENTS = 15  # UMAP Components
 NEIGHBOURS = 7  # UMAP neighbours
 MINDIST = 0.1  # UMAP minimum distance
 CLUSTERS = 2 # number of clusters to classify
+CLUSTER_ALGORITHM = "HDBSCAN"
 PLOT = True
+#HDBSCAN
+HDBCLUSTSIZE = 3
+HDBSAMPS = 1
 
 media = Path("reaper/source/media/")
 source = media / "02-200420_0928.wav"
@@ -29,13 +32,13 @@ output = Path("slices").resolve()
 data, labels = [], []
 
 print('Slicing')
-# slices = get_buffer(
-# 	fluid.noveltyslice(
-# 		source,
-# 		threshold = 0.45,
-# 		fftsettings = [1024, -1, -1]
-# 	)
-# )
+slices = get_buffer(
+	fluid.noveltyslice(
+		source,
+		threshold = 0.4,
+		fftsettings = [2048, -1, -1]
+	)
+)
 
 # slices = get_buffer(
 # 	fluid.transientslice(
@@ -91,10 +94,14 @@ reduced = embedding.transform(data)
 
 
 # clustering
-print(f'Clustering data into {CLUSTERS} clusters')
-cluster = AgglomerativeClustering(
-	n_clusters=CLUSTERS).fit(reduced)
-# TODO: HDBSCAN
+print('Clustering Data')
+if CLUSTER_ALGORITHM == "AG":
+	cluster = AgglomerativeClustering(
+		n_clusters=CLUSTERS).fit(reduced)
+
+if CLUSTER_ALGORITHM == "HDBSCAN":
+	cluster = hdbscan.HDBSCAN(min_cluster_size=HDBCLUSTSIZE, min_samples=HDBSAMPS).fit(reduced)
+
 clumped = [] # clumped slices
 
 cur = -2
@@ -148,9 +155,9 @@ for i, (start, end) in enumerate(zip(clumped, clumped[1:])):
 session_id = str(uuid4().hex)[:8]
 experiments = Path("experiments")
 layers = experiments/ "layers"
-layers.mkdir()
+if not layers.exists(): layers.mkdir()
 session = layers / session_id
-session.mkdir()
+if not session.exists(): session.mkdir()
 reaper_session = session / "session.rpp"
 
 # create a dictionary of metadata
