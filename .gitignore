@@ -2,3 +2,4 @@
 *.rpp-bak
 /analysis/
 *.wav
+__pycache__
