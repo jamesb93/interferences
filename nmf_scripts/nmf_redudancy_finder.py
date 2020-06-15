@@ -27,17 +27,13 @@ PLOT = True
 HDBCLUSTSIZE = 3
 HDBSAMPS = 1
 
-media = Path("reaper/source/media/")
+media = Path("../reaper/source/media/")
 source = media / "twovoice.wav"# "06-xbox controller-200518_1319.wav"# "02-200420_0928.wav"
-output = Path("slices").resolve()
-
-resynth = Path("nmfout.wav").resolve()
-features = Path("mfcc.wav").resolve()
 
 data, labels = [], []
 
 if not resynth.exists(): # let's not redo long NMF's each time
-	nmf = fluid.nmf(source, resynth=resynth, iterations=50, components=NMFCOMPONENTS)
+	nmf = fluid.nmf(source, resynth=resynth, iterations=50, components=)
 if not features.exists():
 	mfcc = fluid.mfcc(resynth, features=features, minfreq=500, maxfreq=15000, numcoeffs=13)
 stats = get_buffer(fluid.stats(features, numderivs=1))
