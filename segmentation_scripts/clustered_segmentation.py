@@ -1,30 +1,24 @@
-import os
-import subprocess
-import jinja2
 import numpy as np
-import umap.plot
-import random
+import os, subprocess, jinja2, random, hdbscan
 from umap import UMAP
-from utils import write_json
 from flucoma.utils import get_buffer
 from flucoma import fluid
 from pathlib import Path
 from uuid import uuid4
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import AgglomerativeClustering
-import hdbscan
+from datetime import date
 
 COMPONENTS = 15  # UMAP Components
 NEIGHBOURS = 7  # UMAP neighbours
 MINDIST = 0.1  # UMAP minimum distance
 CLUSTERS = 2 # number of clusters to classify
-CLUSTER_ALGORITHM = "HDBSCAN"
-PLOT = True
-#HDBSCAN
+CLUSTER_ALGORITHM = "AG"
 HDBCLUSTSIZE = 3
 HDBSAMPS = 1
+THRESHOLD = 0.47
 
-media = Path("reaper/source/media/")
+media = Path("../reaper/source/media/")
 source = media / "02-200420_0928.wav"
 output = Path("slices").resolve()
 
@@ -35,7 +29,7 @@ print('Slicing')
 slices = get_buffer(
 	fluid.noveltyslice(
 		source,
-		threshold = 0.4,
+		threshold = THRESHOLD,
 		fftsettings = [2048, -1, -1]
 	)
 )
@@ -88,16 +82,12 @@ redux = UMAP(n_components=COMPONENTS, n_neighbors=NEIGHBOURS, min_dist=MINDIST, 
 embedding = redux.fit(data)
 reduced = embedding.transform(data)
 
-# if COMPONENTS > 2 and PLOT:
-# 	p = umap.plot.interactive(embedding, point_size=2)
-# 	umap.plot.show(p)
-
-
 # clustering
 print('Clustering Data')
 if CLUSTER_ALGORITHM == "AG":
 	cluster = AgglomerativeClustering(
-		n_clusters=CLUSTERS).fit(reduced)
+		n_clusters=CLUSTERS
+		).fit(reduced)
 
 if CLUSTER_ALGORITHM == "HDBSCAN":
 	cluster = hdbscan.HDBSCAN(min_cluster_size=HDBCLUSTSIZE, min_samples=HDBSAMPS).fit(reduced)
@@ -152,11 +142,10 @@ for i, (start, end) in enumerate(zip(clumped, clumped[1:])):
 		tracks["clumped"] = [item]
 
 # make the necessary folders
-session_id = str(uuid4().hex)[:8]
-experiments = Path("experiments")
-layers = experiments/ "layers"
-if not layers.exists(): layers.mkdir()
-session = layers / session_id
+today = date.today()
+now = today.strftime("%d-%m-%Y")
+session_id = str(uuid4().hex)[:5]
+session = Path(f"{now}-{session_id}")
 if not session.exists(): session.mkdir()
 reaper_session = session / "session.rpp"
 
@@ -165,11 +154,13 @@ metadata = {
 	"components" : COMPONENTS,
 	"mindist" : MINDIST,
 	"clusters" : CLUSTERS,
-	"neighbours" : NEIGHBOURS
+	"neighbours" : NEIGHBOURS,
+	"algorithm" : CLUSTER_ALGORITHM,
+	"threshold" : THRESHOLD
 }
 
 # now create the reaper project
-env = jinja2.Environment(loader=jinja2.FileSystemLoader(['./RPRTemplates']))
+env = jinja2.Environment(loader=jinja2.FileSystemLoader(['../RPRTemplates']))
 template = env.get_template("SegmentationTemplate.rprtemplate")
 
 with open(reaper_session, "w") as f:
