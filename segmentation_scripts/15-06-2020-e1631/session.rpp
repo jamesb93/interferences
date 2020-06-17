@@ -1,0 +1,5821 @@
+<REAPER_PROJECT 0.1 "6.11/OSX64" 1592260123
+  <NOTES 0
+    | components 15
+    | mindist 0.1
+    | clusters 2
+    | neighbours 7
+    | algorithm AG
+    | threshold 0.47
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  CURSOR 14.5
+  ZOOM 24.90250292649711 0 0
+  VZOOMEX 8 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "media" ""
+  <RECORD_CFG
+    ZXZhdyAAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {86BC5F6F-EE5B-2C41-B5F3-A2B1BD791B48}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {4BC68EE1-7275-B048-8C00-B4C8BD7C3E5C}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {D81E7D4B-98EB-6847-8168-48360358570D}
+    NAME 02-200420_0928
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D81E7D4B-98EB-6847-8168-48360358570D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2361189F-5E52-A84D-86D3-15C3ED8F9BD0}
+      IID 1
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCF04517-9F55-7E4E-8277-54906BD18ABB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.04643990929705
+      SNAPOFFS 0
+      LENGTH 1.30031746031746
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C9A1715D-8139-8E49-9981-BC9C7DF750E4}
+      IID 2
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0.04643990929705
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {803E8F29-EF16-6046-8452-10157AC3B83A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.34675736961451
+      SNAPOFFS 0
+      LENGTH 0.32507936507937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {59CCB5CE-5177-F147-9D4F-060663ABBCCF}
+      IID 3
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 1.34675736961451
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A52331B-9B9B-6A4F-AAF7-31F9BBA9F5D2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.67183673469388
+      SNAPOFFS 0
+      LENGTH 5.03873015873016
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EDDB3DCB-3AB0-E34D-8BA1-3B5CF39F2360}
+      IID 4
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 1.67183673469388
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3FC1B7E-EE44-F947-98BF-B5EE58F51EA0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.71056689342404
+      SNAPOFFS 0
+      LENGTH 2.25233560090703
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8622A373-A83D-974C-B098-BA9D4F1B2C05}
+      IID 5
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 6.71056689342404
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9D51DF4-FE69-5F43-AFDE-6DB316B26EE7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.96290249433107
+      SNAPOFFS 0
+      LENGTH 3.18113378684807
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4DDE8084-9185-684D-BAE2-BE315FC1F325}
+      IID 6
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 8.96290249433107
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CB76987-6926-2D4A-84A9-7A173BEFD139}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.14403628117914
+      SNAPOFFS 0
+      LENGTH 1.04489795918367
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A8D1F69F-8FFF-D543-9919-14A9F4D55107}
+      IID 7
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 12.14403628117914
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A76BE5BA-CA6C-E247-8A07-E52146AF9286}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.18893424036281
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C514ABF3-7577-7942-AAE3-FB8259B65D2A}
+      IID 8
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 13.18893424036281
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96518884-3D58-354A-B537-BE4BB44695BE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.25859410430839
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6908FA94-E967-2743-8490-AC20606C10B3}
+      IID 9
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 13.25859410430839
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49F65B06-CA62-EB4B-85DB-33377A720B32}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.32825396825397
+      SNAPOFFS 0
+      LENGTH 2.15945578231293
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E2E32878-D5D9-7845-BC75-1F8078A68D94}
+      IID 10
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 13.32825396825397
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F2524D6-A5A6-DC41-A5F3-DD3C386E1773}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.48770975056689
+      SNAPOFFS 0
+      LENGTH 2.48453514739229
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51B21A0B-B9E5-4948-BE21-EBFF58CDA6D0}
+      IID 11
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 15.48770975056689
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBC7693C-C142-814A-B702-BE28BB104B2F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.97224489795919
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DD18F5FD-8F1C-F94F-9D9D-93AD41C85BEE}
+      IID 12
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 17.97224489795918
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5CAF966-E9AB-2C46-88FF-BD889E4E9D9F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.27410430839003
+      SNAPOFFS 0
+      LENGTH 1.13777777777778
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B8EB03F6-1DFE-B54A-B71A-528BE1F3C5A6}
+      IID 13
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 18.27410430839002
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {591F8D48-89E9-C448-B474-3682DA06D06B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 19.4118820861678
+      SNAPOFFS 0
+      LENGTH 2.78639455782313
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {013964F0-2578-0C4A-A8E6-CB62B90443C9}
+      IID 14
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 19.4118820861678
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E1B6521-EB79-DF46-8325-CC78C43A4973}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.19827664399093
+      SNAPOFFS 0
+      LENGTH 1.81115646258504
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {050071BA-9DFB-7749-A7C4-E4A234859249}
+      IID 15
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 22.19827664399093
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE0DB871-143A-6F41-9F05-EB21E708EB85}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.00943310657597
+      SNAPOFFS 0
+      LENGTH 2.7631746031746
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E055255C-B5DF-1D47-B8C2-148EF51A1361}
+      IID 16
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 24.00943310657597
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C30BD2E-B967-FE4A-BED9-485BA51F592A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.77260770975057
+      SNAPOFFS 0
+      LENGTH 1.95047619047619
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9C0F8DE9-7567-EA43-B845-3AE32C9327D5}
+      IID 17
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 26.77260770975057
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DFC480C-B43B-0243-B00D-3637D9921AF6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.72308390022676
+      SNAPOFFS 0
+      LENGTH 3.69197278911565
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B7E2A199-0305-9742-B0B7-B716ADCED6A9}
+      IID 18
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 28.72308390022676
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB453055-2C4F-4641-B155-9862682B9011}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.41505668934241
+      SNAPOFFS 0
+      LENGTH 0.18575963718821
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {151EE07C-C4F6-3148-96CB-97C54EAD1AE8}
+      IID 19
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 32.41505668934241
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22C54927-A738-204A-8F48-2CB7253F84B7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.60081632653061
+      SNAPOFFS 0
+      LENGTH 8.1037641723356
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {566C7A11-BB33-6241-A64B-D08711F2E1E7}
+      IID 20
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 32.60081632653061
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4DCD1C2D-90DC-1643-A274-609FB15DE9AB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 40.70458049886621
+      SNAPOFFS 0
+      LENGTH 0.51083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BC30F998-2AD0-0041-8FA8-1833046957E7}
+      IID 21
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 40.70458049886621
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7BAB743-6A2B-4C4D-B52F-AE89E837FF47}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 41.21541950113379
+      SNAPOFFS 0
+      LENGTH 0.51083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8D0F3778-B6CA-204B-86B3-60D4AADB6FB0}
+      IID 22
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 41.21541950113379
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFCF0804-D00F-274D-AABC-367EA2D456E8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 41.72625850340136
+      SNAPOFFS 0
+      LENGTH 0.27863945578231
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {229B835A-B9B3-0C4C-ABAA-96C51C8C3A37}
+      IID 23
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 41.72625850340136
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8AD0B50-E094-104D-8783-4E20E826635E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 42.00489795918367
+      SNAPOFFS 0
+      LENGTH 4.45823129251701
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {382FE625-A7F1-4B4F-9FB2-6CC4EF17E5C5}
+      IID 24
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 42.00489795918367
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6CB2CD7-863D-4649-B6DC-A81A130F0430}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 46.46312925170068
+      SNAPOFFS 0
+      LENGTH 5.29414965986395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {19588B5C-2840-8445-ABF4-0FA09A616641}
+      IID 25
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 46.46312925170068
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {022F2968-506B-A444-875C-6CCF0C5587D8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.75727891156463
+      SNAPOFFS 0
+      LENGTH 4.71365079365079
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7003377E-2A6F-0F48-BECB-A6AD56144A94}
+      IID 26
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 51.75727891156463
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {347B4453-3755-F14B-B9B8-F39204AFDA53}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 56.47092970521542
+      SNAPOFFS 0
+      LENGTH 5.13160997732427
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {602DF446-86AB-E94F-8A92-DC9A2DF5B400}
+      IID 27
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 56.47092970521542
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E51AB1E3-F746-474B-8708-B7ADD62FD353}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.60253968253969
+      SNAPOFFS 0
+      LENGTH 0.16253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1E4A8F53-C619-DD4B-901E-2799D01EA8FE}
+      IID 28
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 61.60253968253969
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05F50D9B-3EAE-2248-A1E4-BF60905FFBA0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.76507936507937
+      SNAPOFFS 0
+      LENGTH 0.95201814058957
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {428AEA40-71B4-814F-AC10-AED1F7FB3C95}
+      IID 29
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 61.76507936507937
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32ED79E2-58AC-094F-A9BB-FAA342F0A329}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 62.71709750566893
+      SNAPOFFS 0
+      LENGTH 3.78485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {854D0430-1679-4047-B88C-F3990A2169A1}
+      IID 30
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 62.71709750566893
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {835701E5-401E-2F4E-8A8C-016A1CC5C9D1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 66.50195011337868
+      SNAPOFFS 0
+      LENGTH 0.20897959183674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {637C5975-CF37-D14E-AB5A-6DD0F02B2F13}
+      IID 31
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 66.50195011337868
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE6F9E26-C50E-414A-99B1-C022E8F149D2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 66.71092970521542
+      SNAPOFFS 0
+      LENGTH 7.45360544217687
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3199BE6D-BDCA-E448-B03A-7ADE89D9B6F3}
+      IID 32
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 66.71092970521542
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {964B3033-22A9-EF49-A032-A8499704AD7D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 74.16453514739229
+      SNAPOFFS 0
+      LENGTH 0.5340589569161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E2132D88-6955-4344-BD38-263403293276}
+      IID 33
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 74.16453514739229
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4D497AA-11D8-0E42-BE46-10C5D8031CBB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 74.69859410430838
+      SNAPOFFS 0
+      LENGTH 0.41795918367347
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {99A06FAB-8509-344C-B0E4-F8F0D456958E}
+      IID 34
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 74.69859410430838
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F207697-4923-C64F-B4E0-675C0D5A18D0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 75.11655328798186
+      SNAPOFFS 0
+      LENGTH 0.34829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51A22D41-9C21-3C4B-A669-B192393DD516}
+      IID 35
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 75.11655328798186
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFD06B4F-A476-264D-B6F1-CFCB4045A91E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 75.46485260770974
+      SNAPOFFS 0
+      LENGTH 0.62693877551021
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BCB35AE6-A428-774A-8D08-4DFFE38D0270}
+      IID 36
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 75.46485260770974
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {311FB3C4-B4D4-0B4A-80C0-A501F480D98F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.09179138321996
+      SNAPOFFS 0
+      LENGTH 0.60371882086167
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E89AA693-CA46-6841-86B3-AF2B66DBCAFD}
+      IID 37
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 76.09179138321996
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F8B2DDF-9AA0-2D41-81ED-E46670824D14}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.69551020408163
+      SNAPOFFS 0
+      LENGTH 1.92725623582767
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {529281CF-E1F1-5944-856E-DEA6DDE2D5C1}
+      IID 38
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 76.69551020408163
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EA96366-ACC7-F04D-8E49-CCA5C9925E16}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 78.6227664399093
+      SNAPOFFS 0
+      LENGTH 0.13931972789115
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4FB05E0B-F5C3-0246-865D-71FDDCBB98E0}
+      IID 39
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 78.6227664399093
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B167E5F1-57B7-2A42-ACF7-A5BD157B9F37}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 78.76208616780045
+      SNAPOFFS 0
+      LENGTH 1.06811791383221
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D051B299-78A0-E841-B7D0-BF42D50EC56B}
+      IID 40
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 78.76208616780045
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18C24B99-1B3A-AB49-92CE-89374938E087}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 79.83020408163266
+      SNAPOFFS 0
+      LENGTH 0.1857596371882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ABA4554C-6D68-BD4B-8DBA-BF3A69E696F4}
+      IID 41
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 79.83020408163266
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {935A620E-57F1-524F-9B70-8C7CB6A35790}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 80.01596371882086
+      SNAPOFFS 0
+      LENGTH 0.11609977324264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4E93A0B6-99AB-B144-8AA2-D4CDB8D3B8B3}
+      IID 42
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 80.01596371882086
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB41FE31-9465-7F4B-80F2-86F9D08A1036}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 80.13206349206349
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {66839A87-2DD7-BE44-A988-197B3232488C}
+      IID 43
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 80.13206349206349
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF3AFE09-9FFC-F44C-836D-D2BF1B4E4EBB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 80.22494331065759
+      SNAPOFFS 0
+      LENGTH 1.46285714285715
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {609D1465-FEE5-0F40-8041-4762BD40982F}
+      IID 44
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 80.22494331065759
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53D3093D-3A57-4645-8639-48BFE262BFB2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.68780045351474
+      SNAPOFFS 0
+      LENGTH 0.48761904761905
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A654238D-175E-1F44-97F9-791E37BDDEAA}
+      IID 45
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 81.68780045351474
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B6C68EB-2DF8-484D-9375-AAD546B0BF0A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.17541950113379
+      SNAPOFFS 0
+      LENGTH 0.58049886621315
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D06D881D-DB39-0A45-ABC7-A0096EC6CB6C}
+      IID 46
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 82.17541950113379
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C9ACE8A-E615-8542-809E-C563B11CFBFD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.75591836734694
+      SNAPOFFS 0
+      LENGTH 0.46439909297052
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F779ED19-1CE8-2E49-9008-B819A9214CD1}
+      IID 47
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 82.75591836734694
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B9B78F5-7A05-1B46-B1C5-AA969ACCA0CD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.22031746031746
+      SNAPOFFS 0
+      LENGTH 0.20897959183674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {602534BB-5CFF-AD43-B437-8627FDC056BA}
+      IID 48
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 83.22031746031746
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A63029A-307C-1748-9740-4B4BBA694FF5}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.4292970521542
+      SNAPOFFS 0
+      LENGTH 0.69659863945579
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E9C85CC1-283D-D441-82DA-316DC04442CD}
+      IID 49
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 83.4292970521542
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F723D9C-5AC5-204B-9023-03D59A2140F9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 84.12589569160998
+      SNAPOFFS 0
+      LENGTH 0.58049886621315
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D8B105BE-6740-F244-8F53-00775712D8B5}
+      IID 50
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 84.12589569160998
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11892533-E97E-4146-BEEB-996050AF9177}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 84.70639455782313
+      SNAPOFFS 0
+      LENGTH 1.46285714285715
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {53CC6880-1E87-2B43-8684-804E2A891884}
+      IID 51
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 84.70639455782313
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F77B2677-A212-5643-9BEA-B3A4A78136D3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.16925170068028
+      SNAPOFFS 0
+      LENGTH 0.20897959183672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {179B4258-A0B0-7241-A676-80AFE052C6BB}
+      IID 52
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 86.16925170068028
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B663A45-EFBB-F441-A8EC-AA00D2A0B3FB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.378231292517
+      SNAPOFFS 0
+      LENGTH 0.41795918367347
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D3DDFA8A-B4CB-6445-AA91-54E77C65A886}
+      IID 53
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 86.378231292517
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1908EAF-19B7-BF43-BA65-0DAED8EB23A9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.79619047619047
+      SNAPOFFS 0
+      LENGTH 0.81269841269841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B1C12D47-413F-D84F-B8CE-EE6EFA8CB0A6}
+      IID 54
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 86.79619047619047
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CBA0D18-335F-024E-B639-4544C11349F2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 87.60888888888888
+      SNAPOFFS 0
+      LENGTH 2.04335600907029
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8E9C9405-F212-854E-9692-AB8DB3BA69D2}
+      IID 55
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 87.60888888888888
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {573FC9DD-D4F5-9341-A3DD-036669FE43ED}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.65224489795918
+      SNAPOFFS 0
+      LENGTH 0.51083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {76B62C43-3DED-2746-94B6-E7D3ED890489}
+      IID 56
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 89.65224489795918
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3ED999C3-A1F1-834C-86F3-5DC8B235D84B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 90.16308390022675
+      SNAPOFFS 0
+      LENGTH 0.20897959183674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AE2C4E0D-7397-334C-B2C0-35890D5E072C}
+      IID 57
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 90.16308390022675
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDFB95BD-994A-E346-8105-0E5EC86AE6C9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 90.37206349206349
+      SNAPOFFS 0
+      LENGTH 0.37151927437642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA9460B1-4634-BF46-BEE0-722474F9D030}
+      IID 58
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 90.37206349206349
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6D665E2-605F-A343-869E-B6E6B6C20405}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 90.74358276643991
+      SNAPOFFS 0
+      LENGTH 1.36997732426303
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B03B07CA-8D3A-0B42-9C50-CF3ABEB27BF3}
+      IID 59
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 90.74358276643991
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C74BBD3-F710-3D45-AA73-22011D0F9EE3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 92.11356009070295
+      SNAPOFFS 0
+      LENGTH 1.18421768707483
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1CE933C-1766-584E-A9E5-988DD9EF695C}
+      IID 60
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 92.11356009070295
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B07F0E6-8D9A-584A-8B31-1546F36DBDEF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 93.29777777777778
+      SNAPOFFS 0
+      LENGTH 2.83283446712018
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4DE72581-5537-A24E-A4DF-874B8E696C0C}
+      IID 61
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 93.29777777777778
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52C179BF-38EA-E44B-A85E-494A263A0A34}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 96.13061224489796
+      SNAPOFFS 0
+      LENGTH 1.11455782312925
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {47356C31-72BF-2947-893F-98AA2CAE06EF}
+      IID 62
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 96.13061224489796
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0298C1D0-D8FD-584F-A32C-BBF0AD6F08DA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 97.24517006802721
+      SNAPOFFS 0
+      LENGTH 1.11455782312926
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5BC0813D-CE60-D24F-92DA-181A1B9D72D6}
+      IID 63
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 97.24517006802721
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0D708CA-24DF-C747-A352-3A38B87F21A8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 98.35972789115647
+      SNAPOFFS 0
+      LENGTH 3.66875283446711
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2D122F38-52E4-4C43-80DE-B2D0A13AB479}
+      IID 64
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 98.35972789115647
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39A385C6-58FC-A744-A8FF-DEACDBBEF9EA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 102.02848072562358
+      SNAPOFFS 0
+      LENGTH 1.60217687074829
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E8BC8CE1-CB7C-6340-9097-9CEFD5277590}
+      IID 65
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 102.02848072562358
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E6F80E7-B563-BF44-B817-D02731889129}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 103.63065759637188
+      SNAPOFFS 0
+      LENGTH 0.55727891156464
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {016196DE-5012-4445-99E3-13D1F1437702}
+      IID 66
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 103.63065759637188
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6E9D888-978C-8641-B7FB-E79646FB38BA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 104.18793650793651
+      SNAPOFFS 0
+      LENGTH 0.51083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8EB2C694-E307-BF4C-A459-2029A1C7CCEF}
+      IID 67
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 104.18793650793651
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22BE978B-8DE3-1443-A8E0-109B3F3048A3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 104.69877551020409
+      SNAPOFFS 0
+      LENGTH 0.48761904761905
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CAC9C4D6-743F-2448-9B3B-E6BB43E45206}
+      IID 68
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 104.69877551020409
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C6438C8-CBC4-3844-A51B-E8607604AA5B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 105.18639455782314
+      SNAPOFFS 0
+      LENGTH 0.06965986394557
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {243673FA-78EB-144D-9323-707D2F8A931C}
+      IID 69
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 105.18639455782314
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DBD74C4-4056-6947-9815-D8B16F850EE9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 105.25605442176871
+      SNAPOFFS 0
+      LENGTH 0.16253968253967
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86DAB1BE-55F1-A341-867E-9BAFBAFB3CBC}
+      IID 70
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 105.25605442176871
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8DD37F9-76F0-F44A-953D-B28C072508E0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 105.41859410430838
+      SNAPOFFS 0
+      LENGTH 0.09287981859411
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6FFA01C8-4CCA-AC47-9332-DA8DA8230B09}
+      IID 71
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 105.41859410430838
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AD9AC05-B65D-C445-97CC-4E945953A4E8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 105.5114739229025
+      SNAPOFFS 0
+      LENGTH 0.60371882086167
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A73652F1-E4ED-7D44-9F4E-B5AF352B45B9}
+      IID 72
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 105.5114739229025
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE87EC9A-3C51-834C-B0E2-7EF4A1BE4CC8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 106.11519274376417
+      SNAPOFFS 0
+      LENGTH 1.88081632653062
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9EE97B59-48B8-AF4C-A83C-34BF2A79AF88}
+      IID 73
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 106.11519274376417
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {687E84CB-0A87-EF4F-940B-7790E3A48550}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 107.99600907029479
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7B24D180-3880-B44D-9162-924FB1F6685D}
+      IID 74
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 107.99600907029479
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {972505B2-FB16-E24B-A2D4-C67EF056A556}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 108.08888888888889
+      SNAPOFFS 0
+      LENGTH 0.67337868480726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B48EEC8B-C5FA-0048-8348-76FA4E7D2F62}
+      IID 75
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 108.08888888888889
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8F4D7BB-8AAF-0544-8262-D54C9F3E0D5D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 108.76226757369615
+      SNAPOFFS 0
+      LENGTH 1.95047619047618
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AFAC5EE2-07D7-BD46-B0DE-D8EF43092B7E}
+      IID 76
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 108.76226757369615
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE12109A-46CE-D946-BE4C-8CA38B8ABEEE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 110.71274376417233
+      SNAPOFFS 0
+      LENGTH 1.46285714285715
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C7FC0B8E-304A-B74B-ABE8-C044A03F92EB}
+      IID 77
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 110.71274376417233
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFC1E674-6C79-CB4D-921C-36D7BA135F7C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.17560090702948
+      SNAPOFFS 0
+      LENGTH 0.5340589569161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1DF7920B-9B27-1048-B80A-6A0FB88A1E1E}
+      IID 78
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 112.17560090702948
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37E00AB4-3A7F-B74F-BA24-874F50CEC2B7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.70965986394557
+      SNAPOFFS 0
+      LENGTH 0.18575963718821
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {14B94715-D615-B14B-8786-9A7839071677}
+      IID 79
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 112.70965986394557
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A62FDB2-C528-1C44-97AB-0490A5840369}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.89541950113379
+      SNAPOFFS 0
+      LENGTH 1.81115646258503
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {45A98DAF-2403-6A4B-B3EA-C9EE070698E4}
+      IID 80
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 112.89541950113379
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {442B98D1-639C-704C-9075-18125333FDF1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.70657596371882
+      SNAPOFFS 0
+      LENGTH 0.78947845804989
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DB459546-0C4F-B342-9159-78056DE2FC95}
+      IID 81
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 114.70657596371882
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24279F63-363B-3D4F-B994-00D6D7726007}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.4960544217687
+      SNAPOFFS 0
+      LENGTH 0.65015873015874
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D3AEF834-B5D7-DB45-9F9E-CDC197E6BCBA}
+      IID 82
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 115.4960544217687
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F3B533A-510B-1D44-A408-6BA2667D2962}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.14621315192744
+      SNAPOFFS 0
+      LENGTH 0.65015873015872
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F6C2BCAD-3AD8-7F49-BC49-E4C9EF80F6D6}
+      IID 83
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 116.14621315192744
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59AF268A-6728-034A-9F98-63BF53D8E8A4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.79637188208616
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1C1BDBA1-8479-5344-AC39-0C4434E30AAA}
+      IID 84
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 116.79637188208616
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C909C70F-76F5-5D44-AB6F-435A62A73D6F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.02857142857142
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D0BF109D-C891-5849-BA86-B6C80863F34E}
+      IID 85
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 117.02857142857142
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A28AC90-3F02-0A41-850F-50519DDF1BC2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.16789115646259
+      SNAPOFFS 0
+      LENGTH 0.95201814058957
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E3AC4E89-3CAE-8348-9F06-D2C8939F1940}
+      IID 86
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 117.16789115646259
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E62EC6BB-13D0-2849-95C2-B8AE03199AED}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 118.11990929705216
+      SNAPOFFS 0
+      LENGTH 1.60217687074829
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E6C66764-C47E-EC40-8B85-E406E1FB132A}
+      IID 87
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 118.11990929705216
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E188B51-44CF-FE46-81F0-7C8EE32528F0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 119.72208616780046
+      SNAPOFFS 0
+      LENGTH 0.76625850340136
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {832A323C-5E56-A34B-B722-4D1D7A27FC17}
+      IID 88
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 119.72208616780046
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E747F7E6-87EC-9A4C-8B7A-CC45E051C696}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 120.48834467120182
+      SNAPOFFS 0
+      LENGTH 0.25541950113379
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7241569D-79C0-F945-B962-684FBDF9E952}
+      IID 89
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 120.48834467120182
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E20E063B-9E76-1442-9049-3724D30DFDFB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 120.7437641723356
+      SNAPOFFS 0
+      LENGTH 1.36997732426303
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6262CB3C-B6C5-C143-AA12-6D2E61876870}
+      IID 90
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 120.7437641723356
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CAA8CA4-B7AE-6F41-9643-F414F2A2FD4B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 122.11374149659864
+      SNAPOFFS 0
+      LENGTH 0.06965986394559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {429B3AA6-A203-2E49-A5B3-CC59C3F71EE9}
+      IID 91
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 122.11374149659864
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {004A17A0-A725-7446-8914-27ACA42E4AD0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 122.18340136054422
+      SNAPOFFS 0
+      LENGTH 0.32507936507936
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DD6BE0BB-927F-174F-B289-790053480231}
+      IID 92
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 122.18340136054422
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FB5B04F-C0CE-424C-B27A-94EACB16EF12}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 122.50848072562358
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DD03873A-E801-0E42-A919-6C20E15FCDEC}
+      IID 93
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 122.50848072562358
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6061136F-8483-A74C-BAA8-9C3A908C20A8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 122.74068027210885
+      SNAPOFFS 0
+      LENGTH 1.99691609977324
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0071E15A-987D-A74A-ACF4-511A9597F559}
+      IID 94
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 122.74068027210885
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6C0708C-7B87-DC44-88F3-8CAD58214CE8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 124.73759637188209
+      SNAPOFFS 0
+      LENGTH 1.43963718820861
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {71D6D02A-41EF-6C4E-99A7-2E9BEFEF550D}
+      IID 95
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 124.73759637188209
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE0DA67E-D0A1-1C40-8638-20B3C923309A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 126.1772335600907
+      SNAPOFFS 0
+      LENGTH 0.51083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B74A9FDD-0B53-BF40-BBB1-7D8E2922388B}
+      IID 96
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 126.1772335600907
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3314B99E-B9A5-F74C-9679-F30A02FB3458}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 126.68807256235827
+      SNAPOFFS 0
+      LENGTH 0.441179138322
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FF86CA5E-DC36-5341-BDEB-20937A709181}
+      IID 97
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 126.68807256235827
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E305821C-44A3-1E42-AFCE-3152DFE03A27}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.12925170068027
+      SNAPOFFS 0
+      LENGTH 0.39473922902495
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CF2BBB36-93AC-FC4B-A028-7E7E17268489}
+      IID 98
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 127.12925170068027
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F62051B7-8163-714C-A6B4-3703708C3A68}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.52399092970522
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {14BCE339-9340-5046-8FD4-1E8779FFA2D5}
+      IID 99
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 127.52399092970522
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7D720F1-EC39-5D4E-BD3A-105ABD8AB790}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 127.61687074829932
+      SNAPOFFS 0
+      LENGTH 1.16099773242631
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {29F170DA-55D7-1E4C-95AF-2A5DA90CD8D4}
+      IID 100
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 127.61687074829932
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCA0A07D-CAAF-7E4F-9686-65E0ECF9A177}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.77786848072563
+      SNAPOFFS 0
+      LENGTH 2.41487528344672
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {60AFC220-126E-CA4B-94ED-CCA09161DAA4}
+      IID 101
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 128.77786848072563
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7BFD45C-A7D8-284D-B9F7-61C13818A7D7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 131.19274376417235
+      SNAPOFFS 0
+      LENGTH 0.23219954648525
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A45464D1-3E0F-9D44-8A97-3A2AF0190658}
+      IID 102
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 131.19274376417235
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A9105EA-798B-E24D-88EC-92E8D51401D8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 131.4249433106576
+      SNAPOFFS 0
+      LENGTH 0.39473922902494
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1A421D4C-5F15-E14F-B3EF-98BC410F48F9}
+      IID 103
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 131.4249433106576
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {495F7E48-F40B-734B-9CFB-F72D87FEBD2F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 131.81968253968253
+      SNAPOFFS 0
+      LENGTH 0.32507936507938
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B9CA39EB-DA96-7243-ABCA-A489285EF292}
+      IID 104
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 131.81968253968253
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7051D2C7-373C-3842-906D-5B4F62B6AFB1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 132.14476190476191
+      SNAPOFFS 0
+      LENGTH 0.41795918367347
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {230D92C9-2F43-A04E-94BB-65419B0E2666}
+      IID 105
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 132.14476190476191
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01A5F961-76DD-744B-A07D-FB204CC76E43}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 132.56272108843538
+      SNAPOFFS 0
+      LENGTH 0.39473922902494
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FE749914-CFB3-F448-9395-120B7BB90793}
+      IID 106
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 132.56272108843538
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D230C85D-6DF4-A746-99DC-2138C07E9654}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 132.95746031746032
+      SNAPOFFS 0
+      LENGTH 0.44117913832198
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5CE8C444-F796-924C-B641-FA343AA39A58}
+      IID 107
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 132.95746031746032
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0472D495-093B-F34B-8C02-26D7749509F9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 133.3986394557823
+      SNAPOFFS 0
+      LENGTH 2.67029478458051
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {37DB3BC0-112D-3940-83AF-8F4B5C2D9767}
+      IID 108
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 133.3986394557823
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C74E944-ACC7-C14E-9C6E-E2B31EFE5253}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 136.06893424036281
+      SNAPOFFS 0
+      LENGTH 2.20589569160998
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6E62F4FD-E8C1-CA48-A68B-51B452772A0E}
+      IID 109
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 136.06893424036281
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10929B09-0F26-444F-B7D9-B7CDE2688DFB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 138.27482993197279
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7577F7E5-543B-C747-A809-0EDCCCCF395E}
+      IID 110
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 138.27482993197279
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4B8B38C-014B-B145-87B2-C658FEA179C6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 138.36770975056689
+      SNAPOFFS 0
+      LENGTH 0.74303854875285
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1FA84ADC-47A1-A647-932C-F0E5F1D0B0D4}
+      IID 111
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 138.36770975056689
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E532C387-58B3-8342-A147-0F7F8A352BCE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 139.11074829931974
+      SNAPOFFS 0
+      LENGTH 1.02167800453515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B68B8EF2-F7D5-7C45-B64D-AF1657A3A26E}
+      IID 112
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 139.11074829931974
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4640D863-6069-A540-8E2A-575B5FF8402A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.13242630385488
+      SNAPOFFS 0
+      LENGTH 0.58049886621313
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F70D721D-C316-7444-8A06-E9CB478F1503}
+      IID 113
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 140.13242630385488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A704FD33-FFDF-FB46-A1FD-A4DA86A3BEA3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 140.71292517006802
+      SNAPOFFS 0
+      LENGTH 0.44117913832201
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {26900DC2-FE92-0C47-89DE-B97242FC8571}
+      IID 114
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 140.71292517006802
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BE06EE3-8D4B-434C-9596-385993909758}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 141.15410430839003
+      SNAPOFFS 0
+      LENGTH 0.53405895691608
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {085A2E77-1103-804E-9079-9D71FF7D80BE}
+      IID 115
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 141.15410430839003
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A2AFE59-529E-FD41-8C88-492E168268AA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 141.68816326530612
+      SNAPOFFS 0
+      LENGTH 0.6965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5068CA7C-C4FF-9B48-B795-915C2A350C9C}
+      IID 116
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 141.68816326530612
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D67756F5-73F3-5344-9956-371FFEC81327}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 142.38476190476192
+      SNAPOFFS 0
+      LENGTH 0.41795918367345
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F6BDC81F-E24B-6B44-97D3-E04F6141AFFE}
+      IID 117
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 142.38476190476192
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6982FB8B-7194-7948-BBB7-2E5C928485BE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 142.80272108843536
+      SNAPOFFS 0
+      LENGTH 1.97369614512473
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5C4E58DA-8FBF-3D43-AB3E-3B5684F0047F}
+      IID 118
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 142.80272108843536
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB946D17-72E5-4647-B38F-A5FE20529C3E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 144.7764172335601
+      SNAPOFFS 0
+      LENGTH 1.23065759637188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3EFE2AD5-1B43-6E4F-8938-305BBFD6629A}
+      IID 119
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 144.7764172335601
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8093C38E-E2E2-A144-84A9-3B37FD22A900}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 146.00707482993198
+      SNAPOFFS 0
+      LENGTH 0.55727891156462
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {078F9361-EC4D-5A4B-A45E-4377F328E376}
+      IID 120
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 146.00707482993198
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B12BA612-732D-7849-B130-F71E71AA8264}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 146.5643537414966
+      SNAPOFFS 0
+      LENGTH 2.13623582766439
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2137F23F-FF76-3D40-970E-1C043AF87A23}
+      IID 121
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 146.5643537414966
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14EF49D3-ED2D-0F4F-A196-30864E3C046B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 148.700589569161
+      SNAPOFFS 0
+      LENGTH 0.23219954648528
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EDED0125-8FAE-FE4F-AACA-C4C2A4F8B153}
+      IID 122
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 148.700589569161
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D4FB304-1D27-6C47-9139-68472E778EBD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 148.93278911564627
+      SNAPOFFS 0
+      LENGTH 6.40870748299318
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ABF44A64-6887-2244-A2CE-6E9E0DBBE941}
+      IID 123
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 148.93278911564627
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BD167D0-F273-C040-8AED-7FFA2AD791A4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 155.34149659863945
+      SNAPOFFS 0
+      LENGTH 0.92879818594105
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CDA21281-18D6-CE4A-8BC8-001406B41480}
+      IID 124
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 155.34149659863945
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3282737B-BB3C-C143-BDA7-26BB38EFAE57}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 156.2702947845805
+      SNAPOFFS 0
+      LENGTH 0.69659863945577
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C9FF2092-0414-D543-9E19-E3A1CB8D00E4}
+      IID 125
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 156.2702947845805
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {820A703F-15BC-444E-B467-037DC4BCCC67}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 156.96689342403627
+      SNAPOFFS 0
+      LENGTH 1.50929705215421
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F12F6D2D-4382-8942-9B15-B0987421F880}
+      IID 126
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 156.96689342403627
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C134EC5-28C5-F546-9372-FFD0F81B76ED}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 158.47619047619048
+      SNAPOFFS 0
+      LENGTH 0.23219954648525
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E5036EC9-6AEC-004A-B8D8-D9E970E66212}
+      IID 127
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 158.47619047619048
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C34EFE3-CB86-CD41-8BE0-D23C11ED1B3E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 158.70839002267573
+      SNAPOFFS 0
+      LENGTH 0.23219954648528
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2A703A97-BCC1-DD49-BC11-9152197140F6}
+      IID 128
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 158.70839002267573
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6548966-5CF6-2E41-B60C-9D199AF5991F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 158.94058956916101
+      SNAPOFFS 0
+      LENGTH 1.97369614512471
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9B0232C7-F15D-264C-B745-D2F0B9F1E32A}
+      IID 129
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 158.94058956916101
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57EEA2BB-A872-A64E-A281-B69F7C26B49B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.91428571428571
+      SNAPOFFS 0
+      LENGTH 1.20743764172335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FBFB3A04-D1F2-6B4F-AA2A-98AF768750CE}
+      IID 130
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 160.91428571428571
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {776A73F3-AB9B-AB4F-878F-E128BEF32436}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 162.12172335600906
+      SNAPOFFS 0
+      LENGTH 1.6718367346939
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6136B018-018E-C34C-8C70-DA876B664BFE}
+      IID 131
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 162.12172335600906
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AB03C5B-DB3E-4F46-97F3-52F3BCBC9EAC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 163.79356009070295
+      SNAPOFFS 0
+      LENGTH 1.60217687074828
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {50FD7EF2-810C-FA44-BB1A-670282AC2A8C}
+      IID 132
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 163.79356009070295
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF5D0D57-4666-0045-864A-6F732E6DFDB4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 165.39573696145123
+      SNAPOFFS 0
+      LENGTH 4.89941043083903
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {58047BBE-F503-8347-8037-7B987CED7526}
+      IID 133
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 165.39573696145123
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C3E6ACD-441B-FB41-BCB5-583F97B55499}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 170.29514739229026
+      SNAPOFFS 0
+      LENGTH 0.46439909297052
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2FAAFBDD-1EFD-CB4F-AB50-2E8FC3F7E6E5}
+      IID 134
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 170.29514739229026
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3BC7E85-6909-8649-B7FE-364C4889D6F1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 170.75954648526078
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1D794E31-8659-EA4D-9CAB-3A2AF322B4C9}
+      IID 135
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 170.75954648526078
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC8F3F01-7F12-4B46-AC7B-EE5A0BA62C2D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 170.85242630385488
+      SNAPOFFS 0
+      LENGTH 0.69659863945577
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A6605F8B-9540-484F-9292-6706D66C2403}
+      IID 136
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 170.85242630385488
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E87A273F-79D0-504C-BCBE-46519BCE2A6A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 171.54902494331066
+      SNAPOFFS 0
+      LENGTH 0.16253968253969
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0ADEE009-F667-8F4B-A69D-09B6BC1448E4}
+      IID 137
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 171.54902494331066
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91F984CA-13C6-EF44-9CC2-30F91A21F4B4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 171.71156462585034
+      SNAPOFFS 0
+      LENGTH 0.06965986394559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EB07A1D1-3BF2-4340-BB62-0C1C2004442B}
+      IID 138
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 171.71156462585034
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15A584D0-63E1-444E-B4DD-1B4A1CD96304}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 171.78122448979593
+      SNAPOFFS 0
+      LENGTH 0.32507936507935
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {89D8BB24-ABAF-CC43-B87F-3664B686BBE1}
+      IID 139
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 171.78122448979593
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B246CD95-E2C2-2046-93F9-73F7EDAC68A1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 172.10630385487528
+      SNAPOFFS 0
+      LENGTH 9.58984126984129
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3DDC49D7-9AD8-A94F-BD4E-622AD9E4F63C}
+      IID 140
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 172.10630385487528
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF8703CB-81D3-B74C-AB93-67773E72158C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 181.69614512471657
+      SNAPOFFS 0
+      LENGTH 0.11609977324261
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {17F7CC55-B8DA-AF44-983C-D2FBCCA7D2F6}
+      IID 141
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 181.69614512471657
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABD774D8-321E-1444-9347-7C27ACB2F73F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 181.81224489795918
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5D8402AA-327A-D742-8AA9-4D4A8F4258E6}
+      IID 142
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 181.81224489795918
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {901F8EA5-EBB0-2D4A-8814-80FE2BAFEF9C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 181.90512471655327
+      SNAPOFFS 0
+      LENGTH 0.23219954648528
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {618B4E52-37AF-6A45-9E55-4C40A2DE271C}
+      IID 143
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 181.90512471655327
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF6FFE31-55B9-C844-8461-B87CA88F6DD7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 182.13732426303855
+      SNAPOFFS 0
+      LENGTH 1.34675736961452
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EC383502-8DEC-5544-AF6D-96AEA574CA64}
+      IID 144
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 182.13732426303855
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A83E82C0-5654-304C-8F8E-F77429262D17}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 183.48408163265307
+      SNAPOFFS 0
+      LENGTH 1.30031746031744
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2E802FC2-9014-204B-8F34-A0321D9D71FC}
+      IID 145
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 183.48408163265307
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBC984FB-6439-EC45-AFA1-CA76695E33AB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 184.78439909297052
+      SNAPOFFS 0
+      LENGTH 0.11609977324264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2CA748CE-8592-7342-8ADE-B280C1C422C3}
+      IID 146
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 184.78439909297052
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A4B0064-E0B4-714B-9DC1-06B979E28F55}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 184.90049886621316
+      SNAPOFFS 0
+      LENGTH 1.34675736961452
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BEBE54DE-C22F-7241-AA53-9AAA19849307}
+      IID 147
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 184.90049886621316
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BACD48E-7C62-654E-8E24-D954F37FC366}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 186.24725623582768
+      SNAPOFFS 0
+      LENGTH 1.09133786848071
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {00B66E11-94D5-DE43-B192-19FFDC200E7A}
+      IID 148
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 186.24725623582768
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DF50B34-7606-0D45-86C5-DF26D98B6CCB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 187.33859410430838
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A0946C5B-D772-D44A-A94C-5BE143B88CC3}
+      IID 149
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 187.33859410430838
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3C02327-A4A6-144B-8F9F-8EE6269D67FF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 187.43147392290248
+      SNAPOFFS 0
+      LENGTH 0.6965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {124F537C-3122-1344-9BBC-15562FD2BADE}
+      IID 150
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 187.43147392290248
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21DBB4DC-9856-9B47-9933-25C78E486E32}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.12807256235828
+      SNAPOFFS 0
+      LENGTH 0.71981859410431
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {80582FAB-73AC-5A4D-B23E-9C6899F0982F}
+      IID 151
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 188.12807256235828
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69C6AD3A-0A71-9749-AD5F-EEDBE4025688}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.84789115646259
+      SNAPOFFS 0
+      LENGTH 0.1857596371882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AB62551B-43E5-1946-85E7-E975A7876030}
+      IID 152
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 188.84789115646259
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07E12AD2-9566-584B-92D1-2B2AA4D53335}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 189.03365079365079
+      SNAPOFFS 0
+      LENGTH 0.882358276644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2BBFECB8-95C9-A644-A318-FC6843BC14D4}
+      IID 153
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 189.03365079365079
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D761AF5C-CB18-5841-A5B7-8456F91D6888}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 189.91600907029479
+      SNAPOFFS 0
+      LENGTH 0.13931972789115
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E1906D34-50E7-F74A-BE69-45FFC34E5054}
+      IID 154
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 189.91600907029479
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3E751F1-FD97-F846-B7DD-B7C209E9E9FA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 190.05532879818594
+      SNAPOFFS 0
+      LENGTH 0.11609977324264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F5328720-BC3E-5346-A32E-C66C4DF37CAE}
+      IID 155
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 190.05532879818594
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {799D8434-03A7-DC4F-B8B5-EB22C9732B54}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 190.17142857142858
+      SNAPOFFS 0
+      LENGTH 0.60371882086167
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DD6D88D9-0CC9-214D-9FDD-486B203FB267}
+      IID 156
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 190.17142857142858
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8EB6F32-E631-2545-9E14-ACFB101E4FC6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 190.77514739229025
+      SNAPOFFS 0
+      LENGTH 0.1857596371882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {47A13821-803A-6C4C-B239-AB6667B7053E}
+      IID 157
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 190.77514739229025
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93D81DB5-9F5F-3E4A-83BF-6FB5830F151C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 190.96090702947845
+      SNAPOFFS 0
+      LENGTH 1.16099773242632
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {56C1FB0B-A909-114A-B7A1-5A3316403629}
+      IID 158
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 190.96090702947845
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97CCDF53-C4B4-5146-8C38-F8497A4BEA78}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 192.12190476190477
+      SNAPOFFS 0
+      LENGTH 0.92879818594102
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FBA9DFF2-C448-1643-B5AB-59E37D69BE83}
+      IID 159
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 192.12190476190477
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99F7ECE6-DBBB-BF4C-8358-6F40F689E02D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 193.05070294784579
+      SNAPOFFS 0
+      LENGTH 1.11455782312927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5C446C99-CF7C-7D49-AA8B-40F1C48B82DB}
+      IID 160
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 193.05070294784579
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {260157D0-262A-9041-9D50-1FB3DFA4D85D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 194.16526077097507
+      SNAPOFFS 0
+      LENGTH 0.65015873015872
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C449BEB9-A379-DA45-8758-E7FDC11DFA61}
+      IID 161
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 194.16526077097507
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A747CD2D-CAA9-664F-AA57-1E9FAA1AB0AE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 194.81541950113379
+      SNAPOFFS 0
+      LENGTH 0.51083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5AC37FCB-9662-8845-835C-48C4DBF9B13A}
+      IID 162
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 194.81541950113379
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BF9D9E5-B018-614E-91D7-84E1861BF388}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 195.32625850340136
+      SNAPOFFS 0
+      LENGTH 0.67337868480726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {602CB349-E711-5747-B777-8E7919EAA8AD}
+      IID 163
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 195.32625850340136
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7CB75CDB-B862-004D-BC4D-D47BBE25A6A4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 195.99963718820862
+      SNAPOFFS 0
+      LENGTH 6.7802267573696
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {35225E61-15DE-1348-8CC5-C6D291DAC46D}
+      IID 164
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 195.99963718820862
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3E4AD45-1537-4D4B-BFDE-D532D2C7B47B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 202.77986394557823
+      SNAPOFFS 0
+      LENGTH 4.22603174603174
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D37D75C4-3C16-9645-9194-1F34A420A7A3}
+      IID 165
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 202.77986394557823
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1055D0AB-F141-8449-B6BD-9A364204A87B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 207.00589569160996
+      SNAPOFFS 0
+      LENGTH 0.37151927437642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AFD688E3-D46F-B443-9C1C-023D67BA0655}
+      IID 166
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 207.00589569160996
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63B8CAAE-C046-A543-8CE9-34A6D5D49FFE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 207.37741496598639
+      SNAPOFFS 0
+      LENGTH 0.99845804988664
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A18DDBE1-63EC-564C-969D-F72EDB1D3796}
+      IID 167
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 207.37741496598639
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {878F0F7A-78B3-F740-8EB3-187D863496BB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 208.37587301587303
+      SNAPOFFS 0
+      LENGTH 1.46285714285713
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {99C2BDE0-2E31-804E-B8A5-54BDF8B8C49F}
+      IID 168
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 208.37587301587303
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80E5D986-C698-FF4A-BA18-42B88E83BC47}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 209.83873015873016
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F03B33C0-5056-DA40-BD4D-4BC5C2AA359F}
+      IID 169
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 209.83873015873016
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9188EF1-D40D-9D4D-B3E6-F44FBAF9DCDD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 210.14058956916099
+      SNAPOFFS 0
+      LENGTH 0.39473922902494
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {68ED3DA9-FCFD-4648-91E7-11DB0BCA65F9}
+      IID 170
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 210.14058956916099
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {606B795A-3ABC-C04B-8763-421721F17A05}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 210.53532879818593
+      SNAPOFFS 0
+      LENGTH 1.60217687074831
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AA0E4F40-1C56-6C42-876A-C8D895FC1E4A}
+      IID 171
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 210.53532879818593
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92136ED3-4224-3B45-A52D-ED90005CB342}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 212.13750566893424
+      SNAPOFFS 0
+      LENGTH 1.02167800453515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {50E30A98-4518-2944-B8D2-ADEAFB8E4914}
+      IID 172
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 212.13750566893424
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {844A1553-AC91-5640-A7AE-80B38CC9F076}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 213.15918367346939
+      SNAPOFFS 0
+      LENGTH 2.34521541950113
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C1BB8ED1-E781-F149-8BBC-A95B82F982FE}
+      IID 173
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 213.15918367346939
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7E2D399-605F-B347-B3BA-D86EA666BA81}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 215.50439909297052
+      SNAPOFFS 0
+      LENGTH 0.06965986394559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {809B7BAD-83F9-704A-B457-7636BDFC54B2}
+      IID 174
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 215.50439909297052
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2B9EF1C-3C35-014B-BD35-CBE2CC5B52BE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 215.5740589569161
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D707F98-5FCF-064F-AB7D-9F3C711434E0}
+      IID 175
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 215.5740589569161
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03A1C178-C56E-BD45-9E34-BE727F680012}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 215.6669387755102
+      SNAPOFFS 0
+      LENGTH 0.23219954648525
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {509CAD3F-B7C5-6A4B-BE09-72DF8302025C}
+      IID 176
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 215.6669387755102
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45DC9EE7-2D60-1F4A-849B-3ED95A007978}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 215.89913832199545
+      SNAPOFFS 0
+      LENGTH 0.32507936507938
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C76D1309-0712-024C-BA1F-A0E9148CEB57}
+      IID 177
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 215.89913832199545
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97EB47C5-D8F0-7144-8AD4-A909B68452F9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.22421768707483
+      SNAPOFFS 0
+      LENGTH 0.46439909297052
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9E5AD927-D187-8E4F-9B85-C6D01A51A386}
+      IID 178
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 216.22421768707483
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF450DAD-9AAB-7245-8F78-B82DED29B411}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.68861678004535
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1CD6D3C7-0BED-2E4D-91FE-3553927F2D8A}
+      IID 179
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 216.68861678004535
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {238F1424-4382-4545-B6DD-67683AEC4C2B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.78149659863945
+      SNAPOFFS 0
+      LENGTH 1.1609977324263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CBD69555-F4DA-B145-8A1D-16393C9B383C}
+      IID 180
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 216.78149659863945
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA3FA391-058C-3B45-B09C-340DCE75E78C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 217.94249433106575
+      SNAPOFFS 0
+      LENGTH 0.13931972789118
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {59A4D196-9D49-5642-BF2F-F682CD42A80E}
+      IID 181
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 217.94249433106575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4961C745-69D8-394F-A48E-DA6DD423F844}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 218.08181405895692
+      SNAPOFFS 0
+      LENGTH 0.32507936507935
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {93982D5B-3A95-8041-A12F-5291FCEDF4A3}
+      IID 182
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 218.08181405895692
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84258F75-7531-214A-93A4-80DF42C3DD1B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 218.40689342403627
+      SNAPOFFS 0
+      LENGTH 0.06965986394559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B6161580-441E-8449-95BE-C628362C83FE}
+      IID 183
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 218.40689342403627
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62DB91A1-8C85-174C-BD9A-2EA8CD8266C2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 218.47655328798186
+      SNAPOFFS 0
+      LENGTH 0.62693877551021
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5F876E18-8A3E-4943-9A5A-0A5EE2280507}
+      IID 184
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 218.47655328798186
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B47A48CF-FA62-E34F-8776-0B754A37AA8D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 219.10349206349207
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3A0B928E-360D-9240-A16B-D5738E66D633}
+      IID 185
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 219.10349206349207
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F122D09E-2923-6F40-9857-9E98E1CF06C9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 219.19637188208617
+      SNAPOFFS 0
+      LENGTH 0.11609977324264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A5015E99-D9B0-9B49-9992-E0184F0023BB}
+      IID 186
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 219.19637188208617
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67263754-7B4C-F546-A3C2-B05DC7F829B9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 219.31247165532881
+      SNAPOFFS 0
+      LENGTH 0.90557823129251
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E3D6BDF5-ED4C-914B-AAC3-179797555699}
+      IID 187
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 219.31247165532881
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4913782D-7E1A-654B-B392-82EC2914AF03}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 220.21804988662132
+      SNAPOFFS 0
+      LENGTH 0.60371882086167
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A93E7004-3E74-3649-AD16-774AC31E3AA0}
+      IID 188
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 220.21804988662132
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B84FF40-D844-2542-B4E0-7CAA3433B0E9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 220.82176870748299
+      SNAPOFFS 0
+      LENGTH 0.51083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8F010BC5-2C80-FF4D-AE12-6CDDA65B4AB6}
+      IID 189
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 220.82176870748299
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBABBF17-001D-EF4E-A0B0-FAA8535A2871}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 221.33260770975056
+      SNAPOFFS 0
+      LENGTH 0.20897959183674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C6DC8862-5CF6-3244-B9C0-F86B95A77FE0}
+      IID 190
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 221.33260770975056
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBD202F5-FF4F-4947-B959-241BC6C93ED3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 221.5415873015873
+      SNAPOFFS 0
+      LENGTH 0.16253968253969
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {22B00E42-25C3-6C43-B3FC-979F093E751D}
+      IID 191
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 221.5415873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA5C1741-2FB7-2646-B34A-FE29AFA0E93B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 221.70412698412699
+      SNAPOFFS 0
+      LENGTH 0.34829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9DC970E3-294D-9B48-B9BA-F150D05EC22D}
+      IID 192
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 221.70412698412699
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D0CCE46-39EC-C44E-9EA4-9CF0EC6F76F4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 222.05242630385487
+      SNAPOFFS 0
+      LENGTH 0.71981859410431
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E004C820-B01C-6448-B0F7-175BE350B86A}
+      IID 193
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 222.05242630385487
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC02BD93-7198-364E-949F-35E883B88560}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 222.77224489795918
+      SNAPOFFS 0
+      LENGTH 1.43963718820862
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {47E0623E-42BC-EC4E-A41F-319179BFA118}
+      IID 194
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 222.77224489795918
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2497889C-15A4-3245-8F82-C715C6E15EC3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 224.2118820861678
+      SNAPOFFS 0
+      LENGTH 0.60371882086167
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A96E7D52-48A3-324C-8A3A-500202ADAFEA}
+      IID 195
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 224.2118820861678
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29FD1A50-6410-914F-938A-3451D1EFF262}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 224.81560090702948
+      SNAPOFFS 0
+      LENGTH 0.7894784580499
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {625B4D26-AD32-5842-94E7-D643F5CD06FC}
+      IID 196
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 224.81560090702948
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4832BEFA-B537-EF45-B4CB-A4359920E05C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.60507936507938
+      SNAPOFFS 0
+      LENGTH 0.32507936507935
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E401085-8D12-4747-A682-9F27565B8E74}
+      IID 197
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 225.60507936507938
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5445E6A5-4064-BF44-931E-8FA949A98971}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.93015873015872
+      SNAPOFFS 0
+      LENGTH 0.32507936507938
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1E8CF5E0-4940-9444-AC76-180D48B6F11F}
+      IID 198
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 225.93015873015872
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14044D9E-1807-0D4F-82AE-14C91ED4B561}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 226.2552380952381
+      SNAPOFFS 0
+      LENGTH 0.51083900226757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9C917A82-4FA0-DE49-B9F7-08D5BCBB2638}
+      IID 199
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 226.2552380952381
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1084C71-55DB-D74E-A098-025DDCD77C12}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 226.76607709750567
+      SNAPOFFS 0
+      LENGTH 0.20897959183674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5065609D-6E49-C749-9994-9FDEF9DD6FAA}
+      IID 200
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 226.76607709750567
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01093989-E8EA-6048-BE0F-1B96C5541F1C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 226.97505668934241
+      SNAPOFFS 0
+      LENGTH 1.23065759637188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FC6BD805-8449-1A41-BDD6-E7CD04D826B0}
+      IID 201
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 226.97505668934241
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46A14588-BADC-E24E-882F-FAE9678C5EC2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 228.20571428571429
+      SNAPOFFS 0
+      LENGTH 0.39473922902494
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {29F3997C-3450-844D-9546-20EE72C15F67}
+      IID 202
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 228.20571428571429
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0482DA5C-9B7C-5D48-9898-58D1E6D37114}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 228.60045351473923
+      SNAPOFFS 0
+      LENGTH 0.1857596371882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7C4C80FF-A41E-194B-AD41-AF71D42BC107}
+      IID 203
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 228.60045351473923
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E57B0BE-B067-A749-BDA8-D409D4E00FA0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 228.78621315192743
+      SNAPOFFS 0
+      LENGTH 1.71827664399095
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {ADDA0CBE-7029-8840-8BE8-D7B138AC6C9A}
+      IID 204
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 228.78621315192743
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9D96726-AC27-E947-BC6C-AD795E48BFAB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 230.50448979591837
+      SNAPOFFS 0
+      LENGTH 1.92725623582766
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D9450A0D-5672-194E-8126-22135E6533F2}
+      IID 205
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 230.50448979591837
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DA7EAAF-C542-C640-9574-CB1243101B40}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 232.43174603174603
+      SNAPOFFS 0
+      LENGTH 3.50621315192743
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {73155C11-F9DE-B44D-805D-48C6522E200F}
+      IID 206
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 232.43174603174603
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D16802E8-1BED-724D-8FA3-836C51B2364E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 235.93795918367346
+      SNAPOFFS 0
+      LENGTH 1.09133786848074
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8ECE37FF-A428-3A41-93AA-DA0C021C4BD5}
+      IID 207
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 235.93795918367346
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D629AC1E-A8AE-5C42-B2D1-C2F42F4EAF3E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 237.02929705215419
+      SNAPOFFS 0
+      LENGTH 0.11609977324264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BF3E76CA-A8C9-7B47-AA97-5B0E33862156}
+      IID 208
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 237.02929705215419
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A49F487-1FAA-E649-86C5-3E5E82D7A5D8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 237.14539682539683
+      SNAPOFFS 0
+      LENGTH 2.62385487528346
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {45EF9BC2-1709-6C48-B1E0-ED95AFFD23A0}
+      IID 209
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 237.14539682539683
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A82F2406-1FAB-5F4D-B624-476B00C8BDBE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 239.76925170068029
+      SNAPOFFS 0
+      LENGTH 3.2275736961451
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1DA50ACB-2111-ED4E-A482-4F6ACCD30C3A}
+      IID 210
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 239.76925170068029
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE8DF4A8-849F-0D42-ACC4-6F3E58EAFF76}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 242.99682539682539
+      SNAPOFFS 0
+      LENGTH 0.44117913832201
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {05D8D21E-879C-1248-97E8-9AC71FC7B612}
+      IID 211
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 242.99682539682539
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F35FD626-3F4B-D740-9DC6-DF1DE0A251B7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.4380045351474
+      SNAPOFFS 0
+      LENGTH 0.74303854875282
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3494F0DC-9571-324B-808D-DF44C2651A8C}
+      IID 212
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 243.4380045351474
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {846D945D-7E4F-3645-9711-0ABE4B0E85D3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 244.18104308390022
+      SNAPOFFS 0
+      LENGTH 0.60371882086167
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D02D2E4D-7FB2-3941-9887-830686CC38FD}
+      IID 213
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 244.18104308390022
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9571B6E-BEE9-D74E-B539-E7EB2ECCD983}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 244.78476190476189
+      SNAPOFFS 0
+      LENGTH 1.25387755102042
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B9F331A6-752E-F74D-8E5A-BFBFBA43A04E}
+      IID 214
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 244.78476190476189
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59F1F47B-BCA3-7246-A989-4C6018930504}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 246.03863945578232
+      SNAPOFFS 0
+      LENGTH 0.1857596371882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {55856127-BC93-4545-BC68-9BC16762ED47}
+      IID 215
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 246.03863945578232
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FE797FF-4C78-404A-9920-A52DDF4E96A4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 246.22439909297051
+      SNAPOFFS 0
+      LENGTH 0.53405895691611
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {88412743-441D-FF41-939E-D4082B10BF99}
+      IID 216
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 246.22439909297051
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EED8CBF9-D96E-0445-8D5D-519B353B61DA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 246.75845804988663
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {660A8145-5279-504D-8715-7543670B2B94}
+      IID 217
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 246.75845804988663
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F682702-D416-DE44-B0DB-A4E30EB93395}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 246.85133786848073
+      SNAPOFFS 0
+      LENGTH 0.13931972789115
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AF0D64D1-3E08-DA4F-9B49-4A88F974116B}
+      IID 218
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 246.85133786848073
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB2F22F9-A0AC-3E40-81B1-5DC8A17C2148}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 246.99065759637188
+      SNAPOFFS 0
+      LENGTH 0.85913832199546
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F035A224-4811-C146-98D3-7AC61DBDACF0}
+      IID 219
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 246.99065759637188
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {477ECCCF-41E3-B641-B440-2307C7E89AAC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 247.84979591836733
+      SNAPOFFS 0
+      LENGTH 0.27863945578233
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E3E944A-56C4-5047-8BA0-47718E82885D}
+      IID 220
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 247.84979591836733
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5282526C-3C68-5741-9E56-BA0F78CC6915}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 248.12843537414966
+      SNAPOFFS 0
+      LENGTH 0.65015873015872
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {716805DF-16DE-4945-A810-9A4856EF6E78}
+      IID 221
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 248.12843537414966
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71FE45CE-66FE-CA40-A2CE-06230AA15E10}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 248.77859410430838
+      SNAPOFFS 0
+      LENGTH 1.43963718820862
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {356F3B56-DBD7-2940-B646-17C82D11458A}
+      IID 222
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 248.77859410430838
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DB70E5D-4F59-144F-9832-9EA620E959D1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 250.218231292517
+      SNAPOFFS 0
+      LENGTH 0.58049886621316
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9ABF5FA7-F340-EC4D-B7CF-2427DBC3F76C}
+      IID 223
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 250.218231292517
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70792A54-B325-864A-B254-8691D1E1986C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 250.79873015873017
+      SNAPOFFS 0
+      LENGTH 1.88081632653061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {818FD4D0-D8BD-4F46-AB34-B3B40EA71463}
+      IID 224
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 250.79873015873017
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6823FE04-D484-8044-8AC7-8959C83DEF44}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 252.67954648526077
+      SNAPOFFS 0
+      LENGTH 0.1857596371882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AACF03BA-A379-4644-8763-9251C898D315}
+      IID 225
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 252.67954648526077
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1628955-C5B9-C24D-9410-2A793DD0CC38}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 252.86530612244897
+      SNAPOFFS 0
+      LENGTH 0.32507936507938
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C448D23B-A541-124D-8927-B961D3AB3613}
+      IID 226
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 252.86530612244897
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA626332-6FF2-C849-9B5C-DFAA610DA986}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 253.19038548752835
+      SNAPOFFS 0
+      LENGTH 0.06965986394559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E4788D0C-9361-4D49-91E6-0612C4ADF44E}
+      IID 227
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 253.19038548752835
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F50EC9C-8A79-4944-8091-2487F60B5E6C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 253.26004535147393
+      SNAPOFFS 0
+      LENGTH 0.13931972789115
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F241D7F4-AF51-064C-A0B5-6F38A62AAC80}
+      IID 228
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 253.26004535147393
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7CAB002F-F4A6-BD47-AA90-B28D548C2753}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+  >
+  <TRACK {456FD8A1-0587-CE46-95B5-9DD2C7A5BB23}
+    NAME clumped
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {456FD8A1-0587-CE46-95B5-9DD2C7A5BB23}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A67CC268-6965-C34F-8A9A-0EED32C03162}
+      IID 229
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C586A34-275A-1448-B949-19EA8FC5BA68}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.04643990929705
+      SNAPOFFS 0
+      LENGTH 1.30031746031746
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A3F82C5D-41E7-A646-8865-1402132521F5}
+      IID 230
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0.04643990929705
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76A6B3DD-484A-164F-A085-A286F5807243}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.34675736961451
+      SNAPOFFS 0
+      LENGTH 0.32507936507937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {28CB98F0-2E8A-194B-BF53-EBE59CB99727}
+      IID 231
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 1.34675736961451
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5058A239-E9E8-C84F-8154-7659E6C75D2E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.67183673469388
+      SNAPOFFS 0
+      LENGTH 11.51709750566893
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7F6839CE-43D5-A744-B2E4-54C08F7A3DD5}
+      IID 232
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 1.67183673469388
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21327284-1BB3-B34A-9998-E242D71CA3E6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.18893424036281
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AD2B1C47-57A9-B941-8DFD-1FB9554A087F}
+      IID 233
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 13.18893424036281
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D23FBED6-2D29-9344-A350-3DE25F9DCD24}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.32825396825397
+      SNAPOFFS 0
+      LENGTH 4.64399092970521
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A3BCDA7B-6291-D54F-AF16-F9AEEBCF7F11}
+      IID 234
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 13.32825396825397
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63EA26FD-9ED8-5346-A8E7-890B0981F128}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.97224489795918
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {62DCE660-B13B-8E48-9158-5C10B03594E4}
+      IID 235
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 17.97224489795918
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E65EAEA-6F6F-BE4F-826F-8D7526357E4F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.27410430839002
+      SNAPOFFS 0
+      LENGTH 43.32843537414966
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3608062E-DD0A-0F47-9CDF-5E473C7B2A73}
+      IID 236
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 18.27410430839002
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {692E7CDF-AC2B-8443-B4B6-7421469193EF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.60253968253969
+      SNAPOFFS 0
+      LENGTH 0.16253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C6DA0532-8235-E44B-803F-3B9C60BF331F}
+      IID 237
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 61.60253968253969
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30F81F8C-38A2-3E4B-840B-968441431BCD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.76507936507937
+      SNAPOFFS 0
+      LENGTH 4.73687074829932
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AB5BF8DE-5E7D-9749-A5C1-6A8428EFF4C9}
+      IID 238
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 61.76507936507937
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B56C9355-5920-C841-9483-C8DB59C355ED}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 66.50195011337868
+      SNAPOFFS 0
+      LENGTH 0.20897959183674
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C12A22DE-0052-3041-8674-C00257FB088B}
+      IID 239
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 66.50195011337868
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8351EC29-3F70-F647-AA80-EA1B56198918}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 66.71092970521542
+      SNAPOFFS 0
+      LENGTH 7.45360544217687
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {08AE4EFB-534B-F74D-AC83-501397D38559}
+      IID 240
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 66.71092970521542
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFF202F8-498D-7449-B15D-8CA7C9B43308}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 74.16453514739229
+      SNAPOFFS 0
+      LENGTH 141.50240362811792
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {351C935E-05C4-7448-BCA5-1C0FB680B255}
+      IID 241
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 74.16453514739229
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B0884A0-782A-C04A-8DAE-F4293FAE5AE0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 215.6669387755102
+      SNAPOFFS 0
+      LENGTH 0.55727891156462
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F9A2D47B-A7A0-3E4F-89AC-C1DAA6F6EBE9}
+      IID 242
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 215.6669387755102
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7774ABD1-12CA-9446-A877-EB20C978228C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.22421768707483
+      SNAPOFFS 0
+      LENGTH 0.55727891156462
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C377E4A3-E89E-B248-97E8-731DF2C95D27}
+      IID 243
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 216.22421768707483
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1E9493F-8FDC-A949-9917-3215BC75F45C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.78149659863945
+      SNAPOFFS 0
+      LENGTH 1.1609977324263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D62F6B0A-140E-4344-A167-72C1F1E8C676}
+      IID 244
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 216.78149659863945
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED779842-FA90-0843-AD02-530DAF829F98}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 217.94249433106575
+      SNAPOFFS 0
+      LENGTH 0.13931972789118
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B767D54D-C7B1-7C48-B655-BE9C18B3FB2F}
+      IID 245
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 217.94249433106575
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A3871D9-F948-C540-AD7E-9566F1AE68BD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 218.08181405895692
+      SNAPOFFS 0
+      LENGTH 0.32507936507935
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F8150E49-1688-2B44-904E-4EAD8F8F2630}
+      IID 246
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 218.08181405895692
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F501F04-0F11-DA4A-B56C-EE3574927A44}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 218.40689342403627
+      SNAPOFFS 0
+      LENGTH 0.90557823129254
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E902766-837A-9E46-BF42-16F3FF51DFC3}
+      IID 247
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 218.40689342403627
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FFF2920D-BEE8-5945-A33D-BEF13A5B7A45}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 219.31247165532881
+      SNAPOFFS 0
+      LENGTH 2.22911564625849
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8ED75FA3-94D3-4343-9A41-4EFBF17CB2C5}
+      IID 248
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 219.31247165532881
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {35118F75-2095-164E-86A9-820CE7922026}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 221.5415873015873
+      SNAPOFFS 0
+      LENGTH 0.16253968253969
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {12BF493D-6C66-1949-8995-AC7927DBE9C3}
+      IID 249
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 221.5415873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80A35C2D-7D6E-6347-8444-9805178DD9A2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 221.70412698412699
+      SNAPOFFS 0
+      LENGTH 3.90095238095239
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {89ADA0E8-1F1B-FE4F-B308-C4B36EF7EFF2}
+      IID 250
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 221.70412698412699
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F6AB997-A1B6-9241-812E-AEFEA43C1A87}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.60507936507938
+      SNAPOFFS 0
+      LENGTH 0.32507936507935
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F7681B71-7792-E74F-8649-39D0231133E8}
+      IID 251
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 225.60507936507938
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B7588C2-1899-F042-B6AD-E31D3F4BAF9C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.93015873015872
+      SNAPOFFS 0
+      LENGTH 2.67029478458051
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D4BEAC7-0EB9-6D4F-911E-9CC19D63B376}
+      IID 252
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 225.93015873015872
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E86E9FED-0B93-5F43-818D-A3B5783948B2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 228.60045351473923
+      SNAPOFFS 0
+      LENGTH 14.39637188208616
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B71CEE62-2C09-2445-B0C9-20CC2A5635CE}
+      IID 253
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 228.60045351473923
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D38809A7-FC18-8448-BE03-394685AEE9A7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 242.99682539682539
+      SNAPOFFS 0
+      LENGTH 3.22757369614513
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5A7BD179-2C77-2644-AE29-6F1CFED22DCF}
+      IID 254
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 242.99682539682539
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3659BE51-D7AE-CC43-BFC1-2C78046315B6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 246.22439909297051
+      SNAPOFFS 0
+      LENGTH 0.76625850340136
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FD9FD1A9-9531-714F-9F0A-6DD46A11A63D}
+      IID 255
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 246.22439909297051
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6C406DB-E8F8-FF49-B1AE-F8C4B5C4B36D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 246.99065759637188
+      SNAPOFFS 0
+      LENGTH 0.85913832199546
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {87DBB8BB-395F-264C-8B61-E5A9536E7B04}
+      IID 256
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 246.99065759637188
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC2C44A5-03DF-F942-9DBC-2DA550D7D329}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 247.84979591836733
+      SNAPOFFS 0
+      LENGTH 0.27863945578233
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8D08A274-F952-444F-85B6-70B14CD076F7}
+      IID 257
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 247.84979591836733
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B22B71C5-684C-D144-ADED-CC359E51073E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+    <ITEM
+      POSITION 248.12843537414966
+      SNAPOFFS 0
+      LENGTH 4.55111111111111
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {501FDD90-E251-E742-80E0-9D3203982F88}
+      IID 258
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 248.12843537414966
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {154EF0BF-FC11-4645-AB56-98D6BCDF0C3B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/ElectroMagnetic/reaper/source/media/02-200420_0928.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>

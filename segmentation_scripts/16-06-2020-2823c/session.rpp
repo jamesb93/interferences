@@ -1,0 +1,582 @@
+<REAPER_PROJECT 0.1 "6.11/x64" 1591355987
+  <NOTES 0
+  | components 5
+  
+  | mindist 0.1
+  
+  | clusters 2
+  
+  | neighbours 7
+  
+  | threshold 0.47
+  
+  | note Windowed clustering
+  
+  | window 30
+  >
+  <TRACK 
+    NAME "0"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 1.3467573696145125
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  1.3467573696145125
+      NAME 
+      LENGTH 11.981496598639456
+      SOFFS 1.3467573696145125
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  13.328253968253968
+      NAME 
+      LENGTH 4.643990929705215
+      SOFFS 13.328253968253968
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  17.972244897959182
+      NAME 
+      LENGTH 38.49868480725624
+      SOFFS 17.972244897959182
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  56.470929705215426
+      NAME 
+      LENGTH 26.95836734693878
+      SOFFS 56.47092970521542
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  83.4292970521542
+      NAME 
+      LENGTH 29.46612244897959
+      SOFFS 83.4292970521542
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  112.89541950113379
+      NAME 
+      LENGTH 27.237006802721098
+      SOFFS 112.89541950113379
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  140.13242630385488
+      NAME 
+      LENGTH 41.56371882086168
+      SOFFS 140.13242630385488
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  181.69614512471657
+      NAME 
+      LENGTH 9.079002267573685
+      SOFFS 181.69614512471657
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  190.77514739229025
+      NAME 
+      LENGTH 5.224489795918373
+      SOFFS 190.77514739229025
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  195.99963718820862
+      NAME 
+      LENGTH 16.137868480725615
+      SOFFS 195.99963718820862
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  212.13750566893424
+      NAME 
+      LENGTH 4.086712018140588
+      SOFFS 212.13750566893424
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  216.22421768707483
+      NAME 
+      LENGTH 2.972154195011342
+      SOFFS 216.22421768707483
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  219.19637188208617
+      NAME 
+      LENGTH 2.3452154195011303
+      SOFFS 219.19637188208617
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  221.5415873015873
+      NAME 
+      LENGTH 0.5108390022675735
+      SOFFS 221.5415873015873
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  222.05242630385487
+      NAME 
+      LENGTH 2.7631746031746047
+      SOFFS 222.05242630385487
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  224.81560090702948
+      NAME 
+      LENGTH 1.4396371882086214
+      SOFFS 224.81560090702948
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  226.2552380952381
+      NAME 
+      LENGTH 2.3452154195011303
+      SOFFS 226.2552380952381
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  228.60045351473923
+      NAME 
+      LENGTH 7.337505668934227
+      SOFFS 228.60045351473923
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  235.93795918367346
+      NAME 
+      LENGTH 7.05886621315193
+      SOFFS 235.93795918367346
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  242.9968253968254
+      NAME 
+      LENGTH 3.0418140589569305
+      SOFFS 242.9968253968254
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  246.03863945578232
+      NAME 
+      LENGTH 0.7198185941043107
+      SOFFS 246.03863945578232
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  246.75845804988663
+      NAME 
+      LENGTH 0.23219954648524777
+      SOFFS 246.75845804988663
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  246.99065759637188
+      NAME 
+      LENGTH 1.137777777777785
+      SOFFS 246.99065759637188
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  248.12843537414966
+      NAME 
+      LENGTH 2.0897959183673436
+      SOFFS 248.12843537414966
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  250.218231292517
+      NAME 
+      LENGTH 2.4613151927437684
+      SOFFS 250.218231292517
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  252.67954648526077
+      NAME 
+      LENGTH 0.1857596371881982
+      SOFFS 252.67954648526077
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  252.86530612244897
+      NAME 
+      LENGTH 0.39473922902496383
+      SOFFS 252.86530612244897
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+  >
+  
+  <TRACK 
+    NAME "1"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 1.3467573696145125
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  1.3467573696145125
+      NAME 
+      LENGTH 11.981496598639456
+      SOFFS 1.3467573696145125
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  13.328253968253968
+      NAME 
+      LENGTH 4.643990929705215
+      SOFFS 13.328253968253968
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  17.972244897959182
+      NAME 
+      LENGTH 38.49868480725624
+      SOFFS 17.972244897959182
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  56.470929705215426
+      NAME 
+      LENGTH 26.95836734693878
+      SOFFS 56.47092970521542
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  83.4292970521542
+      NAME 
+      LENGTH 29.46612244897959
+      SOFFS 83.4292970521542
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  112.89541950113379
+      NAME 
+      LENGTH 27.237006802721098
+      SOFFS 112.89541950113379
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  140.13242630385488
+      NAME 
+      LENGTH 41.56371882086168
+      SOFFS 140.13242630385488
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  181.69614512471657
+      NAME 
+      LENGTH 9.079002267573685
+      SOFFS 181.69614512471657
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  190.77514739229025
+      NAME 
+      LENGTH 5.224489795918373
+      SOFFS 190.77514739229025
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  195.99963718820862
+      NAME 
+      LENGTH 16.137868480725615
+      SOFFS 195.99963718820862
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  212.13750566893424
+      NAME 
+      LENGTH 4.086712018140588
+      SOFFS 212.13750566893424
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  216.22421768707483
+      NAME 
+      LENGTH 2.972154195011342
+      SOFFS 216.22421768707483
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  219.19637188208617
+      NAME 
+      LENGTH 2.3452154195011303
+      SOFFS 219.19637188208617
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  221.5415873015873
+      NAME 
+      LENGTH 0.5108390022675735
+      SOFFS 221.5415873015873
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  222.05242630385487
+      NAME 
+      LENGTH 2.7631746031746047
+      SOFFS 222.05242630385487
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  224.81560090702948
+      NAME 
+      LENGTH 1.4396371882086214
+      SOFFS 224.81560090702948
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  226.2552380952381
+      NAME 
+      LENGTH 2.3452154195011303
+      SOFFS 226.2552380952381
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  228.60045351473923
+      NAME 
+      LENGTH 7.337505668934227
+      SOFFS 228.60045351473923
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  235.93795918367346
+      NAME 
+      LENGTH 7.05886621315193
+      SOFFS 235.93795918367346
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  242.9968253968254
+      NAME 
+      LENGTH 3.0418140589569305
+      SOFFS 242.9968253968254
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  246.03863945578232
+      NAME 
+      LENGTH 0.7198185941043107
+      SOFFS 246.03863945578232
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  246.75845804988663
+      NAME 
+      LENGTH 0.23219954648524777
+      SOFFS 246.75845804988663
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  246.99065759637188
+      NAME 
+      LENGTH 1.137777777777785
+      SOFFS 246.99065759637188
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  248.12843537414966
+      NAME 
+      LENGTH 2.0897959183673436
+      SOFFS 248.12843537414966
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  250.218231292517
+      NAME 
+      LENGTH 2.4613151927437684
+      SOFFS 250.218231292517
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  252.67954648526077
+      NAME 
+      LENGTH 0.1857596371881982
+      SOFFS 252.67954648526077
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+    
+    <ITEM 
+      POSITION  252.86530612244897
+      NAME 
+      LENGTH 0.39473922902496383
+      SOFFS 252.86530612244897
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\reaper\source\media\02-200420_0928.wav"
+      >
+    >
+  >
+  >
