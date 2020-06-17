@@ -1,6 +1,7 @@
 import os, subprocess, jinja2, random, umap, hdbscan
 from flucoma.utils import get_buffer
 from flucoma import fluid
+from datetime import date
 from pathlib import Path
 from uuid import uuid4
 from sklearn.preprocessing import StandardScaler
@@ -40,7 +41,10 @@ env = jinja2.Environment(loader=jinja2.FileSystemLoader(['../RPRTemplates']))
 template = env.get_template("LayersSquashTemplate.rprtemplate")
 
 # create a session skeleton
-session_folder = Path(str(uuid4().hex))
+today = date.today()
+now = today.strftime("%d-%m-%Y")
+session_id = str(uuid4().hex)[:5]
+session_folder = Path(f"{now}-{session_id}")
 session_folder.mkdir()
 reaper_session = session_folder / "session.rpp"
 session_media = session_folder / "media"
