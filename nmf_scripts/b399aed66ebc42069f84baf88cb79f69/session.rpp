@@ -1,0 +1,23 @@
+<REAPER_PROJECT 0.1 "6.11/x64" 1591355987
+  <NOTES 0
+  | nmfcomponents 10
+  
+  | umapcomponents 25
+  
+  | umapneighbours 4
+  
+  | umapmindist 0.05
+  >
+  <TRACK 
+    NAME "-1"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 11.68
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\isometre\nmf_scripts\b399aed66ebc42069f84baf88cb79f69\media\-1_components.wav"
+      >
+    >
+  >
+  >

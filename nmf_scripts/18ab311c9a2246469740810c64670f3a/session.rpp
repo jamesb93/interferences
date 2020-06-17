@@ -1,0 +1,73 @@
+<REAPER_PROJECT 0.1 "6.11/x64" 1591355987
+  <NOTES 0
+  | nmfcomponents 15
+  
+  | hdbclustersize 2
+  
+  | hdbsamps 1
+  >
+  <TRACK 
+    NAME "0"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 11.68
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\isometre\nmf_scripts\18ab311c9a2246469740810c64670f3a\media\0_components.wav"
+      >
+    >
+  >
+  
+  <TRACK 
+    NAME "1"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 11.68
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\isometre\nmf_scripts\18ab311c9a2246469740810c64670f3a\media\1_components.wav"
+      >
+    >
+  >
+  
+  <TRACK 
+    NAME "2"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 11.68
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\isometre\nmf_scripts\18ab311c9a2246469740810c64670f3a\media\2_components.wav"
+      >
+    >
+  >
+  
+  <TRACK 
+    NAME "-1"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 11.68
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\isometre\nmf_scripts\18ab311c9a2246469740810c64670f3a\media\-1_components.wav"
+      >
+    >
+  >
+  
+  <TRACK 
+    NAME "3"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 11.68
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\isometre\nmf_scripts\18ab311c9a2246469740810c64670f3a\media\3_components.wav"
+      >
+    >
+  >
+  >
