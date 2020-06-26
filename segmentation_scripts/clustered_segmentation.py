@@ -5,25 +5,18 @@ from flucoma.utils import get_buffer
 from flucoma import fluid
 from pathlib import Path
 from uuid import uuid4
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from sklearn.cluster import AgglomerativeClustering
-from datetime import date
+from datetime import datetime
 
-COMPONENTS = 15  # UMAP Components
-NEIGHBOURS = 7  # UMAP neighbours
-MINDIST = 0.1  # UMAP minimum distance
-CLUSTERS = 2 # number of clusters to classify
-CLUSTER_ALGORITHM = "AG"
-HDBCLUSTSIZE = 3
-HDBSAMPS = 1
 THRESHOLD = 0.47
+WINDOWSIZE = 4
+CLUSTERS = 2
 
 media = Path("../reaper/source/media/")
 source = media / "02-200420_0928.wav"
+source = source.resolve()
 output = Path("slices").resolve()
-
-# containers for data and labels
-data, labels = [], []
 
 print('Slicing')
 slices = get_buffer(
@@ -34,78 +27,76 @@ slices = get_buffer(
 	)
 )
 
-# slices = get_buffer(
-# 	fluid.transientslice(
-# 		source,
-# 		order = 80,
-# 		blocksize = 256,
-# 		padsize = 128,
-# 		skew = 0.0,
-# 		threshfwd = 2.0,
-# 		threshback = 1.1,
-# 		windowsize = 64,
-# 		clumplength = 25,
-# 		minslicelength = 2048
-# 	)
-# )
 slices = [int(x) for x in slices]
-print(f"Analysing {len(slices)} slices")
-
-for i, (start, end) in enumerate(zip(slices, slices[1:])):
-	length = end-start
-
-	mfcc = fluid.mfcc(source, 
-		fftsettings = [2048, -1, -1],
-		startframe = start,
-		numframes = length
-	)
-
-	stats = get_buffer(
-		fluid.stats(mfcc,
-			numderivs = 1
-		), "numpy"
-	)
-
-	data.append(stats.flatten())
-	labels.append(f"slice.{i}")
-
-# standardise data
-print('Standardising Data')
-standardise = StandardScaler()
-data = np.array(data)
-data = standardise.fit_transform(data)
-
-# dimension reduction
-print(f'Reducing to {COMPONENTS} dimensions')
-redux = UMAP(n_components=COMPONENTS, n_neighbors=NEIGHBOURS, min_dist=MINDIST, random_state=42)
-
-embedding = redux.fit(data)
-reduced = embedding.transform(data)
 
 # clustering
-print('Clustering Data')
-if CLUSTER_ALGORITHM == "AG":
-	cluster = AgglomerativeClustering(
-		n_clusters=CLUSTERS
-		).fit(reduced)
-
-if CLUSTER_ALGORITHM == "HDBSCAN":
-	cluster = hdbscan.HDBSCAN(min_cluster_size=HDBCLUSTSIZE, min_samples=HDBSAMPS).fit(reduced)
-
-clumped = [] # clumped slices
-
-cur = -2
-for i, c in enumerate(cluster.labels_):
-	prev = cur
-	cur = c
-	if cur != prev:
-		clumped.append(slices[i])
-
-
-# Create reaper files to look at the results
-print('Generating REAPER file')
+standardise = StandardScaler()
+original_slices = list(slices) # make a templated copy
 tracks = {}
-pos = 0		
+
+pos = 0
+for i, (start, end) in enumerate(zip(original_slices, original_slices[1:])):
+    start = (start / 44100)
+    end = (end / 44100)
+
+    item = {
+        "file": source.resolve(),
+        "length": end - start,
+        "start": start,
+        "position": pos
+    }
+    pos += end-start
+
+    if "original" in tracks:
+        tracks["original"].append(item)
+    else:
+        tracks["original"] = [item]
+
+
+model = AgglomerativeClustering(n_clusters=CLUSTERS)
+slices = list(original_slices) # recopy the original so we start fresh
+count = 0
+
+while (count + WINDOWSIZE) <= len(slices):
+	indices = slices[count:count+WINDOWSIZE] #create a section of the indices in question
+	data = []
+	for i, (start, end) in enumerate(zip(indices, indices[1:])):
+
+		mfcc = fluid.mfcc(source, 
+			fftsettings = [2048, -1, -1],
+			startframe = start,
+			numframes = end-start)
+
+		stats = get_buffer(
+			fluid.stats(mfcc,
+				numderivs = 1
+			), "numpy")
+
+		data.append(stats.flatten())
+
+	data = standardise.fit_transform(data)
+
+	# might not be necessary to reduce as the dimensions are already quite low
+	# redux = UMAP(n_components=COMPONENTS, n_neighbors=NEIGHBOURS, min_dist=MINDIST, random_state=42).fit_transform(data)
+
+	cluster = model.fit(data)
+	
+	cur = -2
+	for j, c in enumerate(cluster.labels_):
+		prev = cur
+		cur = c
+		if cur == prev:
+			try:
+				slices.pop(j + count)
+			except IndexError:
+				print(f"Error at {j}")
+				print(f"Count {count}")
+				print(len(slices))
+
+	count += 1
+
+pos = 0
+track_id = "segmentation"
 for i, (start, end) in enumerate(zip(slices, slices[1:])):
 	start = (start / 44100)
 	end = (end / 44100)
@@ -118,53 +109,29 @@ for i, (start, end) in enumerate(zip(slices, slices[1:])):
 	}
 	pos += end-start
 
-	if source.stem in tracks:
-		tracks[source.stem].append(item)
+	if track_id in tracks:
+		tracks[track_id].append(item)
 	else:
-		tracks[source.stem] = [item]
-
-pos = 0
-for i, (start, end) in enumerate(zip(clumped, clumped[1:])):
-	start = (start / 44100)
-	end = (end / 44100)
-
-	item = {
-		"file": source.resolve(),
-		"length": end - start,
-		"start": start,
-		"position": pos
-	}
-	pos += end-start
-
-	if "clumped" in tracks:
-		tracks["clumped"].append(item)
-	else:
-		tracks["clumped"] = [item]
+		tracks[track_id] = [item]
 
 # make the necessary folders
-today = date.today()
-now = today.strftime("%d-%m-%Y")
-session_id = str(uuid4().hex)[:5]
-session = Path(f"{now}-{session_id}")
+now = str(datetime.now()).replace(':', "-")
+session = Path(now)
 if not session.exists(): session.mkdir()
 reaper_session = session / "session.rpp"
 
 # create a dictionary of metadata
 metadata = {
-	"components" : COMPONENTS,
-	"mindist" : MINDIST,
 	"clusters" : CLUSTERS,
-	"neighbours" : NEIGHBOURS,
-	"algorithm" : CLUSTER_ALGORITHM,
-	"threshold" : THRESHOLD
+	"threshold" : THRESHOLD,
+	"note" : "clustered segmentation",
+	"window" : WINDOWSIZE
 }
 
+print('Generating REAPER file')
 # now create the reaper project
 env = jinja2.Environment(loader=jinja2.FileSystemLoader(['../RPRTemplates']))
 template = env.get_template("SegmentationTemplate.rprtemplate")
 
 with open(reaper_session, "w") as f:
-	f.write(template.render(tracks=tracks, metadata=metadata))
-
-# open it up for ease
-subprocess.call(["open", reaper_session])
+    f.write(template.render(tracks=tracks, metadata=metadata))
