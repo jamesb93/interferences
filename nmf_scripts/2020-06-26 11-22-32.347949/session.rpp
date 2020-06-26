@@ -1,0 +1,21 @@
+<REAPER_PROJECT 0.1 "6.11/x64" 1591355987
+  <NOTES 0
+  | nmfcomponents 10
+  
+  | hdbclustersize 5
+  
+  | hdbsamps 1
+  >
+  <TRACK 
+    NAME "-1"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 54.93625850340136
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\nmf_scripts\2020-06-26 11-22-32.347949\media\-1_components.wav"
+      >
+    >
+  >
+  >

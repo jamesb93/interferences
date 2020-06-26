@@ -1,0 +1,60 @@
+<REAPER_PROJECT 0.1 "6.11/x64" 1591355987
+  <NOTES 0
+  | nmfcomponents 10
+  
+  | hdbclustersize 2
+  
+  | hdbsamps 2
+  >
+  <TRACK 
+    NAME "-1"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 29.11984126984127
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\nmf_scripts\2020-06-26 11-35-33.937606\media\-1_components.wav"
+      >
+    >
+  >
+  
+  <TRACK 
+    NAME "2"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 29.11984126984127
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\nmf_scripts\2020-06-26 11-35-33.937606\media\2_components.wav"
+      >
+    >
+  >
+  
+  <TRACK 
+    NAME "1"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 29.11984126984127
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\nmf_scripts\2020-06-26 11-35-33.937606\media\1_components.wav"
+      >
+    >
+  >
+  
+  <TRACK 
+    NAME "0"  
+    <ITEM 
+      POSITION  0
+      NAME 
+      LENGTH 29.11984126984127
+      SOFFS 0.0
+      <SOURCE WAVE
+        FILE "F:\Cloud\ElectroMagnetic\nmf_scripts\2020-06-26 11-35-33.937606\media\0_components.wav"
+      >
+    >
+  >
+  >
