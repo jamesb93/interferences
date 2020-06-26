@@ -8,7 +8,9 @@ from sklearn.preprocessing import StandardScaler
 from scipy.io import wavfile
 from scipy.stats import moment
 from datetime import datetime
+from scipy.signal import savgol_filter
 import numpy as np
+
 
 
 NMFCOMPONENTS = 10
@@ -17,7 +19,7 @@ HDBSAMPS = 2
 
 # media = Path("../reaper/source/media/")
 media = Path("../reaper/highgain_source/bounces/")
-source = media / "highgain_source-013.wav"#"twovoice.wav"# "06-xbox controller-200518_1319.wav"# "02-200420_0928.wav"
+source = media / "highgain_source-002.wav"#"twovoice.wav"# "06-xbox controller-200518_1319.wav"# "02-200420_0928.wav"
 bases = Path("bases.wav")
 resynth = Path("resynth.wav")
 
@@ -26,7 +28,12 @@ data = []
 if not bases.exists() or not resynth.exists():
 	nmf = fluid.nmf(source, resynth=resynth, bases=bases, iterations=100, components=NMFCOMPONENTS)
 bases = get_buffer(bases, "numpy")
+bases_smoothed = np.zeros_like(bases)
 
+# lets smooth the bases a bit
+for i, x in enumerate(bases):
+	bases_smoothed[i] = savgol_filter(x, 11, 2)
+	
 # clustering
 print(f'Clustering data')
 clusterer = hdbscan.HDBSCAN(min_cluster_size=HDBCLUSTSIZE, min_samples=HDBSAMPS)
