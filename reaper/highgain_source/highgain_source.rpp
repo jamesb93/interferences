@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.11/x64" 1593166242
+<REAPER_PROJECT 0.1 "6.12c/linux64" 1593794622
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,9 +14,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 2818.526391624117
-  ZOOM 0.25516093915896 0 0
-  VZOOMEX 0 0
+  CURSOR 170.8197813105549
+  ZOOM 15.43093450829975 2185 0
+  VZOOMEX 0 163
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -28,7 +28,8 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "bounces\highgain_source.wav"
+  RENDER_FILE "bounces"
+  RENDER_PATTERN $track_$itemnumber
   RENDER_FMT 0 1 44100
   RENDER_1X 0
   RENDER_RANGE 4 0 0 2 1000
@@ -62,12 +63,25 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_FX 1
   MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 32 60 887 129
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <JS filters/dc_remove ""
+      - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 0 0 0 0
+    FXID {8408A9FC-88C7-784D-9079-8FEA7D40A1E6}
+    WAK 0 0
+  >
   <MASTERPLAYSPEEDENV
     EGUID {E36C7597-76B4-4067-ADA3-E695B9450895}
     ACT 0 -1
@@ -84,7 +98,7 @@
     ARM 0
     DEFSHAPE 1 -1 -1
   >
-  MARKER 1 202.65082907456093 "Moving microphone to the top right" 0 0 1 R {A93C2543-4A9C-4010-87E0-4AE3CA71C850}
+  MARKER 1 202.65082907456093 "Moving microphone to the top right" 0 0 1 B {A93C2543-4A9C-4010-87E0-4AE3CA71C850}
   <PROJBAY
   >
   <TRACK {FB710472-FC71-4380-8446-0C1FE379798F}
@@ -93,7 +107,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -125,7 +139,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {9567B04B-FE4C-47EF-8C32-565C8FD33410}
       IID 1
@@ -137,7 +151,7 @@
       GUID {205BAD63-C6AC-4E1F-8E57-E65AEF46CEA6}
       RECPASS 1
       <SOURCE WAVE
-        FILE "media\01-Keyboard-200619_1536.wav"
+        FILE "media/01-Keyboard-200619_1536.wav"
       >
     >
   >
@@ -154,7 +168,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 1026 0 0 0 0 0
     VU 2
     TRACKHEIGHT 115 0 0
@@ -179,7 +193,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {FD25F363-1237-4FE3-9D3C-C7B28221671E}
       IID 6
@@ -191,7 +205,7 @@
       GUID {D67806E5-95C6-47D1-97A8-9AB448E3D47D}
       RECPASS 4
       <SOURCE WAVE
-        FILE "media\02-RME Face Panel-200619_1538-01.wav"
+        FILE "media/02-RME Face Panel-200619_1538-01.wav"
       >
     >
   >
@@ -227,7 +241,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {C17309A9-CDE0-43FB-B6EE-200A8164684C}
       IID 11
@@ -239,7 +253,7 @@
       GUID {3CF0179E-2999-4525-94C2-EDD5DBE1380B}
       RECPASS 9
       <SOURCE WAVE
-        FILE "media\03-Hard Drive-200619_1542-01.wav"
+        FILE "media/03-Hard Drive-200619_1542-01.wav"
       >
     >
     <ITEM
@@ -250,7 +264,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {3CD4AE17-82FF-469D-8825-9CF706C03797}
       IID 12
@@ -262,7 +276,7 @@
       GUID {E8FC22DA-0DDC-4179-9266-063516FE7F6A}
       RECPASS 9
       <SOURCE WAVE
-        FILE "media\03-Hard Drive-200619_1542-01.wav"
+        FILE "media/03-Hard Drive-200619_1542-01.wav"
       >
     >
   >
@@ -298,7 +312,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {80BEE80E-F257-4E19-BB39-FE3065DDB65A}
       IID 17
@@ -310,7 +324,7 @@
       GUID {62D8855E-7DBF-4281-A1F5-65B129B7EFDF}
       RECPASS 11
       <SOURCE WAVE
-        FILE "media\04-Xiamo Note 4X-200619_1546-01.wav"
+        FILE "media/04-Xiamo Note 4X-200619_1546-01.wav"
       >
     >
   >
@@ -346,7 +360,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {1CC85CD5-8B43-4622-B426-E8205ACDDE61}
       IID 19
@@ -358,7 +372,7 @@
       GUID {6A5D395E-2998-4B63-8805-712AF2D57093}
       RECPASS 12
       <SOURCE WAVE
-        FILE "media\05-WD Hard Drive-200619_1555.wav"
+        FILE "media/05-WD Hard Drive-200619_1555.wav"
       >
     >
     <ITEM
@@ -369,7 +383,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {BD81E9D8-232D-46B2-B8AD-BE911351703C}
       IID 21
@@ -381,7 +395,7 @@
       GUID {AA716109-F192-4F0B-87E6-AB173C1DBC1F}
       RECPASS 14
       <SOURCE WAVE
-        FILE "media\05-WD Hard Drive-200619_1559.wav"
+        FILE "media/05-WD Hard Drive-200619_1559.wav"
       >
     >
   >
@@ -417,7 +431,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {7E348B17-32ED-4AD5-BE99-A246A17208AE}
       IID 22
@@ -429,7 +443,7 @@
       GUID {65679875-8C05-4AA9-8413-2DC1F3F99B20}
       RECPASS 15
       <SOURCE WAVE
-        FILE "media\06-Xbox Controller-200622_1536.wav"
+        FILE "media/06-Xbox Controller-200622_1536.wav"
       >
     >
     <ITEM
@@ -440,7 +454,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {62A33D6F-BB16-48EA-B27C-6A5EB3FEF6F7}
       IID 23
@@ -452,7 +466,7 @@
       GUID {48DACD8C-D076-4B9B-A81C-294484555B16}
       RECPASS 16
       <SOURCE WAVE
-        FILE "media\06-Xbox Controller-200622_1537.wav"
+        FILE "media/06-Xbox Controller-200622_1537.wav"
       >
     >
     <ITEM
@@ -463,7 +477,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {F89435E8-1FE5-4DA4-A193-4665BB067F9E}
       IID 29
@@ -475,12 +489,12 @@
       GUID {55ED895C-DE07-4542-8879-F010F4BE62C2}
       RECPASS 19
       <SOURCE WAVE
-        FILE "media\06-Xbox Controller-200622_1541.wav"
+        FILE "media/06-Xbox Controller-200622_1541.wav"
       >
     >
   >
   <TRACK {82ADB12A-2A5B-48E6-BC77-B1F2324B2780}
-    NAME ""
+    NAME Kindle
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -511,7 +525,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {682667CA-8A22-4AEC-BD7F-9BA280210BE1}
       IID 51
@@ -523,7 +537,7 @@
       GUID {36A4ED64-F7CC-45A3-A4FD-0B808C09293F}
       RECPASS 20
       <SOURCE WAVE
-        FILE "media\07-200622_1600.wav"
+        FILE "media/07-200622_1600.wav"
       >
     >
     <ITEM
@@ -534,7 +548,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {CB571083-CB33-4CD9-8B8F-E3329AE24D48}
       IID 53
@@ -546,7 +560,7 @@
       GUID {CB71DCD8-4A39-4DC5-8007-AD67CC6AF752}
       RECPASS 21
       <SOURCE WAVE
-        FILE "media\07-200622_1602.wav"
+        FILE "media/07-200622_1602.wav"
       >
     >
     <ITEM
@@ -557,7 +571,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {05D5AC58-2FD3-4784-ABE6-BADA6E8482BE}
       IID 55
@@ -569,7 +583,7 @@
       GUID {0A307627-88B8-4F79-9043-944BBA6745E4}
       RECPASS 23
       <SOURCE WAVE
-        FILE "media\07-200622_1607-01.wav"
+        FILE "media/07-200622_1607-01.wav"
       >
     >
     <ITEM
@@ -580,7 +594,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {5E47668B-FC08-4D0A-BF70-501E284D1116}
       IID 56
@@ -592,7 +606,7 @@
       GUID {FE68357F-0EE9-41F5-9160-6CAE0A9ECCD7}
       RECPASS 24
       <SOURCE WAVE
-        FILE "media\07-200622_1610.wav"
+        FILE "media/07-200622_1610.wav"
       >
     >
     <ITEM
@@ -603,7 +617,7 @@
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
-      MUTE 0
+      MUTE 0 0
       SEL 0
       IGUID {875C3A79-6CA8-4E0D-AC01-ADE99BB2F6A8}
       IID 57
@@ -615,10 +629,8 @@
       GUID {F2822172-07CF-417E-960F-8B9FBF5EA40C}
       RECPASS 24
       <SOURCE WAVE
-        FILE "media\07-200622_1701.wav"
+        FILE "media/07-200622_1701.wav"
       >
     >
-  >
-  <EXTENSIONS
   >
 >
