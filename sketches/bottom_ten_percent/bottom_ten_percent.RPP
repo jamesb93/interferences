@@ -1,0 +1,5990 @@
+<REAPER_PROJECT 0.1 "6.12c/OSX64" 1594655618
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 119
+  ZOOM 24.90250292649705 2490 0
+  VZOOMEX 8 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "media" ""
+  <RECORD_CFG
+    ZXZhdyAAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {1B9455EE-985C-E841-AC29-AA2F646122CB}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {DE3349E3-E002-AB4C-A1C7-6860AFE9DD56}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {2F47D9AE-EE0A-0F48-8940-07F98FAA0174}
+    NAME Keyboard_01_0_6
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2F47D9AE-EE0A-0F48-8940-07F98FAA0174}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3.68036281179138
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {981EF507-F0DF-4743-A376-C42755F84B29}
+      IID 1
+      NAME Keyboard_01_0_6.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0105121-B38B-CF4D-9CC1-6A5F5EDFA6FE}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.68036281177774
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B13049B-27D6-A740-AB82-148F8200CD05}
+      IID 2
+      NAME Keyboard_01_0_7.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F554A2C-3F1A-1141-BAFF-8186B327261E}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.98222222225741
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39679C99-C393-9647-8A20-5B896276D042}
+      IID 3
+      NAME Keyboard_01_0_8.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1C2BA04-DCC6-9948-8827-709904F0C07F}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.21442176867276
+      SNAPOFFS 0
+      LENGTH 0.220589569161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7B054FB-574E-7E4E-9BC4-3AF9C604BC4C}
+      IID 4
+      NAME Keyboard_01_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5D9F44D-F0B2-9E44-AB43-2FAFBB446FFD}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.43501133786049
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1719D90-6AD2-BC45-98C6-97786F3E675B}
+      IID 5
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6D9B2BE-4580-CE40-A3FF-57FCAD7C9D46}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.48145124712028
+      SNAPOFFS 0
+      LENGTH 0.81269841269841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07E16AC9-41BF-604D-8DDC-5FE529654F14}
+      IID 6
+      NAME Keyboard_01_0_11.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1744E7E-25B8-C149-89D7-184F70FFC3E2}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_11.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.29414965980686
+      SNAPOFFS 0
+      LENGTH 0.16253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E459FAC4-F7DF-A347-885E-9901130D80DA}
+      IID 7
+      NAME Keyboard_01_0_12.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90C60414-1E7C-274F-9A59-F218F31C7947}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.45668934239075
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D246CA6-7E33-454E-BA63-71883C54B319}
+      IID 8
+      NAME Keyboard_01_0_13.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0EBC1BE-3BD9-CA42-B75E-637E33AF21CE}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_13.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.52634920633864
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70A08759-6358-174D-A2BA-C76B7A10FC7B}
+      IID 9
+      NAME Keyboard_01_0_14.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58602C71-C49F-1940-AEEB-45C0E4738C64}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_14.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.73532879818231
+      SNAPOFFS 0
+      LENGTH 0.34829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EE4A42ED-A911-C34C-B2E6-2796E43AC966}
+      IID 10
+      NAME Keyboard_01_0_15.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FEA13E5E-A500-5F42-A0D2-95C5E949832E}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_15.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.08362811792176
+      SNAPOFFS 0
+      LENGTH 1.56734693877551
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C21D7F40-2D5B-1644-8AD5-09D865C89889}
+      IID 11
+      NAME Keyboard_01_0_18.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A1B75E2-7E78-F544-A0D1-0E90C10738DA}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_18.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.6509750566911
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4258B87E-368E-7842-B003-6BA0387B2554}
+      IID 12
+      NAME Keyboard_01_0_19.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E50001E-A18B-8F44-99A5-93F949981942}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_19.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.74385487532709
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3908560-2647-E84D-94FF-4B5EF420A358}
+      IID 13
+      NAME Keyboard_01_0_20.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE88110B-F19F-0E4D-860F-D5796B927B35}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_20.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.04571428569034
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {582AF047-DBC6-394B-9CB2-14D93CB50267}
+      IID 14
+      NAME Keyboard_01_0_21.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A97F2469-789D-6B47-AA1C-F8412211D093}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_21.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.12698412698228
+      SNAPOFFS 0
+      LENGTH 0.31344671201814
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05D702FA-D94C-9044-A505-A6C0F59514F6}
+      IID 15
+      NAME Keyboard_01_0_22.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18571C43-5D59-2049-8E0A-3324F404715A}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_22.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.44043083896395
+      SNAPOFFS 0
+      LENGTH 0.04646258503401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8742A671-4DA7-3046-A75C-2F76D840F39F}
+      IID 16
+      NAME Keyboard_01_0_23.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6E35B4B-6F05-9642-8380-CD3A04344ACF}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_23.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.48689342406578
+      SNAPOFFS 0
+      LENGTH 0.34829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F27DEA35-AEAB-554E-8DEE-9864EABC161F}
+      IID 17
+      NAME Keyboard_01_0_24.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6347A2A1-8177-7740-8943-3D350772D421}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_24.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.83519274380524
+      SNAPOFFS 0
+      LENGTH 0.16253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {688FC9D0-E729-2741-BEF1-57AAD354BDF4}
+      IID 18
+      NAME Keyboard_01_0_25.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D8C3EBD-CE3B-0E47-8CFB-255706DF9553}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_25.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.99773242627271
+      SNAPOFFS 0
+      LENGTH 0.73142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4BA925EC-B302-0547-B682-F33EA19A6825}
+      IID 19
+      NAME Keyboard_01_0_26.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1828D977-BD9E-F840-B196-D2DCC87863A3}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_26.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.72916099778377
+      SNAPOFFS 0
+      LENGTH 0.10446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {31539744-EF5B-FE45-9505-8FC14E7AD014}
+      IID 20
+      NAME Keyboard_01_0_27.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5194A307-00A0-1146-A9FC-87BE7770EB74}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_27.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.83362811792176
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84C83D44-8ACA-5D42-BA9D-A7E1D84F927A}
+      IID 21
+      NAME Keyboard_01_0_28.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E36CD53-EF7E-284D-9369-85FA7F94CF56}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_28.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.88006802718155
+      SNAPOFFS 0
+      LENGTH 0.11609977324263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFA6403D-DA6F-A748-A57D-2BC72A12FA75}
+      IID 22
+      NAME Keyboard_01_0_32.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C218019-7C45-F446-9C97-1ECBA3EBEFBC}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_32.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.99616780050565
+      SNAPOFFS 0
+      LENGTH 0.04646258503401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF1898FB-32F4-E44D-A080-D27EBF8EE8A3}
+      IID 23
+      NAME Keyboard_01_0_36.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9D965DF-2258-A248-AECA-01D84B6B2359}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_36.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.04263038549107
+      SNAPOFFS 0
+      LENGTH 0.25541950113379
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E36EAEF2-E786-974F-BCC9-67F3404DC3DD}
+      IID 24
+      NAME Keyboard_01_0_37.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15EA042C-DD65-434C-9F59-24910C65F5B9}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_37.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.29804988659453
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37885A24-0D6E-964E-A28E-E36EF1426D41}
+      IID 25
+      NAME Keyboard_01_0_39.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1FAC16E-B3BC-F04F-8991-DD6E0E838A90}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_39.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.5070294784382
+      SNAPOFFS 0
+      LENGTH 0.3134693877551
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7B78017-2015-854C-B6F1-8CE550D11B4D}
+      IID 26
+      NAME Keyboard_01_0_40.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41673C2F-A5CB-DC42-8891-9759D5738311}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_40.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.82049886626191
+      SNAPOFFS 0
+      LENGTH 0.10446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91C383C6-4C9E-D54A-A139-4D1C694FDD19}
+      IID 27
+      NAME Keyboard_01_0_41.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8C63543-82E1-3F49-AAAD-FFE2C66B119E}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_41.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.92496598639991
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4BABA7EF-1601-FB42-BDB7-47987C3E9453}
+      IID 28
+      NAME Keyboard_01_0_43.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0C5F0E5-054C-494A-BAC2-B06534417125}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_43.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.15716553293169
+      SNAPOFFS 0
+      LENGTH 0.16251700680272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39BCDE8B-C5DA-FE41-8EFA-FD902878C194}
+      IID 29
+      NAME Keyboard_01_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F0600C4-39E3-8148-A425-A5C229799A1B}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.31968253967352
+      SNAPOFFS 0
+      LENGTH 0.24383219954649
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {30DB6B61-4B08-CC4B-BA6F-32B972167B96}
+      IID 30
+      NAME Keyboard_01_0_45.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F75B0096-B088-904E-AD3C-5754685C96CC}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_45.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.56351473927498
+      SNAPOFFS 0
+      LENGTH 0.40634920634921
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {478992FA-7C54-8745-AE3F-8CABC6B55BEE}
+      IID 31
+      NAME Keyboard_01_0_46.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C5043E9-D63C-1C42-9418-7B53EFB0097F}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_46.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.96986394561827
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DB869AA-7BFA-6647-92C5-55B661A48AB3}
+      IID 32
+      NAME Keyboard_01_0_47.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0EBD27C-700F-8B4C-8FAB-71CF66F16BBD}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_47.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.01630385487806
+      SNAPOFFS 0
+      LENGTH 0.63854875283447
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F52BFA2-602B-934F-9371-F5E21F6A654C}
+      IID 33
+      NAME Keyboard_01_0_48.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1D4B265-6E37-F142-B2DE-CAB52548952F}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_48.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.65485260775313
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {599FC9B1-440C-FA4D-9562-88F529ED4287}
+      IID 34
+      NAME Keyboard_01_0_80.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A15C0FC0-E3F0-6F4E-AF7C-9ABB8BCFA33A}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_80.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.70129251701292
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6869A5B6-C028-CA4A-B4DF-936F7207290F}
+      IID 35
+      NAME Keyboard_01_0_84.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3803482B-4080-AC4E-93B5-695D12946A4B}
+      <SOURCE WAVE
+        FILE "media/Keyboard_01_0_84.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.73612244892865
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {337BFED3-1AB2-3D4A-9944-869DE71829AF}
+      IID 36
+      NAME Kindle_02_0_37.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84154444-DBEE-1044-BDA0-867BFD1B3715}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_0_37.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.82900226756465
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C00FB89-B471-364F-9E53-740C2FDA520C}
+      IID 37
+      NAME Kindle_02_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD9EC49A-225E-DD4F-A876-9C85C66944DB}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.8638321995968
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA519124-99E1-2349-96D7-8DC2BD9B30A4}
+      IID 38
+      NAME Kindle_02_0_150.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27FC56A2-DD06-AB48-A6C6-918EAA1D2F37}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_0_150.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.89868480723817
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EADBD09-B8D4-144F-901B-6E6EDAAB2D3B}
+      IID 39
+      NAME Kindle_02_0_164.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4AA6925-A149-9244-B46C-0E415A5A4B27}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_0_164.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.10766439908184
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {037A49B0-6EF2-FC43-BED8-3864911F8286}
+      IID 40
+      NAME Kindle_02_0_165.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E02BECD-BE9D-6F4E-AB62-4543387F34FB}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_0_165.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.17732426302973
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56626B10-A2C1-7549-9CD8-4E4625ACA17B}
+      IID 41
+      NAME Kindle_02_0_167.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89316C77-E9B8-9243-9624-937F5FD8902B}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_0_167.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.21215419506188
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F91EFA6D-BA28-394C-9EB3-4F30830B93DF}
+      IID 42
+      NAME Kindle_02_0_176.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C73DE834-4D02-B84C-A2FC-0F4BD7ECD5F4}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_0_176.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.24698412697762
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A4855871-0878-764B-9E66-518FCEF1720B}
+      IID 43
+      NAME Kindle_02_1_30.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04660C77-0DDB-4541-B6CE-FA05E9018E1C}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_1_30.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.30503401358146
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A470E6C-39C9-584E-8CDC-192FA795188A}
+      IID 44
+      NAME Kindle_02_1_62.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5648D1EC-841D-3443-82B6-5ADCB1B0D63B}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_1_62.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.44435374147724
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1A3FDB5-17C4-B24F-A74F-AE32211674B2}
+      IID 45
+      NAME Kindle_02_1_86.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8208A28A-F546-814F-9FA7-D5D96065D02E}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_1_86.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.47920634923503
+      SNAPOFFS 0
+      LENGTH 0.04641723356009
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {057D3327-F165-4641-BFDD-8FB269AC3E18}
+      IID 46
+      NAME Kindle_02_1_91.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5889F2CD-9705-D047-8BDF-B679E913CF3D}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_1_91.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.52562358276919
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8259C031-8AF1-7740-95B9-CEA8BF55A7AF}
+      IID 47
+      NAME Kindle_02_1_119.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F407483C-456F-764B-9E64-F57BAFFE5D2A}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_1_119.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.59528344671708
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {377B93FB-D7E9-484E-ADDF-8618F6339FAF}
+      IID 48
+      NAME Kindle_02_2_212.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA45321B-DA85-B641-A2AB-26725D7C6E7D}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_2_212.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.63011337863281
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {665C933F-FA98-F340-A952-4D6C17A5DE2B}
+      IID 49
+      NAME Kindle_02_2_242.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D78A7CD7-8DEC-274C-8917-E3029F678FCE}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_2_242.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.66494331066497
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D15869C2-E8E3-3844-82AC-13DD1B2718CD}
+      IID 50
+      NAME Kindle_02_2_310.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B1BFE3DF-6F58-514E-975E-C639A5236F6A}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_2_310.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.6997732425807
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1CC4BB2-F6AC-8A40-8046-7954F21C89F7}
+      IID 51
+      NAME Kindle_02_2_554.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F0E6AA6-F469-374F-BE5D-043E27FFCE91}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_2_554.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.7694331065286
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98E03B43-D735-FC4E-9405-1ECAFEDD7FD0}
+      IID 52
+      NAME Kindle_02_3_53.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {679DD68D-CFDD-3843-B5D7-30FDC3CD19C8}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_53.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.80426303856075
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BD55A49-DAF5-E646-B35E-62302299B5B9}
+      IID 53
+      NAME Kindle_02_3_60.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1E38BDC-DD7F-5946-9895-BC775E88BFD4}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_60.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.83909297047649
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1413B2C4-F56A-2746-85C7-726DD2933DC5}
+      IID 54
+      NAME Kindle_02_3_66.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {659CD13A-4E6C-A847-9822-D11865F65641}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_66.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.97841269837227
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8322339-3506-964C-92C4-B94C36AF1CF0}
+      IID 55
+      NAME Kindle_02_3_108.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71D0E6E8-CF38-D841-A36F-8499DBB4CBD0}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_108.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.01324263040442
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1510B1B-7EDA-4244-A561-C07BBA7C3622}
+      IID 56
+      NAME Kindle_02_3_111.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0206F4D-D595-1F41-9DF2-7CF0C5C9D94F}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_111.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.05968253966421
+      SNAPOFFS 0
+      LENGTH 6.44353741496599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C606D80D-0047-7744-B8D8-39FC7E6BC312}
+      IID 57
+      NAME Kindle_02_3_116.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96FB6869-3A7D-6C48-9E5A-3E0D624FF70F}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_116.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.50321995466948
+      SNAPOFFS 0
+      LENGTH 1.84598639455782
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2440BADF-A6EE-B046-9288-3B5CBCB5D9B6}
+      IID 58
+      NAME Kindle_02_3_119.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A571988-4453-E14E-87D9-204E26CE0234}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_119.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.34920634923037
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D96CF81-DEE2-F847-B169-CA71413DC831}
+      IID 59
+      NAME Kindle_02_3_134.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9880180-14AD-754E-B30F-B65AA200A37C}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_134.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.41886621317826
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E324334-866F-C04C-A562-717F8E5DBCFC}
+      IID 60
+      NAME Kindle_02_3_136.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EFF88567-974B-AB4E-BE8C-CE4E23168DD1}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_136.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.453696145094
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0FD31B7-221D-FA4B-AB41-06506EEAB5D6}
+      IID 61
+      NAME Kindle_02_3_139.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9F2DDDA-0466-8146-855E-6CC45AD171B2}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_139.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.54657596372999
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF566E36-703C-6C42-9589-9C617B5A21E7}
+      IID 62
+      NAME Kindle_02_3_150.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB47843E-0952-A94F-AEC7-A486BA27D916}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_150.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.59301587298978
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A56C971A-18C4-5343-B88F-E64F1C89787F}
+      IID 63
+      NAME Kindle_02_3_227.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0A58DCA-3595-0A44-A292-BBFA0F5F64D6}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_227.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.62784580502193
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE6D5A7F-7A8E-744C-97DB-F6E9FC1CF611}
+      IID 64
+      NAME Kindle_02_3_237.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {390C0A88-220D-5843-A326-0A653FA17A0A}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_237.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.66267573693767
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF43B969-3501-314E-9E96-D4C1E3AE497D}
+      IID 65
+      NAME Kindle_02_3_262.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5EB1D71-C877-2A49-81D4-35C380D56D9C}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_262.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.69750566896982
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {57386031-AB38-C641-9A2B-2535CB944A66}
+      IID 66
+      NAME Kindle_02_3_277.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1FF8BA55-207E-3045-9329-A8D4332E2A94}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.76716553291772
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A4B9859B-8519-9C41-B310-4FD7ACF32268}
+      IID 67
+      NAME Kindle_02_3_279.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95F80E4C-439B-3448-8C3F-F907A8F2A25A}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_279.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.80199546483345
+      SNAPOFFS 0
+      LENGTH 0.09290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1AA7B31D-8542-6A45-81FF-9E2A11EAB2C1}
+      IID 68
+      NAME Kindle_02_3_287.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {126ED878-B81C-834D-83DE-519F8289B863}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_287.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.89489795919508
+      SNAPOFFS 0
+      LENGTH 4.71365079365079
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5FFF6794-C7A2-1A48-8FDE-70AB86341734}
+      IID 69
+      NAME Kindle_02_3_292.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F9D3B7B-4434-5542-9306-17A21854210B}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_292.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.60854875284713
+      SNAPOFFS 0
+      LENGTH 0.10448979591837
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26683AD2-2E84-4546-8A9F-54B63E84E414}
+      IID 70
+      NAME Kindle_02_3_294.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C02C8903-69D5-B341-B5D1-19C27CCC2CEF}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_294.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.71303854871076
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {422D7B62-6BB4-AE46-899B-6F7BD820102F}
+      IID 71
+      NAME Kindle_03_0_19.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A17AC6A-0A70-B641-8B7E-DD205D8778F0}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_19.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.77108843543101
+      SNAPOFFS 0
+      LENGTH 0.26702947845805
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C52A8C2-D420-2842-B694-501A366FC82C}
+      IID 72
+      NAME Kindle_03_0_22.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7E7F44A-981D-6144-A94D-C7480C89A699}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_22.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.03811791387852
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16CCB7E3-E632-C34C-A4A0-1AC53761331E}
+      IID 73
+      NAME Kindle_03_0_27.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5FD9C7D2-FEB1-044C-989C-9DA198E9A90F}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_27.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.07294784579426
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D740FA2A-969D-664A-99EF-AC5C9F17002C}
+      IID 74
+      NAME Kindle_03_0_29.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F74FAC0F-E517-E949-AEA2-CF27AD83AED5}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_29.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.11938775505405
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62A69AD8-B40D-3B4D-8BB0-836FA0A1847C}
+      IID 75
+      NAME Kindle_03_0_31.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94CB4FCC-CFAC-FD44-9717-F9F165915E8C}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_31.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.1542176870862
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {378D0183-673E-2741-9B92-D51CA05C357F}
+      IID 76
+      NAME Kindle_03_0_41.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D8AD251-BA42-6248-AACB-1748F0C8CAB9}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_41.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.21226757369004
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD1D0141-B564-EA46-BEA2-5E8562B1A188}
+      IID 77
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8AC3A4F8-C3A6-3A40-A469-5483CDE1405D}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.29353741498198
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43943C01-6763-7C42-8890-62391524B021}
+      IID 78
+      NAME Kindle_03_0_47.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC4D871E-7995-C740-AC8A-C2A8B260CB22}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_47.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.35158730158582
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {961D82C0-1EAF-0F47-A8CE-8850989AE56D}
+      IID 79
+      NAME Kindle_03_0_48.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {176D739E-1A54-D647-9601-E9B7CD1AD2AF}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_48.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.65344671206549
+      SNAPOFFS 0
+      LENGTH 0.10448979591837
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27A1629E-AB1C-1C4A-84F6-6A4E367ECE06}
+      IID 80
+      NAME Kindle_03_0_49.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62DA0A5C-545F-594C-AEDD-2D4B2DE8459E}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_49.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.75793650792912
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {03B51241-84AD-054E-9558-EFB9DC72F6D2}
+      IID 81
+      NAME Kindle_03_0_60.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5339246-3AAD-3E4E-AFCB-2940CC08D0EE}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_60.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.79276643996127
+      SNAPOFFS 0
+      LENGTH 0.11609977324263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {709869CC-EF4F-354F-B341-EEF50A37C9B3}
+      IID 82
+      NAME Kindle_03_0_63.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5830683-D5FD-A441-8644-23E2211D7FF3}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_63.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.90886621316895
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87C8C115-0523-6942-A07D-B4D1B11B8671}
+      IID 83
+      NAME Kindle_03_0_67.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA58FF13-F0B3-794F-A4B5-807D7CBCE5F8}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_67.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.95530612242874
+      SNAPOFFS 0
+      LENGTH 0.05807256235828
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E7CB7F2A-9F90-2D4B-8BDB-F533FBF0F685}
+      IID 84
+      NAME Kindle_03_0_69.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0E9E4B4-EE84-644A-A2F4-8C283DA835A6}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_69.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.01337868475821
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {704D0A8F-7568-8845-9121-54EC8AB2CDCA}
+      IID 85
+      NAME Kindle_03_0_71.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2065BFA4-669D-854F-A8F1-BFF05E248849}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_71.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.04820861679036
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3CF60F2-B70C-7D44-804F-C956F96FCC0E}
+      IID 86
+      NAME Kindle_03_0_74.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4C206A6-B433-0941-BE42-56F8EB4569AB}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_74.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.1062585033942
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F88709D-7533-964E-B2CA-18AC4EFB3384}
+      IID 87
+      NAME Kindle_03_0_75.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9D892FE-EF1C-FC4C-90EB-8DD03F3411E5}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_75.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.14108843542635
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6081F777-BD42-1A4A-9F54-EAE936E603A6}
+      IID 88
+      NAME Kindle_03_0_78.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23F5005C-F481-C242-8BD2-B7639C4B778C}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_78.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.19913832203019
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {008CE788-44EA-0E48-A153-E53E3537A25D}
+      IID 89
+      NAME Kindle_03_0_83.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB0D4593-8213-ED41-8FF5-97EB2903C30E}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_83.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.29201814054977
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DAC0F18-8FB3-3F42-9C72-1F4CA66DF08B}
+      IID 90
+      NAME Kindle_03_0_94.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE80BC6D-452D-004A-97AB-FD7C75A62686}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_94.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.32684807258192
+      SNAPOFFS 0
+      LENGTH 0.11609977324263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35FA0318-0554-8944-A8E7-27799B0984B0}
+      IID 91
+      NAME Kindle_03_0_100.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77ED0B0F-2524-2A4C-A51D-5BC2EBDD7E3C}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_100.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.4429478457896
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {375240F5-9DBF-174F-A12B-3662FC50C05F}
+      IID 92
+      NAME Kindle_03_0_102.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84DBC078-4FAC-8E41-8C63-1F8C763C2826}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_102.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.50099773239344
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFEFF061-B354-3448-89D9-CB90D0359B8C}
+      IID 93
+      NAME Kindle_03_0_128.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5087303E-10CF-3C4B-86C7-12C6AA2455AD}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_128.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.53580498869997
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DBF5BF1E-1422-1246-96C1-B398B391DAF0}
+      IID 94
+      NAME Kindle_03_0_131.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {939CE6DD-9276-6C46-9DF6-07ADAF9AE85B}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_131.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.5706349206157
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1738BF6-501D-B844-815F-BE337A485636}
+      IID 95
+      NAME Kindle_03_0_180.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44FFF9CF-9874-1A40-9E55-A5B732BA04FD}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_0_180.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.62868480721954
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9510A329-7654-0C47-9D54-463B7A815C5A}
+      IID 96
+      NAME Kindle_03_1_0.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {965E7F71-7411-DA40-A171-C377A7BB7853}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.76800453511532
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C533A5AE-048B-524E-A97B-DEBA038D4284}
+      IID 97
+      NAME Kindle_03_1_1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94B1A8CB-BDBA-4547-89DA-4079404E172B}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.90732426301111
+      SNAPOFFS 0
+      LENGTH 0.35990929705215
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {239B2F0A-2E89-564A-9775-732CDDC54FAB}
+      IID 98
+      NAME Kindle_03_1_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17043D19-C329-D047-A8DC-B52967953303}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.26723356009461
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {78BE14AE-FDFC-744C-9322-DC9B76457239}
+      IID 99
+      NAME Kindle_03_1_3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E12A8BF-F1F5-BE42-ADC0-C9373C39DA20}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.3368934240425
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AB7124D-9FBF-9840-AE98-7F23527373DF}
+      IID 100
+      NAME Kindle_03_1_38.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAB2609A-D79C-EC46-BB6D-DDB1852A5BA7}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_38.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.37172335595824
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E3340C2-F0A7-3445-B07D-98BD963C3A48}
+      IID 101
+      NAME Kindle_03_1_160.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B799534-2BCB-1D43-A078-908306314D62}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_160.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.41816326533444
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A371475-3A61-8843-919B-EE5CDC3E7130}
+      IID 102
+      NAME Kindle_03_1_163.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD2A977B-4D44-6242-B8DE-B6E9BF4CCCA4}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_163.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.45299319725018
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D17B899C-D6F7-494B-BC27-2A7F13AA7DFD}
+      IID 103
+      NAME Kindle_03_1_189.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD6C20E4-5CCB-1F43-9C09-2166D665E8DA}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_189.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.48782312928233
+      SNAPOFFS 0
+      LENGTH 0.220589569161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CC5F9F13-1E32-3147-AF19-0E9012F5F4DB}
+      IID 104
+      NAME Kindle_03_1_198.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E797BA08-764C-354D-930D-6F3298A575CF}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_198.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.70841269847006
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {056340DE-5F60-EA4C-A238-6EBD1C186888}
+      IID 105
+      NAME Kindle_03_1_199.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42AC5A28-E066-544D-8E42-48F6E1B75348}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_199.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.74324263038579
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A21F62E-78CB-4E43-B157-A2ECE43A0FD9}
+      IID 106
+      NAME Kindle_03_1_202.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A9A0221-1216-A746-8BAB-2DF893EAA388}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_202.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.77807256230153
+      SNAPOFFS 0
+      LENGTH 0.26702947845805
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDCC27D5-71E8-C44A-B55D-4E21A3F053D1}
+      IID 107
+      NAME Kindle_03_1_203.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BBB64BF-7CC0-4546-9FE0-88086FE0238A}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_203.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.04510204086546
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E11545D2-FE10-6045-9329-8FB0AB5D0192}
+      IID 108
+      NAME Kindle_03_1_206.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AB7526B-DD2E-8940-A965-CE95A04A93C6}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_206.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.12637188204098
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {185EFE37-A97F-5B4E-96D5-BD7F7ED72C7D}
+      IID 109
+      NAME Kindle_03_1_210.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05D7EF15-875F-5A49-932A-6304569D2E33}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_210.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.18442176876124
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {193B7D24-6E30-2B4F-A8FB-F1E5CA7C81DF}
+      IID 110
+      NAME Kindle_03_1_227.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8F969CFE-8845-5744-ADDA-8B10C3E65669}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_227.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.23086167802103
+      SNAPOFFS 0
+      LENGTH 0.18575963718821
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E7E718BC-9AE1-A048-B366-CBC11A6813BE}
+      IID 111
+      NAME Kindle_03_1_228.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D3B03F8-92B4-4142-8B9A-6C6C4EE35CA2}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_228.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.4166213151766
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D26804F-A79B-ED47-A2EC-F2FA9201E56C}
+      IID 112
+      NAME Kindle_03_1_230.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {640AF887-8F04-4446-852F-B23F42A2C683}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_230.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.45145124720875
+      SNAPOFFS 0
+      LENGTH 0.24380952380952
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DF8A8C3-E91B-394B-AA4E-90C50B2C6101}
+      IID 113
+      NAME Kindle_03_1_233.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63A098D4-55C6-BA42-8D1F-EE967911E98D}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_233.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.69526077096816
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7060BBF6-E8B1-B140-883A-0BA648E57A28}
+      IID 114
+      NAME Kindle_03_1_239.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D17BE08F-970F-5F47-A3D6-5D33767D855D}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_239.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.74170068022795
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFCCEFA4-10E6-5E45-A5E0-CA4D28742E78}
+      IID 115
+      NAME Kindle_03_1_242.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {93AE51B5-D32F-ED4A-9834-01E2AFBBF651}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_242.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.78814058960415
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F74AEC5D-9521-6043-92E5-9742DCBD515C}
+      IID 116
+      NAME Kindle_03_1_246.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC49F066-9A0C-E641-91FC-BF3F0E6092C1}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_246.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.84619047620799
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BBA6D23-852D-3340-A474-C558B26E7BA7}
+      IID 117
+      NAME Kindle_04_8_58.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9081CEAA-1C52-5F48-AA85-427678ABFFF4}
+      <SOURCE WAVE
+        FILE "media/Kindle_04_8_58.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.89263038546778
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75AB641C-4D39-CF4F-ADE8-EEE059A6449F}
+      IID 118
+      NAME Kindle_04_8_119.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F29E335-15B6-704F-95BE-9CE478113EE6}
+      <SOURCE WAVE
+        FILE "media/Kindle_04_8_119.wav"
+      >
+    >
+    <ITEM
+      POSITION 31.92748299322557
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA0BE54A-A2A8-4344-B31A-E5046BDB6F2B}
+      IID 119
+      NAME Kindle_04_8_264.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94B2DCB2-9821-D845-AA55-F9D6F6BE4E4D}
+      <SOURCE WAVE
+        FILE "media/Kindle_04_8_264.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.00875283451751
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFB43A2C-1625-0248-B652-209413F55046}
+      IID 120
+      NAME Kindle_04_8_283.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A70BB2BF-5E25-8B4C-96CC-0A580CCAFCFA}
+      <SOURCE WAVE
+        FILE "media/Kindle_04_8_283.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.04358276643325
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8D374C2-37C9-624C-A2C3-48B64346BC78}
+      IID 121
+      NAME Kindle_04_8_349.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFB19B9E-0704-A844-8AB2-9256A16DB0F0}
+      <SOURCE WAVE
+        FILE "media/Kindle_04_8_349.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.0784126984654
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E80CF1F9-3654-E348-9E83-D3CBC896D3B0}
+      IID 122
+      NAME Kindle_04_8_352.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4F90EB9-0D0F-0C47-9E33-F77B7983B27A}
+      <SOURCE WAVE
+        FILE "media/Kindle_04_8_352.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.11324263038114
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F182755-AD59-D445-B99F-CBB3957000B8}
+      IID 123
+      NAME Kindle_04_8_408.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E92C14F-6321-024E-B6E7-0C5AB07511E2}
+      <SOURCE WAVE
+        FILE "media/Kindle_04_8_408.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.17129251698498
+      SNAPOFFS 0
+      LENGTH 0.17414965986395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {499FAF3A-5757-494C-9A9C-2BD76923D724}
+      IID 124
+      NAME Mouse_02_1_3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F02C7C0B-5021-9548-8A4E-16F5187900AE}
+      <SOURCE WAVE
+        FILE "media/Mouse_02_1_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.34544217691291
+      SNAPOFFS 0
+      LENGTH 1.04489795918367
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC2803E6-8A82-DC41-9032-5D9C9BAF38CD}
+      IID 125
+      NAME Mouse_02_1_4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBA1C8A9-BBCC-7141-A52B-8A6260B529B2}
+      <SOURCE WAVE
+        FILE "media/Mouse_02_1_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.39034013601486
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77906F62-0393-0B42-857C-73E0EEEFFFCA}
+      IID 126
+      NAME Mouse_02_1_6.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C327E07-0751-E844-BA74-7F95BDFFAD57}
+      <SOURCE WAVE
+        FILE "media/Mouse_02_1_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.59931972785853
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7FAC409-BE52-2B4C-A9E3-1C52B42F0BB6}
+      IID 127
+      NAME Mouse_02_1_7.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EABC9BBF-CED1-4F44-A0C0-AECEBA4EBB14}
+      <SOURCE WAVE
+        FILE "media/Mouse_02_1_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.69219954649452
+      SNAPOFFS 0
+      LENGTH 11.38938775510204
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8CA3505-C71B-A14A-8FA6-72EFD7B70579}
+      IID 128
+      NAME "WD Hard Drive_02_0_1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6293513A-8539-7347-A84F-6D67139EC26B}
+      <SOURCE WAVE
+        FILE "media/WD Hard Drive_02_0_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 45.0815873015672
+      SNAPOFFS 0
+      LENGTH 7.40716553287982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5908B101-5B21-6B4D-BFE1-BF99CCF10DA6}
+      IID 129
+      NAME "WD Hard Drive_02_0_14.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A254B3C1-B34C-A74E-BA01-5403C45378E3}
+      <SOURCE WAVE
+        FILE "media/WD Hard Drive_02_0_14.wav"
+      >
+    >
+    <ITEM
+      POSITION 52.48875283449888
+      SNAPOFFS 0
+      LENGTH 8.88163265306122
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A62D498-01BD-E645-AB77-E0F443BE87D8}
+      IID 130
+      NAME "WD Hard Drive_02_0_16.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D9783D9-582F-564C-93D2-A12E03E3BF5C}
+      <SOURCE WAVE
+        FILE "media/WD Hard Drive_02_0_16.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.37038548756391
+      SNAPOFFS 0
+      LENGTH 0.42956916099773
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB10C53A-3C60-5347-8A33-9A2E709F414A}
+      IID 131
+      NAME "WD Hard Drive_02_0_17.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFA71CBB-29CC-0344-94B9-7C328BDC818C}
+      <SOURCE WAVE
+        FILE "media/WD Hard Drive_02_0_17.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.79995464847889
+      SNAPOFFS 0
+      LENGTH 7.54648526077098
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {839F3509-0B65-F949-9DAD-30FF308D7369}
+      IID 132
+      NAME "WD Hard Drive_02_0_27.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {512E24F1-B40B-054C-B527-BE8630AED3FA}
+      <SOURCE WAVE
+        FILE "media/WD Hard Drive_02_0_27.wav"
+      >
+    >
+    <ITEM
+      POSITION 69.34643990930635
+      SNAPOFFS 0
+      LENGTH 0.41793650793651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFDC8636-8871-4540-914D-3CD0125971FC}
+      IID 133
+      NAME "Xbox Controller_01_1_0.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A9E6D4F-246B-1547-97BA-C23297AF3238}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 69.76437641726807
+      SNAPOFFS 0
+      LENGTH 2.12462585034014
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAFDD96D-3327-A442-9CF5-0DCEA1E1DB1E}
+      IID 134
+      NAME "Xbox Controller_01_1_2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50641E82-916F-8840-98F5-E672127A12F1}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 71.88900226762053
+      SNAPOFFS 0
+      LENGTH 4.44662131519274
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7D8A19B-34D8-D445-B5A7-036D698AD49D}
+      IID 135
+      NAME "Xbox Controller_01_1_7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB8F09ED-1A1E-9644-81E0-813779049EE9}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 76.33562358270865
+      SNAPOFFS 0
+      LENGTH 2.49614512471655
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28634EBE-E9C4-2548-8768-FDA36EA4D933}
+      IID 136
+      NAME "Xbox Controller_01_1_12.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E9CFDAC-9B17-D147-B9BD-A059530117E7}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 78.83176870748866
+      SNAPOFFS 0
+      LENGTH 1.89242630385488
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77C2858C-EEC9-C246-B350-4241CB3D1C0F}
+      IID 137
+      NAME "Xbox Controller_01_1_62.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42690B2F-FCBA-254B-823E-A4CFD95C47D4}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_62.wav"
+      >
+    >
+    <ITEM
+      POSITION 80.72419501130935
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B595795-9D57-9441-83DE-F90C11CC3480}
+      IID 138
+      NAME "Xbox Controller_01_1_63.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15D669A4-F96C-0F46-AFFA-F2F4592B8DAC}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_63.wav"
+      >
+    >
+    <ITEM
+      POSITION 80.95639455784112
+      SNAPOFFS 0
+      LENGTH 1.03328798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {606CE238-6AF3-DE46-8361-C70207772FD4}
+      IID 139
+      NAME "Xbox Controller_01_1_64.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05F21480-F1D8-9645-A881-77C2E8BBB252}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_64.wav"
+      >
+    >
+    <ITEM
+      POSITION 81.98968253971543
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABE56AFE-65C9-1540-9F58-139402898BAB}
+      IID 140
+      NAME "Xbox Controller_01_1_65.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B67B4257-7FB1-4045-A54F-FA74B6DDA7A2}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_65.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.08256235823501
+      SNAPOFFS 0
+      LENGTH 0.15092970521542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {47F887CD-4D44-C347-B3A5-C6B249EC6152}
+      IID 141
+      NAME "Xbox Controller_01_1_66.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4FFECB0B-06CD-3244-A5DE-91C7E1CAF59A}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_66.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.23349206347484
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65A24971-602A-A34A-81EA-68887F54233C}
+      IID 142
+      NAME "Xbox Controller_02_0_0.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B8CAFCD-AAFC-D644-A21A-5A9EC88654DC}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.31476190476678
+      SNAPOFFS 0
+      LENGTH 0.33668934240363
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0FE9A708-2D49-4644-AAAB-96754DD275A5}
+      IID 143
+      NAME "Xbox Controller_02_0_1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EC9E28F-D5D9-6443-A66B-61A4EE83AD1D}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.65145124716219
+      SNAPOFFS 0
+      LENGTH 0.12770975056689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36D3F31A-D7D6-3D44-8642-A10D0278BEBD}
+      IID 144
+      NAME "Xbox Controller_02_0_2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA8BC5BD-4670-EB4C-8C47-D21AE1A6502D}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.77916099771392
+      SNAPOFFS 0
+      LENGTH 0.37151927437642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BED07A63-1B89-2748-A642-14E68F62D8FE}
+      IID 145
+      NAME "Xbox Controller_02_0_3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7B2140F-FCD3-5F4A-8EED-A8C38EC7F05A}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 83.15068027214147
+      SNAPOFFS 0
+      LENGTH 1.07972789115646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F43651B-6653-824A-A0F1-4580585696CD}
+      IID 146
+      NAME "Xbox Controller_02_0_4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00EF3EDA-03AA-CA4E-93B1-76136C9C8EA0}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 84.23040816327557
+      SNAPOFFS 0
+      LENGTH 0.441179138322
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6AA1A7DD-6C04-8E4B-BDCC-61493D68E349}
+      IID 147
+      NAME "Xbox Controller_02_0_5.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21394CDE-35E1-8E42-94C9-D96FA6040329}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 84.6715873015346
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0439564E-527F-F443-BC1A-BB19904FA6EA}
+      IID 148
+      NAME "Xbox Controller_02_0_6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFA91903-4BE5-604F-89D5-84DC446A69C9}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 84.74124716548249
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1D22FD5-CD6C-0F42-8ABD-C4256E20DCF3}
+      IID 149
+      NAME "Xbox Controller_02_0_7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7134C6A3-D315-584C-9D8B-3B3C147FB5E9}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 85.04310657596216
+      SNAPOFFS 0
+      LENGTH 0.60371882086168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1084B3B3-7F33-394B-986A-C83A8415439F}
+      IID 150
+      NAME "Xbox Controller_02_0_8.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {314B7897-BF26-1C4E-988F-51B9E99EE11D}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 85.64682539680507
+      SNAPOFFS 0
+      LENGTH 0.17414965986395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF4F66CE-B175-214A-ABF5-068C41AA7555}
+      IID 151
+      NAME "Xbox Controller_02_0_10.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A3F3E23-EEC1-E242-828E-101CEFDA4EB3}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 85.820975056733
+      SNAPOFFS 0
+      LENGTH 0.29024943310658
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5729F113-C59B-FF43-B570-9BCB70BE959E}
+      IID 152
+      NAME "Xbox Controller_02_0_11.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A72FB775-C75D-1847-ACD5-E1E8F577D4A4}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_11.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.1112244897522
+      SNAPOFFS 0
+      LENGTH 0.9752380952381
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CB725ED-06F2-374D-B374-75A76C88494D}
+      IID 153
+      NAME "Xbox Controller_02_0_12.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6131F711-7A84-B34B-838F-267C46D4FD76}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 87.08646258502267
+      SNAPOFFS 0
+      LENGTH 18.5643537414966
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C27256AA-E037-0340-AA54-3AD414821C84}
+      IID 154
+      NAME "Xbox Controller_02_0_87.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DD07A5B-C00C-9D40-B206-622E7C0A0D1D}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_87.wav"
+      >
+    >
+    <ITEM
+      POSITION 105.65081632649526
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {275E0AC9-3A27-884B-ADA3-6393F3342060}
+      IID 155
+      NAME "Xbox Controller_02_0_90.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {790BDCF7-1405-504C-AE7F-A7209D87A3E2}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_90.wav"
+      >
+    >
+    <ITEM
+      POSITION 105.72047619044315
+      SNAPOFFS 0
+      LENGTH 4.04027210884354
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8BEC7B4-4044-6D43-BF07-9439808B99AB}
+      IID 156
+      NAME "Xbox Controller_03_0_3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70CFB045-3B4C-AF46-BFD7-92392F852F9C}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 109.7607482993044
+      SNAPOFFS 0
+      LENGTH 3.12308390022676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3E0A7943-84ED-F744-8EA1-1345E7B781E2}
+      IID 157
+      NAME "Xbox Controller_03_0_7.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D919CDDA-49CC-A649-AFC7-EC063E54D1E9}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.88383219949901
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87E36F8F-7850-9740-A6E6-7A0D3AB796C0}
+      IID 158
+      NAME "Xbox Controller_03_1_43.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85C72089-9690-744F-BC0D-FDD0A1414CCC}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_43.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.94188208621927
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {30378C87-7906-2841-B3EA-B79EFA25DCB8}
+      IID 159
+      NAME "Xbox Controller_03_1_50.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FE4DD8E-D201-7844-AEEF-82415323DD2E}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_50.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.976712018135
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA0E8954-8C5F-1848-A736-B89E3111041C}
+      IID 160
+      NAME "Xbox Controller_03_1_64.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F7371D5-4EE0-BC47-8B06-BBB49CE3C2FE}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_64.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.01154195016716
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C1C44A87-9991-AD48-9737-9E520871DD3F}
+      IID 161
+      NAME "Xbox Controller_03_1_84.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A97CDF9A-5508-C443-8C13-2426EED63900}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_84.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.05798185942695
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C380F7D-591B-4C48-B490-AF059552F49D}
+      IID 162
+      NAME "Xiamo Note 4X_01_1_6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE17C52B-0934-674D-BDF7-34CE8D99B29D}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.09278911561705
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BCA1488-A656-FD48-A351-D6EEB2428299}
+      IID 163
+      NAME "Xiamo Note 4X_01_1_10.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38369B75-8150-0F44-B87A-89A9A8DC7D8C}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.1276190476492
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79EF121F-6849-8347-AC76-12C5CE92584C}
+      IID 164
+      NAME "Xiamo Note 4X_01_1_12.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A5114E4-643A-7E45-87C3-755096210079}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.16244897956494
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {748CE797-E2AD-5C4E-B56E-ADE35ABB4119}
+      IID 165
+      NAME "Xiamo Note 4X_01_1_14.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {086583C0-4A50-5345-B39F-075DF30BD25F}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_14.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.1972789115971
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08E06551-3602-0C43-8F13-DC7DE5FFD5F5}
+      IID 166
+      NAME "Xiamo Note 4X_01_1_16.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF172116-F839-A14A-94EF-61DA3C752DA6}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_16.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.26693877554499
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05F13D8E-6A79-CE4B-B455-E689A00D05A5}
+      IID 167
+      NAME "Xiamo Note 4X_01_1_19.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40C4A2B6-40BD-154E-B5D6-48C302C8B1E5}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_19.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.30176870746072
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA4222DD-30BC-CA4D-A039-8571D7668C26}
+      IID 168
+      NAME "Xiamo Note 4X_01_1_21.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49CDF091-0E91-F841-A04C-644593CCDF33}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_21.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.33659863949288
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {163AFD1C-A2A3-3C4D-9759-3BF3FEFD7064}
+      IID 169
+      NAME "Xiamo Note 4X_01_1_25.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E1EE479-E12E-4342-BF06-3E4822512FA5}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_25.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.40625850344077
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BAAFF8FB-D60A-4E48-A55E-9D5DF5DD13FD}
+      IID 170
+      NAME "Xiamo Note 4X_01_1_39.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBD4A7DA-9D94-4245-AA74-E0D9576B98F4}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_39.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.45269841270056
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12E4E74D-0DAB-0B44-B540-699C0E309523}
+      IID 171
+      NAME "Xiamo Note 4X_01_1_40.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D174EE19-B99A-494E-B2C4-7C0F288B76F4}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_40.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.48752834461629
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20650B04-2347-4748-8FB2-791EC2783A6D}
+      IID 172
+      NAME "Xiamo Note 4X_01_1_43.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E3A3DF2-8C2E-1A42-9CB6-0C15F0BF3185}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_43.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.52235827664845
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4517098A-0A88-E24F-A7BD-8A9111F90E09}
+      IID 173
+      NAME "Xiamo Note 4X_01_1_49.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60EA0DD4-7B5D-A14C-9867-B2218E1D35F8}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_49.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.59201814059634
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8533F528-BC23-5043-B2D1-8BDFC462A63E}
+      IID 174
+      NAME "Xiamo Note 4X_01_1_51.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55DB9677-91D6-2D42-B02E-7C5F2FBFAE01}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_51.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.62684807251208
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E68DF6E-EAB5-AF40-A216-604B0821C54F}
+      IID 175
+      NAME "Xiamo Note 4X_01_1_70.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C63A018C-C59C-A043-B085-4E57EB6A799B}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_70.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.66167800454423
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F389C5A7-F68F-BB4B-BE29-E7A71B1E3E4F}
+      IID 176
+      NAME "Xiamo Note 4X_01_1_85.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F0F3DF4-640D-E04F-9C70-DA65930340DB}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_85.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.73133786849212
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B66E6FC0-C1E2-3948-AB38-C63C25768B9D}
+      IID 177
+      NAME "Xiamo Note 4X_01_1_93.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBF927CA-F0B6-7A40-B6FF-90798AE6235A}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_93.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.76616780040786
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE3CC1A8-540E-344C-82AA-2F2E1DE4BF6F}
+      IID 178
+      NAME "Xiamo Note 4X_01_1_97.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9E13AC3-5714-8748-8980-3E8AB3E2C41C}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_97.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.81260770978406
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E11935DC-F2C7-9B48-89BB-21F9B2B61345}
+      IID 179
+      NAME "Xiamo Note 4X_01_1_107.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E5166CB-B2CA-DE48-AA98-A006020B2BA9}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_107.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.8474376416998
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DBFAD46D-A9E0-4242-ABC1-D09E019FCAC6}
+      IID 180
+      NAME "Xiamo Note 4X_01_1_115.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42E9B715-C704-0D4F-B897-0731BB3F7E87}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_115.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.88226757373195
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E164C43-2376-0746-AA66-2FD34E738437}
+      IID 181
+      NAME "Xiamo Note 4X_01_1_117.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {170D8AA3-7DDB-634D-A837-9E06C842E542}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_117.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.92870748299174
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F98BD61C-AFB2-B14E-AEC1-BBD3D8BC3031}
+      IID 182
+      NAME "Xiamo Note 4X_01_1_119.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACF10185-88BD-2342-8FAC-439C6D98ADE3}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_119.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.98675736959558
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D83D1E3B-8FCD-6443-9244-971DA5115850}
+      IID 183
+      NAME "Xiamo Note 4X_01_1_179.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {232AAA46-E8B7-7841-8EF4-3A8C4C50FD51}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_179.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.02158730162773
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17EA6A50-F9D7-324A-9866-73E87E6BF791}
+      IID 184
+      NAME "Xiamo Note 4X_01_1_191.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBD19831-F046-A949-ADCE-B7EE72656ACB}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_191.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.05641723354347
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B9E4925-2D15-074B-85EF-3E4B887896E1}
+      IID 185
+      NAME "Xiamo Note 4X_01_1_196.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3107536-762C-5B4B-951B-6B03EE7B7FFD}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_196.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.09124716557562
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {438CDEC6-04CC-4449-A80F-9982BE03FD52}
+      IID 186
+      NAME "Xiamo Note 4X_01_1_199.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACAF779D-B057-E045-B584-3359015FAD31}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_199.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.12607709749136
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C559001-2EF3-B143-AAA5-C6469179FD0E}
+      IID 187
+      NAME "Xiamo Note 4X_01_1_203.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {063B9EF3-F908-024C-A61E-0C676F625C8D}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_203.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.16090702952351
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E0E2099-458F-1F42-81FA-CE2A53DCD8E6}
+      IID 188
+      NAME "Xiamo Note 4X_01_1_211.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A273BCA4-E14A-914A-B03B-4A21202ED1A7}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_211.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.19573696143925
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B6622D3-BB2B-0540-85F9-5F247E8C9E0F}
+      IID 189
+      NAME "Xiamo Note 4X_01_1_214.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDF6E0EE-83E2-0140-8646-C360F6531E95}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_214.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.2305668934714
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F5B7DFD-0696-B24D-9960-523FE1224B15}
+      IID 190
+      NAME "Xiamo Note 4X_01_1_225.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C4405A7-CFDC-2E47-BA36-CC2B05C6A082}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_225.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.26539682538714
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3A6ACCA6-5345-E348-8487-03E33A3DEA5B}
+      IID 191
+      NAME "Xiamo Note 4X_01_1_227.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4450306-6541-EC49-9DDA-A2018E2554DB}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_227.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.3002267574193
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A548F8E1-E387-A44C-88BF-9EE79DFE4694}
+      IID 192
+      NAME "Xiamo Note 4X_01_1_229.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4966D863-8B36-A049-8283-43F51409BC74}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_229.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.33505668933503
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38251C52-D434-F24E-BA50-6BE52A6490A0}
+      IID 193
+      NAME "Xiamo Note 4X_01_1_231.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {960ED62A-6D56-7E4A-9AC8-2FD04C5939E9}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_231.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.36988662136719
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44D75843-C465-4F4E-B1EA-E031A246B19E}
+      IID 194
+      NAME "Xiamo Note 4X_01_1_234.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D688C392-F02D-6D4D-B42A-9FBCE686A6B5}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_234.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.40471655328292
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF954ABB-8E60-E242-B0A8-5CB76A7A60A8}
+      IID 195
+      NAME "Xiamo Note 4X_01_1_236.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10FDD1C5-90D2-9B4B-9F7D-6DCC6CED879C}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_236.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.43954648531508
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3998DD37-2198-1448-ACA1-94038F5DC559}
+      IID 196
+      NAME "Xiamo Note 4X_01_1_238.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B21CF1B7-FD86-E449-97FE-77F5140D1375}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_238.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.47437641723081
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27296B21-42DF-8A4F-A0F7-03FE3D8D9F9D}
+      IID 197
+      NAME "Xiamo Note 4X_01_1_242.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A47B267B-6FAA-B046-8042-9539B9EB9AA2}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_242.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.50920634926297
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6EEAE704-EDA2-CB49-813D-44751ACF414E}
+      IID 198
+      NAME "Xiamo Note 4X_01_1_255.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D325AC9-EDE8-7F41-8C69-E48D764BFE4F}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_255.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.54403628117871
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C45F530-C5A3-0D42-9AB0-50719085F16C}
+      IID 199
+      NAME "Xiamo Note 4X_01_1_256.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0265C99D-BA63-4D42-B9B9-568478222671}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_256.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.59047619043849
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46C6170A-4968-F144-8CCB-C1A077D7FFC3}
+      IID 200
+      NAME "Xiamo Note 4X_01_1_258.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29C638EE-444D-EF41-A3FA-0723C609162B}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_258.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.6369160998147
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FB5D4759-4C36-AF45-A672-DD1E204209E8}
+      IID 201
+      NAME "Xiamo Note 4X_01_1_261.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F5B80D6-343F-D04F-BE8E-DA77FA53B1A8}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_261.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.67174603173044
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94811A23-A95E-104B-B813-E0B54A9457D2}
+      IID 202
+      NAME "Xiamo Note 4X_01_1_264.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50C44F5B-C694-AF4A-A2D9-75D4060F0853}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_264.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.70657596376259
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BEAAB86-53C3-AD44-810C-A8025689BC03}
+      IID 203
+      NAME "Xiamo Note 4X_01_1_266.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C19A380E-C0F9-4540-B8ED-6868C479B065}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_266.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.74140589567833
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F1E1B40-B890-EC46-BFB2-6D35ABB29DF3}
+      IID 204
+      NAME "Xiamo Note 4X_01_1_268.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC466694-A207-3940-B5CD-AAADEEFA9533}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_268.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.77623582771048
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D94A5764-E136-3243-BE1F-9AAB66C63066}
+      IID 205
+      NAME "Xiamo Note 4X_01_1_271.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83EAD0F1-21AF-2A41-8DE2-6C546A1BA3AC}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_271.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.81106575962622
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {673BA923-548B-F340-B8BB-7EFC86D3F449}
+      IID 206
+      NAME "Xiamo Note 4X_01_1_273.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19D6CC7A-887D-AA43-B6AA-9E0021975594}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_273.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.84589569165837
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {915665C0-D902-D845-B6BD-04094AB6E614}
+      IID 207
+      NAME "Xiamo Note 4X_01_1_275.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B50D1BDF-FBDC-9448-ABD9-FB7D1B9DEB4C}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_275.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.88070294784848
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FEAC4CB2-5319-D248-B411-56E6AD94ABBC}
+      IID 208
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9817D8A-EDDC-0A4B-AA8F-1818B36BE885}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.91555555560626
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD716AD9-9E36-604A-B4D1-F0AF21F141F6}
+      IID 209
+      NAME "Xiamo Note 4X_01_1_283.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFAAF060-4212-F94B-8499-41F6D42F42D0}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_283.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.950385487522
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7F8F19E-7629-9B42-ADFB-46FB43FBEF70}
+      IID 210
+      NAME "Xiamo Note 4X_01_1_284.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F71B020-8498-004D-A3DB-3F939223E770}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_284.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.99682539678179
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BE2502E-AD3C-8243-B930-2A344BB323B2}
+      IID 211
+      NAME "Xiamo Note 4X_01_1_285.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {550E2D2D-E5DD-344C-8FD5-6FEEABD4091D}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_285.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.03165532881394
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {349AF600-8CC9-3A4C-8801-51E708E4A6C4}
+      IID 212
+      NAME "Xiamo Note 4X_01_1_287.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E844CCCE-FE1E-324E-872C-75C99470ACFF}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_287.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.06646258500405
+      SNAPOFFS 0
+      LENGTH 0.04646258503401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2ED4A15D-181D-4042-85AF-1463370CC813}
+      IID 213
+      NAME "Xiamo Note 4X_01_1_288.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17732AE0-8CD6-FD46-8858-19E3BAFD90B0}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_288.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.11292517010588
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7CA8D95-777F-B944-A9BB-A6D9C10E388C}
+      IID 214
+      NAME "Xiamo Note 4X_01_1_289.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44FF2BDD-7E43-1943-94CB-E8FDBFB0912F}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_289.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.14775510202162
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD023448-3DF5-EE42-8C24-824F11F8B555}
+      IID 215
+      NAME "Xiamo Note 4X_01_1_294.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5344E8D6-DDE2-1A46-B6CE-1E1D99558E5A}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_294.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.21741496596951
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C2CD755-A5F6-304E-A1E2-1C335135470F}
+      IID 216
+      NAME "Xiamo Note 4X_01_1_296.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {254F646E-2B36-0D4F-A340-771D6AEBC1B8}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_296.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.25224489800166
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BEE70EB0-F8D3-E94E-BFC0-61743A7FEA90}
+      IID 217
+      NAME "Xiamo Note 4X_01_1_298.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6476660D-C3A8-0E41-A7DF-EC893FA7CF99}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_298.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.32190476194955
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1090A3AF-1285-3346-BDAA-87ABF219EE55}
+      IID 218
+      NAME "Xiamo Note 4X_01_1_300.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E4C4CC0-E281-E148-8D95-DC3B676EF271}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_300.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.35673469386529
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A0FAFD2-9042-AC49-A4F3-A0251BDFB58B}
+      IID 219
+      NAME "Xiamo Note 4X_01_1_302.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C73AAEA7-A3AD-EE44-A959-5690F50799FD}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_302.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.42639455781318
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F2E8A831-E4B9-4A45-B4CF-819B1B193FD8}
+      IID 220
+      NAME "Xiamo Note 4X_01_1_304.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46FA8775-9923-D34D-8393-FFA3CF78378F}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_304.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.49605442176107
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {901A329A-ED66-C944-BC0C-4F0A24199948}
+      IID 221
+      NAME "Xiamo Note 4X_01_1_306.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20B7FA63-BCDD-4847-8FA3-9077D1A8629B}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_306.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.57732426305301
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22B952AB-7A50-2A44-8A8A-E5F19BD0CEEE}
+      IID 222
+      NAME "Xiamo Note 4X_01_1_307.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8D1BB1E-9E91-C941-BD45-B980E6A58907}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_307.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.65859410434496
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F607090-CB66-D845-A684-C33DCEDA7D78}
+      IID 223
+      NAME "Xiamo Note 4X_01_1_308.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4ED861BB-4256-6042-8C33-D8B2B195EBF8}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_308.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.69342403626069
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F1F19B4-4C14-0B41-9392-41E15ECDB8D0}
+      IID 224
+      NAME "Xiamo Note 4X_01_1_310.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1BA2270A-6C0D-F14A-BCB3-597F1AABFAEA}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_310.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.72825396829285
+      SNAPOFFS 0
+      LENGTH 0.04641723356009
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {74C6642B-5486-D74C-8F71-6B2986CEFD67}
+      IID 225
+      NAME "Xiamo Note 4X_01_1_311.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0AE0E94-3C23-2C44-96AD-EBC01480BB43}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_311.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.774671201827
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C6212B2-2CF0-4841-8697-24963B5BC3D1}
+      IID 226
+      NAME "Xiamo Note 4X_01_1_312.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61133A4F-0398-4E46-A3D2-9534E32980E5}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_312.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.80952380946837
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {83B16DA8-3F26-594C-8071-CF63467F19D0}
+      IID 227
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58B4D70E-329B-0F42-BE8B-B233EF86DE9A}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.84435374150053
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4FEAFC98-BAC2-F340-BA22-50D045A0F765}
+      IID 228
+      NAME "Xiamo Note 4X_01_1_315.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69FC697C-D6D9-9343-92F8-BF2B6D3FCFCA}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_315.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.92562358279247
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C2CFAE9-B9BC-0440-A43B-C60AFB4F2FA1}
+      IID 229
+      NAME "Xiamo Note 4X_01_1_316.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48DD3E0D-403E-DB47-AE65-D53D3EE38EF5}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_316.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.96045351470821
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {074363D6-D408-3B44-9686-CD2358986C5C}
+      IID 230
+      NAME "Xiamo Note 4X_01_1_318.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {585DEFC8-FF6C-444E-979A-116FF7A64125}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_318.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.99528344674036
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F6EA0F04-F3B6-0E42-A3E9-D9E1F6EA3CF1}
+      IID 231
+      NAME "Xiamo Note 4X_01_1_320.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F7D57BA-219E-1A48-8CC9-306AE86ADCBC}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_320.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.0301133786561
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8FD44D75-B5E1-9B47-9AAD-8AB465FBE077}
+      IID 232
+      NAME "Xiamo Note 4X_01_1_322.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1384BB9E-63A5-9447-A1D3-520618BADDF8}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_322.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.06494331068825
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3ADC169C-060D-CA49-8191-5B58F060B36B}
+      IID 233
+      NAME "Xiamo Note 4X_01_1_324.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F52DD3CD-B541-A54C-97B3-026581918883}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_324.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.09977324260399
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A6A70565-9881-C54C-AC09-7E448D56862E}
+      IID 234
+      NAME "Xiamo Note 4X_01_1_326.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB5F8414-00A8-E645-A3FD-573F7C8B7FB7}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_326.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.13460317463614
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BE824BC-66F4-9048-9529-4F3A5767452B}
+      IID 235
+      NAME "Xiamo Note 4X_01_1_328.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7641E0C-A77D-6D49-A078-5F6FD0002D0C}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_328.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.16943310655188
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3DF09CA-3603-EE4D-B8D4-D2E369288C75}
+      IID 236
+      NAME "Xiamo Note 4X_01_1_331.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6861DCB0-6408-D643-9D3F-3550EC774936}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_331.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.25070294784382
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05918798-8575-8C4B-AE04-69F7E75439A4}
+      IID 237
+      NAME "Xiamo Note 4X_01_1_333.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BA482F8-6EDE-9B49-8BF9-A4FA5F35076B}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_333.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.28553287987597
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D0D4ABC-4DC0-3B44-B978-5733DAD7C8AC}
+      IID 238
+      NAME "Xiamo Note 4X_01_1_337.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D08B0CF9-D3FF-E842-88B7-0FF3CA763843}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_337.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.32036281179171
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF34FAEE-BB7E-804C-9CEF-8770BF90E8DF}
+      IID 239
+      NAME "Xiamo Note 4X_01_1_338.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC5E7134-CA65-384E-956F-D5CDA0F66B72}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_338.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.3668027210515
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CD80211-E6F9-924A-A1BE-FD00FA6DBB6E}
+      IID 240
+      NAME "Xiamo Note 4X_01_1_339.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CF28AB3-0E15-B446-9747-027794A8D37B}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_339.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.40163265308365
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04FCC0DF-2DC9-574B-AEC6-173D69D3CA67}
+      IID 241
+      NAME "Xiamo Note 4X_01_1_344.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1EF82FA-9F93-2E46-BB78-E70A2A9386A7}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_344.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.45968253968749
+      SNAPOFFS 0
+      LENGTH 0.11607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90D084B9-6893-0944-9BF8-92E7815BC972}
+      IID 242
+      NAME "Xiamo Note 4X_01_1_345.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E132D6E-00BF-994A-8856-A0060830EBC0}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_345.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.57575963716954
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {933D3A42-2E00-9E41-A5EF-2758E8D176BF}
+      IID 243
+      NAME "Xiamo Note 4X_01_1_347.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEA4AC37-63F0-BD4B-82D6-2CC94C1791BA}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_347.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.61058956920169
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E90F336-F009-BC46-B9F2-318359F069D0}
+      IID 244
+      NAME "Xiamo Note 4X_01_1_349.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E48D1356-D1EE-6540-B703-61D730EA5E15}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_349.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.66863945580553
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB4931B7-B4EC-9240-BA37-9C610CA7D195}
+      IID 245
+      NAME "Xiamo Note 4X_01_1_358.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B1F4FF7-4B2E-5C4C-B4F1-DECBDDDCECB0}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_358.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.71507936506532
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52AD4B40-AFB3-2041-8701-0885E50D7170}
+      IID 246
+      NAME "Xiamo Note 4X_01_1_362.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46A3D3C6-EF99-354D-944B-A7C22BCC3962}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_362.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.74990929709747
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3CB853D1-A8EE-2A42-B5D9-C8ABE970F2DE}
+      IID 247
+      NAME "Xiamo Note 4X_01_1_363.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44FB37EE-5724-4F47-8387-E5E3545C9B8E}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_363.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.79634920635726
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {345CB461-E80B-4045-A201-161A8BCD0F4D}
+      IID 248
+      NAME "Xiamo Note 4X_01_1_365.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA7914C0-39DC-4545-A938-1594839AA21C}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_365.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.831179138273
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B452F3F0-853D-5448-9FCE-9137D953E54B}
+      IID 249
+      NAME "Xiamo Note 4X_01_1_368.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {258E5A5D-21A7-124E-A7A7-5E2194A6D432}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_368.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.86600907030515
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {647604C3-5C26-8F49-8713-82B328C41AD5}
+      IID 250
+      NAME "Xiamo Note 4X_01_1_370.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A2E1B1D-05A9-3040-89FE-F7AE71A28AD1}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_370.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.90083900222089
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B3DEDE89-3FB0-794E-8C5B-92F939529FEB}
+      IID 251
+      NAME "Xiamo Note 4X_01_1_372.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A1E917A-F8D0-874E-8886-7E39C6CC08E3}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_372.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.93566893425304
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9FA09C94-A06F-B44B-A687-70E2AD2C8999}
+      IID 252
+      NAME "Xiamo Note 4X_01_1_373.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EB115E8-090D-9A49-AC37-C0A07F5B1571}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_373.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.98210884351283
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E16E6F74-ADB1-0A4E-8D95-869E5DFE1E5D}
+      IID 253
+      NAME "Xiamo Note 4X_01_1_374.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B890A84-2B68-EB4F-897A-E71F9B94D392}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_374.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.01693877554499
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F462B6F-CC83-3D49-95CF-22DF710FDAC0}
+      IID 254
+      NAME "Xiamo Note 4X_01_1_376.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD67DA6D-EFF0-AB4F-9591-E57E36E8A359}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_376.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.05176870746072
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F925EBC6-2A8D-5242-AC9D-574957D0B6E4}
+      IID 255
+      NAME "Xiamo Note 4X_01_1_377.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89935630-23DF-454E-A566-F9496AAE8216}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_377.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.09820861683693
+      SNAPOFFS 0
+      LENGTH 0.04646258503401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DE009B6-2A68-E44A-A6BE-C5BEB47E149D}
+      IID 256
+      NAME "Xiamo Note 4X_01_1_379.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C52E9F2E-1C2C-A64C-8AA2-B25AA2B39776}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_379.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.14467120182235
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {738428AD-4543-3044-B106-7A598B53BAF5}
+      IID 257
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60D01C34-EE44-174A-8432-7D37802A7AD4}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.17950113373809
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3129AD80-13CF-0E47-A410-33E5941E24FE}
+      IID 258
+      NAME "Xiamo Note 4X_01_1_381.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75639802-94A7-BD48-A177-090123FF780F}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_381.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.26077097503003
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20B512B5-BE61-0542-9FA9-FDA3DB0D9942}
+      IID 259
+      NAME "Xiamo Note 4X_01_1_382.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA099454-611D-E146-B17A-50D0B6E4F330}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_382.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.29560090706218
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {205C9D15-4BAC-7B49-8919-FB55F92225EB}
+      IID 260
+      NAME "Xiamo Note 4X_01_1_383.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D76B95CE-5C40-B640-8F70-68B7F64B97A4}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_383.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.34204081632197
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6402F1C-D41C-FA4D-BA45-A7264B5F7978}
+      IID 261
+      NAME "Xiamo Note 4X_01_1_384.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E44E5589-C326-BB4C-88CA-6EF42E6FED3F}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_384.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.37687074835412
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36BC3364-419B-F14A-AEAF-543255C00851}
+      IID 262
+      NAME "Xiamo Note 4X_01_1_391.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DEECF0A1-F0BD-9442-A7F9-9CCB0D3EDF5B}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_391.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.41170068026986
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDBC92F6-A004-6941-B834-5F5EBD9F06BE}
+      IID 263
+      NAME "Xiamo Note 4X_01_1_394.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52D3357D-1C9A-9D49-B40D-BC265B7B84A4}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_394.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.44650793645997
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BA7ECF2-7F88-CF48-AD0C-139734A455B9}
+      IID 264
+      NAME "Xiamo Note 4X_01_1_397.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A8A2593-7495-424B-9601-6A0CEB6F6628}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_397.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.48133786849212
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {61A306B4-4AEA-2048-9929-11ABDA18D5D4}
+      IID 265
+      NAME "Xiamo Note 4X_01_1_399.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2632F26-7674-CE49-835B-5D27A1177285}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_399.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.53938775509596
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BCBA113E-7D25-7D47-A138-88AFDAA60563}
+      IID 266
+      NAME "Xiamo Note 4X_01_1_401.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E4B0AF7-70D2-804F-85B5-858B2F252A97}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_401.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.5974376416998
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8A057E2-86BB-2845-ACDA-B60EA298F60E}
+      IID 267
+      NAME "Xiamo Note 4X_01_1_402.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8F1DAA2-6DBB-A24D-A425-44BF790CC587}
+      <SOURCE WAVE
+        FILE "media/Xiamo Note 4X_01_1_402.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>
