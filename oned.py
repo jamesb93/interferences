@@ -24,8 +24,7 @@ process.add(
     mfcc,
     stats,
     umap,
-    normalise
-)
+    normalise)
 
 if __name__ == "__main__":
     process.run()
