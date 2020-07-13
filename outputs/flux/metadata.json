@@ -1,0 +1,17 @@
+{
+    "analyser": {
+        "0_Flux": {
+            "name": "Flux",
+            "windowsize": 1024,
+            "hopsize": 512
+        },
+        "1_Stats": {
+            "name": "Stats",
+            "numderivs": 0,
+            "flatten": true
+        }
+    },
+    "time": "17:52:40 | July 04, 2020",
+    "commit_hash": "704aec8075bd5937a61b781fa873d5fb5a642442",
+    "io": "['reaper/highgain_source/bounces', 'Flux', 'Stats']"
+}
