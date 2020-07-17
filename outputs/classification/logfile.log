@@ -1,0 +1,9 @@
+2020-07-14 14:56:37,499 : DEBUG : ftis.process : Logging initialised
+2020-07-14 14:56:37,513 : DEBUG : ftis.process : Flux: Initiating
+2020-07-14 14:56:45,641 : DEBUG : ftis.process : Flux: Ran Successfully
+2020-07-14 14:56:45,642 : DEBUG : ftis.process : Stats: Initiating
+2020-07-14 14:56:45,881 : DEBUG : ftis.process : Stats: Ran Successfully
+2020-07-14 14:56:45,881 : DEBUG : ftis.process : Normalise: Initiating
+2020-07-14 14:56:45,890 : DEBUG : ftis.process : Normalise: Ran Successfully
+2020-07-14 14:56:45,890 : DEBUG : ftis.process : AGCluster: Initiating
+2020-07-14 14:56:45,895 : DEBUG : ftis.process : AGCluster: Ran Successfully
