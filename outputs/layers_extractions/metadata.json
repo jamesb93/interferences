@@ -1,0 +1,26 @@
+{
+    "time": "18:12:06 | July 16, 2020",
+    "commit_hash": "0a6cfbfebc1d57e96634057c098bf94e4c52208f",
+    "io": "['/home/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1']",
+    "analyser": {
+        "0_ClusteredNMF": {
+            "name": "ClusteredNMF",
+            "order": 0,
+            "components": 10,
+            "iterations": 200,
+            "fftsettings": [
+                4096,
+                1024,
+                4096
+            ],
+            "smoothing": 11,
+            "polynomial": 2,
+            "min_cluster_size": 2,
+            "min_samples": 2,
+            "cluster_selection_method": "leaf"
+        }
+    },
+    "success": {
+        "0_ClusteredNMF": false
+    }
+}
