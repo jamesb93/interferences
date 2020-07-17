@@ -1,0 +1,57 @@
+{
+    "time": "21:39:59 | July 16, 2020",
+    "commit_hash": "0a6cfbfebc1d57e96634057c098bf94e4c52208f",
+    "io": "['/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio']",
+    "analyser": {
+        "0_FluidMFCC": {
+            "name": "FluidMFCC",
+            "order": 0,
+            "fftsettings": [
+                1024,
+                512,
+                1024
+            ],
+            "numbands": 40,
+            "numcoeffs": 13,
+            "minfreq": 80,
+            "maxfreq": 20000
+        },
+        "1_Stats": {
+            "name": "Stats",
+            "order": 1,
+            "numderivs": 1,
+            "flatten": true
+        },
+        "2_Standardise": {
+            "name": "Standardise",
+            "order": 2
+        },
+        "3_Normalise": {
+            "name": "Normalise",
+            "order": 3,
+            "min": 0,
+            "max": 1
+        },
+        "4_UmapDR": {
+            "name": "UmapDR",
+            "order": 4,
+            "mindist": 0.01,
+            "neighbours": 7,
+            "components": 6
+        },
+        "5_HDBSCluster": {
+            "name": "HDBSCluster",
+            "order": 5,
+            "minclustersize": 10,
+            "minsamples": 1
+        }
+    },
+    "success": {
+        "0_FluidMFCC": true,
+        "1_Stats": true,
+        "2_Standardise": true,
+        "3_Normalise": true,
+        "4_UmapDR": true,
+        "5_HDBSCluster": true
+    }
+}
