@@ -1,0 +1,35 @@
+{
+    "time": "14:50:11 | July 14, 2020",
+    "commit_hash": "0a6cfbfebc1d57e96634057c098bf94e4c52208f",
+    "io": "['/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces']",
+    "analyser": {
+        "0_FluidNoveltyslice": {
+            "name": "FluidNoveltyslice",
+            "order": 0,
+            "feature": 0,
+            "fftsettings": [
+                1024,
+                512,
+                1024
+            ],
+            "filtersize": 1,
+            "minslicelength": 4096,
+            "threshold": 0.1
+        },
+        "1_ClusteredSegmentation": {
+            "name": "ClusteredSegmentation",
+            "order": 1,
+            "numclusters": 3,
+            "windowsize": 5
+        },
+        "2_ExplodeAudio": {
+            "name": "ExplodeAudio",
+            "order": 2
+        }
+    },
+    "success": {
+        "0_FluidNoveltyslice": true,
+        "1_ClusteredSegmentation": true,
+        "2_ExplodeAudio": true
+    }
+}
