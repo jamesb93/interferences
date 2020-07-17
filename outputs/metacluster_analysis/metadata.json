@@ -1,0 +1,16 @@
+{
+    "time": "18:10:53 | July 16, 2020",
+    "commit_hash": "0a6cfbfebc1d57e96634057c098bf94e4c52208f",
+    "io": "['/home/james/Cloud/Projects/ElectroMagnetic/outputs/segments/2_ExplodeAudio']",
+    "analyser": {
+        "0_Flux": {
+            "name": "Flux",
+            "order": 0,
+            "windowsize": 1024,
+            "hopsize": 512
+        }
+    },
+    "success": {
+        "0_Flux": true
+    }
+}
