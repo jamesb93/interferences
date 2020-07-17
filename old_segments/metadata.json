@@ -1,0 +1,25 @@
+{
+    "time": "16:00:24 | July 02, 2020",
+    "commit_hash": "8c0dd6dbac3380982a2a71318f9e8c90e9db03cc",
+    "io": "['all_audio', 'segments/0_FluidNoveltyslice.json', 'segments/1_ClusteredSegmentation.json', 'segments/2_ExplodeAudio']",
+    "analysers": {
+        "FluidNoveltyslice": {
+            "feature": 0,
+            "fftsettings": "2048 -1 -1",
+            "filtersize": 3,
+            "kernelsize": 3,
+            "minslicelength": 4096,
+            "threshold": 0.47,
+            "cache": true
+        },
+        "ClusteredSegmentation": {
+            "input_scaling": "standardise",
+            "windowsize": 4,
+            "numclusters": 2,
+            "cache": true
+        },
+        "ExplodeAudio": {
+            "cache": true
+        }
+    }
+}

@@ -1,0 +1,21 @@
+2020-07-01 14:48:50,077 : DEBUG : ftis.process : Logging initialised
+2020-07-01 14:48:50,077 : DEBUG : ftis.process : Validating Configuration
+2020-07-01 14:48:50,393 : DEBUG : ftis.process : FluidNoveltyslice: Validating parameters
+2020-07-01 14:48:50,395 : DEBUG : ftis.process : FluidNoveltyslice: Setting outputs
+2020-07-01 14:48:50,396 : DEBUG : ftis.process : ClusteredSegmentation: Validating parameters
+2020-07-01 14:48:50,397 : DEBUG : ftis.process : ClusteredSegmentation: Setting outputs
+2020-07-01 14:48:50,397 : DEBUG : ftis.process : ExplodeAudio: Validating parameters
+2020-07-01 14:48:50,398 : DEBUG : ftis.process : ExplodeAudio: using all default parameters
+2020-07-01 14:48:50,398 : DEBUG : ftis.process : ExplodeAudio: Setting outputs
+2020-07-01 14:48:50,401 : DEBUG : ftis.process : FluidNoveltyslice: Executing process
+2020-07-01 14:48:50,401 : DEBUG : ftis.process : FluidNoveltyslice: Intending to cache
+2020-07-01 14:48:50,401 : DEBUG : ftis.process : FluidNoveltyslice: Cache was true but there was no metadata to compare parameters for
+2020-07-01 14:48:50,403 : DEBUG : ftis.process : FluidNoveltyslice: Finished processing
+2020-07-01 14:48:50,403 : DEBUG : ftis.process : ClusteredSegmentation: Executing process
+2020-07-01 14:48:50,403 : DEBUG : ftis.process : ClusteredSegmentation: Intending to cache
+2020-07-02 16:00:02,073 : DEBUG : ftis.process : ClusteredSegmentation: Cache was true but there was no cache
+2020-07-02 16:00:02,073 : DEBUG : ftis.process : ClusteredSegmentation: Finished processing
+2020-07-02 16:00:02,073 : DEBUG : ftis.process : ExplodeAudio: Executing process
+2020-07-02 16:00:02,073 : DEBUG : ftis.process : ExplodeAudio: Intending to cache
+2020-07-02 16:00:24,676 : DEBUG : ftis.process : ExplodeAudio: Cache was true but there was no cache
+2020-07-02 16:00:24,687 : DEBUG : ftis.process : ExplodeAudio: Finished processing
