@@ -1,0 +1,36 @@
+{
+    "time": "11:11:55 | July 10, 2020",
+    "commit_hash": "6533c640845250b380f742d0fc08177ffeb93508",
+    "io": "['/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/0']",
+    "analyser": {
+        "0_FluidOnsetslice": {
+            "name": "FluidOnsetslice",
+            "order": 0,
+            "fftsettings": [
+                1024,
+                512,
+                1024
+            ],
+            "filtersize": 5,
+            "framedelta": 0,
+            "metric": 0,
+            "minslicelength": 2,
+            "threshold": 0.3
+        },
+        "1_ClusteredSegmentation": {
+            "name": "ClusteredSegmentation",
+            "order": 1,
+            "numclusters": 2,
+            "windowsize": 4
+        },
+        "2_ExplodeAudio": {
+            "name": "ExplodeAudio",
+            "order": 2
+        }
+    },
+    "success": {
+        "0_FluidOnsetslice": true,
+        "1_ClusteredSegmentation": true,
+        "2_ExplodeAudio": true
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "time": "16:35:08 | July 13, 2020",
+    "commit_hash": "16fa34518a534253bfb8aec7cd7d9d884dc77983",
+    "io": "['/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio']",
+    "analyser": {
+        "0_Flux": {
+            "name": "Flux",
+            "order": 0,
+            "windowsize": 1024,
+            "hopsize": 512
+        },
+        "1_Stats": {
+            "name": "Stats",
+            "order": 1,
+            "numderivs": 0,
+            "flatten": true
+        }
+    },
+    "success": {
+        "0_Flux": true,
+        "1_Stats": true
+    }
+}

@@ -1,0 +1,9 @@
+2020-07-10 12:03:35,876 : DEBUG : ftis.process : Logging initialised
+2020-07-10 12:03:35,889 : DEBUG : ftis.process : FluidMFCC: Initiating
+2020-07-10 12:03:36,462 : DEBUG : ftis.process : FluidMFCC: Ran Successfully
+2020-07-10 12:03:36,462 : DEBUG : ftis.process : Stats: Initiating
+2020-07-10 12:03:36,623 : DEBUG : ftis.process : Stats: Ran Successfully
+2020-07-10 12:03:36,626 : DEBUG : ftis.process : UmapDR: Initiating
+2020-07-10 12:03:36,636 : DEBUG : ftis.process : UmapDR: Ran Successfully
+2020-07-10 12:03:36,637 : DEBUG : ftis.process : Normalise: Initiating
+2020-07-10 12:03:36,661 : DEBUG : ftis.process : Normalise: Ran Successfully
