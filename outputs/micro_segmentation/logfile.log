@@ -1,0 +1,7 @@
+2020-07-14 18:19:58,134 : DEBUG : ftis.process : Logging initialised
+2020-07-14 18:19:58,146 : DEBUG : ftis.process : FluidOnsetslice: Initiating
+2020-07-14 18:19:58,149 : DEBUG : ftis.process : FluidOnsetslice: Ran Successfully
+2020-07-14 18:19:58,150 : DEBUG : ftis.process : ClusteredSegmentation: Initiating
+2020-07-14 18:27:14,318 : DEBUG : ftis.process : ClusteredSegmentation: Ran Successfully
+2020-07-14 18:27:14,318 : DEBUG : ftis.process : ExplodeAudio: Initiating
+2020-07-14 18:27:16,628 : DEBUG : ftis.process : ExplodeAudio: Ran Successfully

@@ -1,7 +1,7 @@
 {
-    "time": "11:11:55 | July 10, 2020",
-    "commit_hash": "6533c640845250b380f742d0fc08177ffeb93508",
-    "io": "['/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/0']",
+    "time": "18:19:58 | July 14, 2020",
+    "commit_hash": "0a6cfbfebc1d57e96634057c098bf94e4c52208f",
+    "io": "['/home/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/0']",
     "analyser": {
         "0_FluidOnsetslice": {
             "name": "FluidOnsetslice",
