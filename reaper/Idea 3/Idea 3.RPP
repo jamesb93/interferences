@@ -1,0 +1,2591 @@
+<REAPER_PROJECT 0.1 "6.13/OSX64" 1597321455
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 87.21959513 0 0
+  VZOOMEX 8 0
+  USE_REC_CFG 1
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "media" ""
+  <RECORD_CFG
+    ZXZhdyAAAA==
+  >
+  <APPLYFX_CFG
+    ZXZhdyABAA==
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdyABAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {D9984AE4-062B-5A45-9B95-531EA3F8FDF3}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {4D68DCDA-8864-944F-92E4-8A085B95D504}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {19EF80C8-CEDD-3E46-8F30-4B807C779AA4}
+    NAME "Sm (33)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {19EF80C8-CEDD-3E46-8F30-4B807C779AA4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC678F1A-B84A-1841-8BA9-40D963F3A681}
+      IID 128268
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E56722B-6630-B248-8951-0142029CA4A3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.08126984129194
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D745DD47-43FE-C94D-B257-75800F916AAB}
+      IID 128257
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB01F41D-42A1-BB42-8BDA-44458E12DAD6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.11650265008211
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93791B51-60E7-0D4E-B949-361551BBD4C9}
+      IID 128275
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E55216F-2B83-D745-89EF-CC8A83072251}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.19777249137405
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F357E2F7-479D-354C-891B-F4D1B8425AD7}
+      IID 128276
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EDF5D66-EF9D-4F45-A2D0-3D009501ACF8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.29012478608638
+      SNAPOFFS 0
+      LENGTH 0.05804988662131
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.000528 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {539A4A2B-77D2-1842-B252-93110D78CB07}
+      IID 128242
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2B64C6A-C76B-B444-AB57-0AACD555FDB7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.34764714876655
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7813163D-E566-784E-9155-CFBA417B3D6A}
+      IID 128264
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9170C8A6-DD0C-6742-9EC4-014E38D7B61E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.38287995767314
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41522FCA-063F-DB40-9D61-810BCF680E6E}
+      IID 128244
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E671E65-EB3C-DC43-8948-C91F67047D41}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.42931986693293
+      SNAPOFFS 0
+      LENGTH 0.05804988662131
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.000528 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A99DBAED-B6B3-F042-A474-5F3292AE7145}
+      IID 128269
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EAEDC15-B2DA-9A42-8A26-30CCC865F7C1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.4868422296131
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5AC3D34-710A-B940-924E-F98FA6253C4A}
+      IID 128272
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39DA8E01-CD6C-8E46-9056-EA1E15583D60}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.52167216164526
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84973FE0-A21D-FD4B-BD92-6809B78C98D9}
+      IID 128241
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF214B63-A937-BE4C-8EFE-9B7246939037}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.60294200282078
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8272F2FE-50B0-3143-BE99-58694B759560}
+      IID 128262
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E58C09F-E7B6-084C-AF72-DDCBADED4DE1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.69529429753311
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D8776F7-DBAC-6C43-BE8F-83042C3F0064}
+      IID 128280
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D661774-9F97-124E-B26A-A562A04B88BE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.73014690529089
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D366A693-074A-154D-815F-C07DB0353CCD}
+      IID 128270
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F168022-BE6F-8A47-AD62-467734217EE0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.77658681455068
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB69ACDD-D3F2-C641-AA6E-DE461703EFD7}
+      IID 128277
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11A7F773-186E-354E-9616-64431990144A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.82302672381047
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.000528 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A17B68D-6FF9-1E49-A6AD-6C1A21DF3FF9}
+      IID 128255
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBEEB6AD-AC7D-9947-AAB5-B7E4C57B28E2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.88054908660706
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E948EC7-EF36-E84A-88CA-4E4953B68E7C}
+      IID 128254
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C6A8179-8741-8949-A83E-ABC7B9331D59}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.99664885981474
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F401613F-D6CA-F542-A46A-61229A884223}
+      IID 128263
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB17B6E0-A613-6143-9AD3-30913D73352A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.04308876907453
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB371314-1292-9249-81AA-513E8AA03030}
+      IID 128273
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28D3355A-0FF7-8A4A-A055-C2855A0F1A7C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.11277130874805
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B8B83271-6921-FE4C-BE68-CF03A0C4D371}
+      IID 128256
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E06349AE-3860-BA41-8B24-567978C553D9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.15921121812426
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4162F6C7-0D0F-3F4F-A294-5927E1EA34C8}
+      IID 128266
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12517284-40E1-A849-ABDC-A7079FAADD05}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.19406382576562
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A865891C-90E0-864F-88AF-5C808BE6074D}
+      IID 128279
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E185D6C9-ACFF-F74B-826A-B5F571AB2E44}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.22889375779778
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABB1FE24-3673-784D-AE51-4BC044DD7DE1}
+      IID 128278
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44DEE268-8140-164E-B0FA-25E92E0D4465}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.26412656658795
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9581072-D94D-D944-9808-1C3740F4A8F0}
+      IID 128258
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32F7038E-C4D0-2747-9FDB-5522AFAB3FA7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.2989564986201
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EE7C85C-013D-2D47-84C4-235E5797B0ED}
+      IID 128261
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44692871-8F99-B748-AFCC-A1D1A53E206A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.41505627182778
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {539C8790-003B-3744-A8EB-A17587295EF3}
+      IID 128259
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C43A911B-C80F-7E4C-B9E6-32B19C7BF6F5}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.44990887958556
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AD33C35-9E4F-F24A-8114-1D33B80F2D1C}
+      IID 128265
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BE73190-1450-984D-A62F-83E5529BBC36}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.4847388115013
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {262993A1-BB22-CB43-A04F-BAC1C3467E2F}
+      IID 128271
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDB2D557-1F21-D44D-8C70-154A3F9A47BE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.51997162040789
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40C94134-6720-2B47-99D7-67178258C066}
+      IID 128251
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4251293F-7470-8B49-9ECB-3D9E76DA8E42}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.55482422804926
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD246B75-0B30-5142-AE5F-36DCB28B3FEF}
+      IID 128250
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72009B59-2881-674D-BFCE-5723B2863E63}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.58965416008141
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B9E3A87-02E2-244F-AACB-9796F4DED534}
+      IID 128245
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {670F2466-3AC0-264D-B0AE-C0F693A6DB9E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.94612551596947
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4F08203-F23B-764F-A8FA-49BA40A65B83}
+      IID 128243
+      NAME Kindle_04_8_326.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {313B7979-2C71-AE46-B506-80E313F71DF4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_04_8_326.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.01373538200278
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {186890E5-F33A-894B-99A2-8D703D6D38F7}
+      IID 128247
+      NAME Kindle_04_8_30.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03CF5B3B-3784-AD4B-87ED-F2E326096EC2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_04_8_30.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.08891755295917
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9CD6E6E-CF93-B247-9656-7CDD016ADA73}
+      IID 128248
+      NAME Kindle_02_3_129.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90A47578-57C8-FC44-9995-148BD40746F1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_3_129.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.21007443289272
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8884C32C-D229-E249-AEC5-8F2B117C6DDA}
+      IID 128246
+      NAME Kindle_02_2_326.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62C2316F-4177-644B-8B5A-3558E166A4CD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_2_326.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.26794847822748
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75D77F45-1AAC-A44B-AB2E-239D6A4E94A8}
+      IID 128249
+      NAME Kindle_02_2_366.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2ECC9C3-715B-ED45-ABBC-0B633A237668}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_2_366.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.34475328598637
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B81C3FD5-051C-E440-B36C-902E8B04B564}
+      IID 128252
+      NAME "Xiamo Note 4X_01_1_81.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5ADC690F-AC25-9B43-9FAA-D8B7A53354FB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_81.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.87119200977031
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EDED8657-1D69-BA44-AB33-5031A9E1A26F}
+      IID 128258
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EF59FCC-5C16-564D-A8C7-CCE06E76465C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.90602194168605
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFF48C4D-BE4A-E249-AA34-F9F9E2D8502F}
+      IID 128279
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {33F6795B-BB4B-224E-88E1-754A690E267E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.94085187360179
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DAC6304-B2FD-774A-919A-2FD2E9149F22}
+      IID 128263
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1126941-7738-E845-AD15-379E18D5710D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.98729178286158
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6842D098-35CD-3048-8F22-8E9C58FD62B2}
+      IID 128259
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F526871A-4775-4243-8664-136B5F3FA0C6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.02214439050294
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16447A22-CC8D-AE41-9D35-A27A3C09D6CE}
+      IID 128248
+      NAME Kindle_02_3_129.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AC9F16F-284E-7F43-BEEE-D3F2EC9C27D7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_3_129.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.1433012704365
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {976B2515-C65F-A946-9A63-3EA188C72580}
+      IID 128241
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9B93ED8-3264-2041-B9A5-7EA5516BF05A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.22457111172844
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AFC922D-A55E-9D4F-85B6-0507293162D6}
+      IID 128265
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2329683-E882-9E42-B5E6-D35F0D1ACF11}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.25940104376059
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36440E40-32C8-F348-BCD3-2362D5732838}
+      IID 128252
+      NAME "Xiamo Note 4X_01_1_81.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {198D2F79-7D5D-EB4E-8B82-A490566A50F3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_81.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.29423097567633
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E4E380A-E827-0349-B4CD-42CF13DE1B5B}
+      IID 128243
+      NAME Kindle_04_8_326.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B030629-4BA2-AE49-AA53-02064A4848A4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_04_8_326.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.36184084170964
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A640A36A-7C65-084C-A3DD-D740785AF0E4}
+      IID 128277
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C12FC54-9A54-2948-8F2F-8CC304393160}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.40828075096942
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3332109F-DC9C-2841-A7A5-DF993359B666}
+      IID 128257
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C41C4484-0E60-704D-9A84-6FB66F99B6C2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.44351355975959
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D25221D9-34B2-8745-9096-90F72587C1E7}
+      IID 128272
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBE040FB-48B1-2E44-A564-0C07880E7C1E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.47834349167533
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECD2FDF2-F6EB-254E-9CF9-98C5AAAA5A67}
+      IID 128250
+      NAME "Xiamo Note 4X_01_1_314.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {058D48FA-CA93-E44C-A25A-93BBAEDA6AEF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.51317342370749
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5132B3AF-E8E2-EE4E-A5E3-82CFB9AD70E7}
+      IID 128261
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB2577BB-C5CD-3C4F-A3CD-F33A00B4B7D6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.62927319703158
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42303053-0282-024A-8674-2CB07A566393}
+      IID 128246
+      NAME Kindle_02_2_326.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43FBC48A-7F8D-D14E-B5D5-F1DD35C15BAD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_2_326.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.68714724236634
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDD2C2D0-2935-5445-B7A4-5BA2576E59C0}
+      IID 128262
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5313619-3B36-1A44-B3D4-013B41E83A5E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.77949953707866
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1EDF2942-64F9-3948-A9BF-8D9F6B40FE24}
+      IID 128256
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {019F1232-AE24-8047-840F-39A89255E8DB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.82593944633845
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD2495F3-4168-3644-B23A-AD65FE7BAE72}
+      IID 128271
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2CE135A-6600-C64B-95F2-73320A968367}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.86117225512862
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4DC26848-F256-8C49-8FED-C3BD514B797F}
+      IID 128247
+      NAME Kindle_04_8_30.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12AA90CD-BB5B-6342-A1E8-AAE8B3BC64F6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_04_8_30.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.93635442620143
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {22D3DD02-1F2D-6E4C-BDD0-B9E5C6AE5339}
+      IID 128264
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7120FAC-006B-4645-BB6D-CA18D2FB5560}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.9715872349916
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.000528 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5C2C39A-2BFA-C24D-A2B7-BEA7D698E830}
+      IID 128242
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A77D5511-E79B-EA44-B16E-9DE32ABA7311}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.02910959767178
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {47132AF3-3B1F-F244-9CF9-B1767E564B4C}
+      IID 128273
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79AD11F0-AC5A-374F-859D-2F7BF692775A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.0987921373453
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9BED26E6-FC33-1C44-816A-9DDABDC58C74}
+      IID 128245
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C1FD2E2-120D-A74A-8DF3-BA9A5763A6D8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.45526349311695
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41A7E6FC-DEAA-0647-BCB2-4EA15F80DAF8}
+      IID 128249
+      NAME Kindle_02_2_366.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {733B62DE-B8CA-ED41-85A3-9F44C1009ECE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_2_366.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.53206830087584
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8017A78F-693B-1648-ABE8-8E89DFFDE7B4}
+      IID 128280
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCA55EE9-DAFA-F84D-A401-3305A79D52C6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5669209085172
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {682A0946-6B8F-9144-A66B-51C3CF4B5168}
+      IID 128270
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B3571F5-FA69-2D4A-9DDE-26945F61B442}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.61336081789341
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2FF73CBC-C3D9-6846-BFC8-BB78005D1A40}
+      IID 128278
+      NAME "Xiamo Note 4X_01_1_380.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BC6C016-FAFA-CC41-9CC0-9CDEF07CED47}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.64859362679999
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0AF03CF-6E1A-AD42-8B39-8D818D8FD981}
+      IID 128251
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9B54FB7-6B81-0547-9252-0A11C2E852AD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.68344623455778
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9503562F-4BBB-144C-804E-45E4C95381B0}
+      IID 128266
+      NAME "Xiamo Note 4X_01_1_277.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {264CD0AB-8770-CD4D-9837-E16CCFAF494B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.71829884231556
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C0DAA16-8B66-D04C-A867-A4EF1A16B8F3}
+      IID 128268
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0608FF34-CEE0-5C43-A755-164F62A71FBE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.7995686836075
+      SNAPOFFS 0
+      LENGTH 0.05804988662131
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E57308D8-EA80-FB42-B176-3668ABBFF9FA}
+      IID 128276
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47E315A3-9BD4-AC48-8467-88639480DD6B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.89192097831983
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {899ECD11-95A6-3348-A978-C3721CC496E8}
+      IID 128275
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7403C11D-D971-CE45-AA6D-6DF366F096C4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.97319081961177
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70E84661-7E9C-904B-BB12-8CFF5F403E5D}
+      IID 128244
+      NAME Keyboard_01_0_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A8019D0-0ADA-3446-A062-4FCE10CDA506}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.01963072898798
+      SNAPOFFS 0
+      LENGTH 0.05804988662131
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.000528 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {900CE6D2-1EB0-DB49-8727-C0097BAEA269}
+      IID 128269
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4768E278-E5D0-0446-B6BD-600138EBBFB2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.07715309166815
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.000528 1 1 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9573D625-F26D-2F43-A9E1-F68AC01AEEC2}
+      IID 128255
+      NAME Kindle_03_0_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {656B3D57-C8D5-6A4B-B080-2E42D560163A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.13467545434833
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28A94D53-EA5C-AC4C-9561-B5771FEF4970}
+      IID 128254
+      NAME Kindle_03_0_44.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCCA4BDB-E9BD-E940-B0BC-C7A019DBCA9B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+      >
+    >
+  >
+  <TRACK {B944A2FB-7E8C-8042-96CF-E57BF2EBE00D}
+    NAME SM(43)
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B944A2FB-7E8C-8042-96CF-E57BF2EBE00D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.56888888888889
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FCB2A44-2292-AD40-8E10-00A51D028D4D}
+      IID 129128
+      NAME "Xbox Controller_03_0_79.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C670760-0305-7E4B-94F3-A5265CA9B786}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_79.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.56888888888889
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F67189B1-C65E-624D-91C3-A407F9517251}
+      IID 129129
+      NAME "Xbox Controller_02_0_50.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {750E9142-0516-074B-B75F-32E35503653D}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_50.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.77786848072562
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0915F2BD-41F2-5241-848A-53AEB282CA31}
+      IID 129130
+      NAME "Xbox Controller_03_0_69.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5707697D-E97F-0441-AD73-EAEE5A5B5BB3}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_69.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.07972789115646
+      SNAPOFFS 0
+      LENGTH 0.26702947845805
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E3E1B1B-89A1-2145-B6CC-EC33B8D2DE57}
+      IID 129131
+      NAME "Xbox Controller_03_0_31.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {994FF3E6-C40D-4F4A-8000-1EC5C81BB9F9}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_31.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.34675736961451
+      SNAPOFFS 0
+      LENGTH 0.10448979591837
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1F9E86D-7360-7941-BD93-470B20D4F032}
+      IID 129132
+      NAME "Xbox Controller_02_0_36.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2F44849-6232-8A42-81D3-4F08D38434A2}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_36.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.45124716553288
+      SNAPOFFS 0
+      LENGTH 0.27866213151927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DF29FB47-D127-8944-B395-E102927B10FB}
+      IID 129133
+      NAME Kindle_02_1_45.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DD9CE78-9B78-8C4F-940C-82DD2F52CD23}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_1_45.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.72990929705215
+      SNAPOFFS 0
+      LENGTH 0.12770975056689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E86FCF5-23D7-1849-8E01-8391B00559FF}
+      IID 129134
+      NAME Kindle_03_1_149.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2E102F2-7107-F443-9EC1-23E22B7ECAEB}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_149.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.85761904761905
+      SNAPOFFS 0
+      LENGTH 0.34829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B5BCC40-B68F-2A41-89BC-5BD8D235213D}
+      IID 129135
+      NAME "Xbox Controller_01_1_59.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {142BAF30-4A1A-864C-9647-833FA791D018}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_59.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.20591836734694
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB363381-34AC-2A4D-B704-8EA18302B4C6}
+      IID 129136
+      NAME "Xbox Controller_03_0_63.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F0E2444-D599-BA4A-B57F-A239A597F326}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_63.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.41489795918367
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD6BD3CA-41B4-9245-B7DA-C4FD2712A78C}
+      IID 129137
+      NAME "Xbox Controller_03_1_130.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48B20E4A-D1BF-9746-926C-B383F54AC699}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_130.wav"
+      >
+    >
+  >
+  <TRACK {F559557D-17C4-ED45-9B29-AA4C963B6CB3}
+    NAME SM(44)
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F559557D-17C4-ED45-9B29-AA4C963B6CB3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.34829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8ECBCDE-85C0-6541-B4BE-0DA71A67FFFC}
+      IID 129138
+      NAME "Xbox Controller_03_0_86.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F934D7F-7E70-7C4D-9EDD-530A04D896B1}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_86.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.34829931972789
+      SNAPOFFS 0
+      LENGTH 0.73142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07722FE8-30E2-A045-A4CE-8AF9D0F57E1B}
+      IID 129139
+      NAME "Xbox Controller_03_0_44.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A41FC2AC-DB8A-E940-B20E-B286BB7853F0}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.07972789115646
+      SNAPOFFS 0
+      LENGTH 0.15092970521542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {874D8CD2-E123-3D45-A362-6D730CAB0281}
+      IID 129140
+      NAME "Xbox Controller_03_0_57.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4314946D-1A1C-3540-83BA-89CB57D49763}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_57.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.23065759637188
+      SNAPOFFS 0
+      LENGTH 0.10448979591837
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {72F8071F-9DEF-F74E-86A0-1D91117C275C}
+      IID 129141
+      NAME "Xbox Controller_01_1_45.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C7FE05D-9F88-054D-BDBE-E90C49C18928}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_45.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.33514739229025
+      SNAPOFFS 0
+      LENGTH 0.15090702947846
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E0CD92CF-226D-1047-BF7E-9F08B09994DB}
+      IID 129142
+      NAME "Xbox Controller_02_0_68.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EB8D701-5C2A-FD49-B435-960F43E6CC42}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_68.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.48605442176871
+      SNAPOFFS 0
+      LENGTH 0.10448979591837
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D092AD6-AE0E-4C46-AB75-9E2C475AF3EC}
+      IID 129143
+      NAME Kindle_02_2_579.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C6B3D8B-BBC1-7A48-AD76-EA1FD569D8BF}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_2_579.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.59054421768707
+      SNAPOFFS 0
+      LENGTH 0.66176870748299
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01766F14-B6BB-2C46-98C8-7845A1D9A140}
+      IID 129144
+      NAME "Xbox Controller_01_1_6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D9FD23B-ABE1-BD48-8C1D-071C5179D765}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.25231292517007
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C28227BD-20B2-484A-BF0B-C3F727662663}
+      IID 129145
+      NAME Kindle_03_1_77.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04C55C31-7D05-3A41-A216-6EBA26461CAE}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_77.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.48451247165533
+      SNAPOFFS 0
+      LENGTH 0.15092970521542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85026C61-5924-9146-99FB-AC1F4DCEC153}
+      IID 129146
+      NAME "Xbox Controller_02_0_33.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {759F35CC-FE76-3140-8BC3-263A01A196D0}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_33.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.63544217687075
+      SNAPOFFS 0
+      LENGTH 0.220589569161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {82D89E46-DE7B-4246-9CFE-04C8F80FB11D}
+      IID 129147
+      NAME "Xbox Controller_01_1_5.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AFBF9925-37D5-3F4F-AB18-8C0DDA27413A}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.85603174603175
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B73496B-0BC1-3F47-8DD8-70AAFD1980AE}
+      IID 129148
+      NAME "Xbox Controller_03_1_161.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C80EE82-0BA7-DF40-BA32-A39A82E994B5}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_161.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.06501133786848
+      SNAPOFFS 0
+      LENGTH 0.17414965986395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D72F984C-AA04-924F-A68F-D1A329662F7C}
+      IID 129149
+      NAME Kindle_03_1_74.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BB0D498-DAB6-5247-9691-4F43A2756F8B}
+      <SOURCE WAVE
+        FILE "media/Kindle_03_1_74.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.23916099773243
+      SNAPOFFS 0
+      LENGTH 0.32507936507937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1F5B7BE-0E0C-4A4C-B334-08DF77AC2CA2}
+      IID 129150
+      NAME "Xbox Controller_03_0_1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A4DA609-E44F-F74F-B320-B1EEB5D2F4B8}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.56424036281179
+      SNAPOFFS 0
+      LENGTH 0.220589569161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1440F52-9E65-894C-9EB6-8DE09620DAC1}
+      IID 129151
+      NAME "Xbox Controller_03_0_5.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {344CBE3C-AE5A-6545-B33D-15415BEBA371}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.78482993197279
+      SNAPOFFS 0
+      LENGTH 0.33668934240363
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5920B15E-3FC9-0046-873A-7EEF45FFEC7D}
+      IID 129152
+      NAME "Xbox Controller_03_1_173.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44D4BFE8-8E7D-B442-BE9C-4D8F5847C684}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_173.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.12151927437642
+      SNAPOFFS 0
+      LENGTH 0.17414965986395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A4766B2-3377-914B-BB12-AC3FD237D562}
+      IID 129153
+      NAME "Xbox Controller_03_1_172.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E04BE93-4529-DA42-9FC1-2620E12733AC}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_172.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.29566893424036
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCF8E24F-74F2-064E-BB81-F58AFB3331D6}
+      IID 129154
+      NAME Kindle_02_0_26.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB22F8D1-E59C-7241-9EAB-56B6B56B3487}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_0_26.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.43498866213152
+      SNAPOFFS 0
+      LENGTH 0.70820861678005
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2BB58AD7-C5FA-724F-9657-41A2A44BCD99}
+      IID 129155
+      NAME "Xbox Controller_03_1_180.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DBB4558-75BF-434E-AAF0-FA2E62407379}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_1_180.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.14319727891156
+      SNAPOFFS 0
+      LENGTH 0.19736961451247
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C4FBDDE3-851A-0346-8DFE-F0E0CD44D974}
+      IID 129156
+      NAME Kindle_02_1_94.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81B840EB-3ACD-7B41-ABE4-1C7A87DFC53D}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_1_94.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.34056689342404
+      SNAPOFFS 0
+      LENGTH 0.2321768707483
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1D94B96-8F88-4947-9B0C-1E6B82657271}
+      IID 129157
+      NAME "Xbox Controller_01_1_29.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59EC947C-35CE-E845-9197-C4A2CB4BD76F}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_01_1_29.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.57274376417234
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAEF4270-D7AE-9B47-B62D-04512FF43528}
+      IID 129158
+      NAME Kindle_04_8_404.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1218124D-6CC1-F54E-B754-189550A6E1CE}
+      <SOURCE WAVE
+        FILE "media/Kindle_04_8_404.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.8049433106576
+      SNAPOFFS 0
+      LENGTH 0.67337868480726
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96700894-9972-0F47-B25F-BCB103740200}
+      IID 129159
+      NAME "Xbox Controller_03_0_38.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88E833A6-BB88-774D-A44A-108B482E344A}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_03_0_38.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.47832199546485
+      SNAPOFFS 0
+      LENGTH 0.73140589569161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8918DA76-0415-094D-8866-DF10527962F6}
+      IID 129160
+      NAME Kindle_02_1_176.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83942B21-8AC1-7B41-82CE-581AF9AB5741}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_1_176.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.20972789115646
+      SNAPOFFS 0
+      LENGTH 0.13934240362812
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5C87606-E705-2E4D-BF7D-23A8C18C220B}
+      IID 129161
+      NAME "Xbox Controller_02_0_71.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5C293FF-9CBE-6E45-8035-CB0CEC745D7F}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_71.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.34907029478458
+      SNAPOFFS 0
+      LENGTH 0.1392970521542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8990EC8A-D2DD-C54E-9673-96FCE4657AC5}
+      IID 129162
+      NAME Kindle_02_3_215.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23B59A34-469B-A449-997E-69D340170F10}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_215.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.48836734693878
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B3460AD-462E-A249-AFEA-F84BA28B7DFD}
+      IID 129163
+      NAME Kindle_02_3_199.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D05BAD38-4012-2D47-AC4D-9721B4ED4543}
+      <SOURCE WAVE
+        FILE "media/Kindle_02_3_199.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.69734693877551
+      SNAPOFFS 0
+      LENGTH 0.73142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF0BC1DB-C274-7242-995B-2443B25363A4}
+      IID 129164
+      NAME "Xbox Controller_02_0_77.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6CF3D42C-B6E0-E54A-AAB8-85BE17B6C238}
+      <SOURCE WAVE
+        FILE "media/Xbox Controller_02_0_77.wav"
+      >
+    >
+  >
+  <TRACK {D2276317-2129-4642-9E21-E3DA794AD1B1}
+    NAME SM(61)
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D2276317-2129-4642-9E21-E3DA794AD1B1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <EXTENSIONS
+  >
+>
