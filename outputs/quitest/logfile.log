@@ -7,7 +7,7 @@
 2020-08-05 16:15:12,708 : DEBUG : ftis.process : FluidMFCC: Ran Successfully
 2020-08-05 16:15:12,718 : DEBUG : ftis.process : Stats: Initiating
 2020-08-05 16:15:12,744 : DEBUG : ftis.process : Stats: Ran Successfully
-2020-08-05 16:15:12,754 : DEBUG : ftis.process : UmapDR: Initiating
-2020-08-05 16:15:12,765 : DEBUG : ftis.process : UmapDR: Ran Successfully
+2020-08-05 16:15:12,754 : DEBUG : ftis.process : UMAP: Initiating
+2020-08-05 16:15:12,765 : DEBUG : ftis.process : UMAP: Ran Successfully
 2020-08-05 16:15:12,774 : DEBUG : ftis.process : HDBSCluster: Initiating
 2020-08-05 16:15:12,799 : DEBUG : ftis.process : HDBSCluster: Ran Successfully

@@ -1,0 +1,70 @@
+{
+    "time": "16:27:48 | August 06, 2020",
+    "io": "['/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio']",
+    "analyser": {
+        "0_CorpusLoader": {
+            "name": "CorpusLoader",
+            "order": 0,
+            "min_dur": 0,
+            "max_dur": 36000,
+            "file_type": [
+                ".wav"
+            ]
+        },
+        "1_CorpusFilter": {
+            "name": "CorpusFilter",
+            "order": 1,
+            "min_loudness": 0,
+            "max_loudness": 5
+        },
+        "2_FluidMFCC": {
+            "name": "FluidMFCC",
+            "order": 2,
+            "fftsettings": [
+                8192,
+                128,
+                8192
+            ],
+            "numbands": 40,
+            "numcoeffs": 20,
+            "minfreq": 80,
+            "maxfreq": 20000,
+            "discard": true
+        },
+        "3_Stats": {
+            "name": "Stats",
+            "order": 3,
+            "numderivs": 1,
+            "flatten": true,
+            "spec": [
+                "median",
+                "max",
+                "min",
+                "stddev",
+                "mean",
+                "skewness"
+            ]
+        },
+        "4_UmapDR": {
+            "name": "UMAP",
+            "order": 4,
+            "mindist": 0.01,
+            "neighbours": 7,
+            "components": 2
+        },
+        "5_HDBSCluster": {
+            "name": "HDBSCluster",
+            "order": 5,
+            "minclustersize": 10,
+            "minsamples": 1
+        }
+    },
+    "success": {
+        "0_CorpusLoader": true,
+        "1_CorpusFilter": true,
+        "2_FluidMFCC": true,
+        "3_Stats": true,
+        "4_UmapDR": true,
+        "5_HDBSCluster": true
+    }
+}

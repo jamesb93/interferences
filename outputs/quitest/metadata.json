@@ -3161,7 +3161,7 @@
             "flatten": true
         },
         "4_UmapDR": {
-            "name": "UmapDR",
+            "name": "UMAP",
             "order": 4,
             "mindist": 0.01,
             "neighbours": 7,

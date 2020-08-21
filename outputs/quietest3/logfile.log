@@ -1,0 +1,13 @@
+2020-08-06 16:21:36,401 : DEBUG : ftis.process : Logging initialised
+2020-08-06 16:21:36,405 : DEBUG : ftis.process : CorpusLoader: Initiating
+2020-08-06 16:21:36,433 : DEBUG : ftis.process : CorpusLoader: Ran Successfully
+2020-08-06 16:21:36,433 : DEBUG : ftis.process : CorpusFilter: Initiating
+2020-08-06 16:22:55,752 : DEBUG : ftis.process : CorpusFilter: Ran Successfully
+2020-08-06 16:22:55,752 : DEBUG : ftis.process : FluidMFCC: Initiating
+2020-08-06 16:23:18,999 : DEBUG : ftis.process : FluidMFCC: Ran Successfully
+2020-08-06 16:23:19,000 : DEBUG : ftis.process : Stats: Initiating
+2020-08-06 16:23:29,330 : DEBUG : ftis.process : Stats: Ran Successfully
+2020-08-06 16:23:29,331 : DEBUG : ftis.process : UMAP: Initiating
+2020-08-06 16:23:37,825 : DEBUG : ftis.process : UMAP: Ran Successfully
+2020-08-06 16:23:37,826 : DEBUG : ftis.process : HDBSCluster: Initiating
+2020-08-06 16:23:37,852 : DEBUG : ftis.process : HDBSCluster: Ran Successfully

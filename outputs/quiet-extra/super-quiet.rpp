@@ -1,0 +1,3619 @@
+<REAPER_PROJECT 0.1 "6.13/OSX64" 1597445649
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  CURSOR 15.5
+  ZOOM 32.73519021720076 53 0
+  VZOOMEX 8 0
+  USE_REC_CFG 1
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "media" ""
+  <RECORD_CFG
+    ZXZhdyAAAA==
+  >
+  <APPLYFX_CFG
+    ZXZhdyABAA==
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdyABAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {6EA70734-53AF-0348-8880-ED7EA2752D6A}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {216A4951-338F-854C-815D-677CBFAF2A93}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {58A236EC-6284-8E4C-8100-21101663A49D}
+    NAME 0
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {58A236EC-6284-8E4C-8100-21101663A49D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FC60751-E642-6644-BF88-780F9FEC9E36}
+      IID 1
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ECA21A17-892C-2348-9B86-99778188E4FE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_268.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.03482993197279
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10C91BDF-10E1-9A48-B4A2-D1D3B422A0E5}
+      IID 2
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43DFB272-13C3-B34C-8FF5-E91D948BC503}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_180.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.0928798185941
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5782060-B2CF-2E42-B32B-9DE1674D474D}
+      IID 3
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40E87350-AC6B-5240-8076-829D805C3C15}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_326.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.12770975056689
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14F79900-A4CE-F240-9E5F-76C63DC14A89}
+      IID 4
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06F40611-F6D1-9A42-8269-F52C4AE5D245}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_04_8_119.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.16256235827664
+      SNAPOFFS 0
+      LENGTH 0.42956916099773
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD1CE0CA-9934-DA4C-B39D-4A07E9A37FBC}
+      IID 5
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3595BFFF-1C94-9D45-8E22-90140841B8F1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/WD Hard Drive_02_0_17.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.59213151927438
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CA4150C-63F8-6841-8E72-EF2B58808DB6}
+      IID 6
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B46F767F-58E2-3F41-867F-84CFC74E4E81}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Mouse_02_1_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.80111111111111
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {10F3436C-BCFF-404C-ACD2-F5F64601DE38}
+      IID 7
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F576CCF-003F-AE4E-A5FF-6DA516DC7A73}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_380.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.8359410430839
+      SNAPOFFS 0
+      LENGTH 0.16253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C417EB9-68AA-4C49-A694-1323D971C631}
+      IID 8
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {646FEC51-3CA6-AD44-9902-5AAF40A94FD1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_38.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.99848072562358
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56125D86-1DD1-CA47-A64A-3D73342D69BD}
+      IID 9
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75E61B04-9E62-6C46-9AC4-5A297036A537}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_39.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.20746031746032
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB5DAC2C-5583-7748-8DCF-943ECFD6FBDB}
+      IID 10
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51AC22D9-3144-FE46-BC73-28E10955A0D6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_368.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.24229024943311
+      SNAPOFFS 0
+      LENGTH 0.15092970521542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {356D2B4B-83FA-6E4F-AAB9-C2E8397AE8A9}
+      IID 11
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D76EA034-6D16-134E-AABA-2E8A65E48E96}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_16.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.39321995464853
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {364EAE5B-03A4-554F-A7E5-B23577D96B27}
+      IID 12
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9469EA02-7B72-674C-989B-663507DF4A1B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_378.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.42802721088435
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F6B51EC1-CBC1-5A45-97FC-D1CCF8028291}
+      IID 13
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D77B3920-5A2C-124D-9EAC-C4D7765362EB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_31.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.46285714285714
+      SNAPOFFS 0
+      LENGTH 0.32507936507937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B4DEF20-7057-8A41-918C-473EDEDB427B}
+      IID 14
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C37DE8FE-6B7E-BF40-BA9A-BFC647B0DE17}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_17.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.78793650793651
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AF8AB4C-8A11-D046-9968-6E249F476078}
+      IID 15
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {444CB62F-AEC9-F54D-AFC2-C44BA5519914}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_362.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.8227664399093
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A73CA03F-32E0-234B-8BCB-8105599DC17F}
+      IID 16
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE1198AD-40D0-7A4E-A7BA-1D63B8483C4B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.89242630385488
+      SNAPOFFS 0
+      LENGTH 1.56734693877551
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4278ACC8-A0D4-C046-9784-8CE96739436B}
+      IID 17
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC6A0777-59CC-2E4E-A54B-D2AB290AB8E6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_18.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.45977324263039
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9B40E2E-8C27-1F4F-94F8-EA6DCC676AF7}
+      IID 18
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E26222F2-95F4-A544-8547-EF048E9B0858}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_111.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.50621315192744
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB8EE229-C385-A843-BCCF-E25916C2ACB7}
+      IID 19
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B85B5BA-B29A-434F-97D4-6C5232220CAF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_275.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.54102040816327
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6A016538-C080-D049-BEC7-8DD5512B7A0D}
+      IID 20
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74EC0BF5-3D71-974A-889D-47DB9EC652E3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_328.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.57585034013605
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4AC1A53B-3AFD-464A-B3FB-34663182BACC}
+      IID 21
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0E0B21E-0B9F-4F41-9D89-FCFA38B50426}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_63.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.80804988662132
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {642D5C40-FAC0-5146-9EEF-608BEF2F0927}
+      IID 22
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9BF5080-4970-814E-BE4E-7EF9E0B99DA9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_289.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.8428798185941
+      SNAPOFFS 0
+      LENGTH 0.16251700680272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64F52D69-7A8E-5742-9804-9E6C01C0BF26}
+      IID 23
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2A401EA-8633-0D4D-AB68-D91B574C146E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.00539682539682
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E8585DE-F101-AD44-9C54-CBA3572CEF03}
+      IID 24
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6570C36-540A-CB4B-866E-A75F0C6A20C4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_312.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.04024943310658
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4D3042E-FC90-684D-9DAE-831927AB9967}
+      IID 25
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3ED8AFD7-9E57-F449-B5A7-5AD4CDB0C28F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_96.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.07507936507936
+      SNAPOFFS 0
+      LENGTH 0.15092970521542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8AB36633-477E-3140-9B2C-EA0E0F699A39}
+      IID 26
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4F7903E-3F13-0A4C-B463-1B90442D00E5}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_66.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.22600907029478
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D6E74A0C-38FE-FE4E-902E-F0573A823B3B}
+      IID 27
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7BA9C6E-82C7-C340-8505-25AE615ECC38}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_107.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.26083900226757
+      SNAPOFFS 0
+      LENGTH 8.88163265306122
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA3FEB08-9B00-384D-B367-9A6440806658}
+      IID 28
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E1CF779-81E9-244D-A060-99CBD9CB9480}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/WD Hard Drive_02_0_16.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.1424716553288
+      SNAPOFFS 0
+      LENGTH 18.5643537414966
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {53C5F273-448C-E94D-BB4E-ED02CCC9AA4C}
+      IID 29
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {213F7863-06B3-1240-9F75-73C971CDFCC2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_87.wav"
+      >
+    >
+  >
+  <TRACK {8C48B321-CCAD-5A44-90EF-C5C69D1F99A8}
+    NAME 1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8C48B321-CCAD-5A44-90EF-C5C69D1F99A8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF336C8A-D968-3A48-A765-7E267B504E46}
+      IID 30
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67585FBD-043A-AE43-BA62-B9843E63BFFB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_283.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.03482993197279
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35D81E6D-789C-AB48-A5C3-9EAEBA4C17A8}
+      IID 31
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {80BAD6B6-EA37-7F4D-A670-73E5118AC7E7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_296.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.06965986394558
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {67509BD8-25BC-8C44-AB20-20257D15F279}
+      IID 32
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30918895-4C80-5343-8731-9E02C134FF6A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_98.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.10448979591837
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {86BF0101-E08D-0E46-8D91-89D61AFB9E9E}
+      IID 33
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98485174-B44F-0144-B2EE-5EB26A4DFA1B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_322.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.13931972789116
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7031FD4-EA0B-1145-B485-145D3812F7AE}
+      IID 34
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47625736-A7F3-E447-872A-C4460FC13CD0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_285.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.17414965986395
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9650C306-BDF9-9C4D-A6D8-3E2A0415B42A}
+      IID 35
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEBE2703-6F7C-6C47-B91C-7AFF1C86CA7B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_333.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.20897959183673
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F68B0A35-B5A8-FE45-AE05-5D1BF7369C0F}
+      IID 36
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77BF2691-3E0F-3E4E-A8D1-FA2F7F07FE46}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_78.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.26702947845805
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5B36913B-041D-DF4B-AEAA-C791020A1235}
+      IID 37
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6A9B835-CFE3-324E-978E-129D205DF76C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.33668934240363
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0531E30F-FFEC-BE48-813B-3ECAFEE0FEA1}
+      IID 38
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40F062C7-D1C4-244C-8136-488D012C93C8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.63854875283447
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {31CBC5FD-FF5A-C240-A711-38009E78634D}
+      IID 39
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9674988-6F90-3E4A-B9E6-FA44146B4130}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_38.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.67337868480726
+      SNAPOFFS 0
+      LENGTH 0.16256235827664
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E1BA240-6E73-8942-A28A-64119717681C}
+      IID 40
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77F25D02-E115-254E-955B-72C76A299445}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.8359410430839
+      SNAPOFFS 0
+      LENGTH 1.07972789115646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B15982E-6FBE-C642-843B-1B99AE31A76A}
+      IID 41
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE9BB96A-91F5-D94A-9665-C93088631C55}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.91566893424036
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A56C4A1-EA22-6F47-A925-5957D61EF644}
+      IID 42
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A6340F8-60A2-7E49-8D3F-6B12E300976A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_1_242.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.96210884353742
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E8A5FEE-1B25-1D42-A95D-950B73485BCC}
+      IID 43
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04BE503A-6DFA-5246-BB19-321F4C149C84}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_384.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.9969387755102
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF76952A-95E4-5948-AF84-8D8DEB20B5FB}
+      IID 44
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD9E3692-1D5E-9B40-9118-A25145968996}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_349.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.05498866213152
+      SNAPOFFS 0
+      LENGTH 2.12462585034014
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4AB4754-0FA6-434B-86F9-102B09559FA7}
+      IID 45
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6215894F-EF7A-FA4F-BE06-2BBCD75BAF1C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.17961451247166
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CF70D6C-EE7D-7946-8A75-DF613B8772B9}
+      IID 46
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F735C101-1617-AA47-8D88-4C9BC18F459C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_374.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.21444444444444
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {941BEB2C-C47B-5F42-B478-007767A4559B}
+      IID 47
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5C22B8E-FA3E-B14A-B47B-DEE770CAD18A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_21.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.29571428571429
+      SNAPOFFS 0
+      LENGTH 0.60371882086168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9248609C-B3E0-D245-B4BA-228AED632D86}
+      IID 48
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8940B2A4-4CF3-3744-B0C2-D248200A6BDE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.89943310657596
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9A9F9F1-74A8-7348-B79A-F06578C56F41}
+      IID 49
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EDD742FB-8026-E74F-B7FB-B086CE66F0F4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_1_239.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.94587301587302
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {141AAC5E-1E75-1940-A64A-045813037CEC}
+      IID 50
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6F03841-831F-EF4C-9F7E-57D9E6152653}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_93.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.9807029478458
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {356C8446-AB4E-EB43-A450-5B7371C0D36B}
+      IID 51
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4680BCE5-9662-5B49-94F2-2B230D78AB91}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_300.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.01553287981859
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA73650A-93ED-734A-A0EE-F47B6068527D}
+      IID 52
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95702A41-289A-9C41-9FE5-7C6D9D385FC3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_1_206.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.09680272108843
+      SNAPOFFS 0
+      LENGTH 0.24383219954649
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A84D61F6-FDE5-A748-BEDC-9A774AE0ECF9}
+      IID 53
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5237F1E6-4E15-8342-AC70-5473D36A64E0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_45.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.34063492063492
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F6EFB1BB-7E32-D84B-9CE9-3024AF1A22F0}
+      IID 54
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D3400D3-98FB-324C-9351-0198E3E26836}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_264.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.37546485260771
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {59DB6F1A-624C-F746-ADE0-28B9EC1BDBBF}
+      IID 55
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9FE2953-7CC3-7247-A0B2-453F7408194B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_310.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.4102947845805
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {592FD5E1-DCF1-F541-BA21-18E3B7F456C8}
+      IID 56
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A27D26CD-1785-E142-8326-B0EB79A2EAB2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_40.wav"
+      >
+    >
+  >
+  <TRACK {E796BB69-F0A5-564E-899E-58EC879B3440}
+    NAME 2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E796BB69-F0A5-564E-899E-58EC879B3440}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E808E17E-957F-FA42-ADC7-397F376F4639}
+      IID 57
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CC2F952-3131-204E-8F6A-4CA5A96C67D3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_320.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.03482993197279
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3C4D928-1B4C-7A40-B144-31C4FF7B4F69}
+      IID 58
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24B11716-8A12-FF44-8E89-5D374F0590A7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_308.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.06965986394558
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDF5A337-BA87-A54E-BE48-B1FEA09F3F24}
+      IID 59
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF823CFF-3271-2944-83A5-1C34D5705A45}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_255.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.10448979591837
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9199E956-395A-694F-9BE4-08FA87F0C49B}
+      IID 60
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB8497F3-6437-634A-BBD1-B34D9184EC3F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_83.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.19736961451247
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {971DD29B-919A-BB47-98FA-ADF99E1E4D61}
+      IID 61
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D5922F8-096F-284B-9E17-88A6628C53E5}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_90.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.26702947845805
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FE8800A-9E19-0843-911E-FAC0DB52A25D}
+      IID 62
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CFE6737-C6C4-9448-A4C7-3125FEEE7753}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_227.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.30185941043084
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D560A36-FE49-0E44-A3B6-64C14FE8749B}
+      IID 63
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A1803DAB-0F23-2D4F-AFDA-99AD63D4F3EA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.35990929705215
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CECB1AA-3693-4C48-A469-230C7228B2D4}
+      IID 64
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94C395B9-2B0D-6D40-A7BA-312DA6F6F3B0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_44.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.441179138322
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F60E28C-52CA-E640-BAA2-4D269C5C8E97}
+      IID 65
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {030AB1E4-E240-AB4F-8714-2E39463FF2A2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_318.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.47600907029478
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF9F18B9-A523-CA49-A138-08F0AA8A4B97}
+      IID 66
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD5BC86A-71C8-5043-8A52-84D08D1A067B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_287.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.51081632653061
+      SNAPOFFS 0
+      LENGTH 0.63854875283447
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EEA7C515-9D19-7142-8E90-978A2A1B7CB8}
+      IID 67
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94C1D803-B86A-5348-9D97-6CAED492660F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_48.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.14936507936508
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {48E4A0F5-00D5-6343-9BBA-0657E9068518}
+      IID 68
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5038E6A-E3E3-B745-908A-4BFA34125E2F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.18419501133787
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06D47B7A-BB7C-2345-AD90-77CC4509A888}
+      IID 69
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DAFEDE82-3E04-B44B-B500-CC1BDE4CAB49}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_196.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.21902494331066
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1894BED5-1457-984E-9158-DD71596F38D5}
+      IID 70
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B2007DA-830C-BD40-8088-80C1D56921CA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.26546485260771
+      SNAPOFFS 0
+      LENGTH 0.03480725623583
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1C35C38-B216-9149-9026-27745065C38D}
+      IID 71
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF5687DD-78D8-EA47-A6D3-06A594DEBAAB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_394.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.30027210884354
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B395280-6B28-A64D-8FA1-90391414C29B}
+      IID 72
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C53F850-F951-8742-99F8-48EA2B4C22F3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Mouse_02_1_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.39315192743764
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DBA87667-69B8-014E-8803-1345107415AF}
+      IID 73
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E57A614-B679-2149-88B5-E4DEBF850344}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_236.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.42798185941043
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7F3EA7D-F473-594A-9E80-15CA7FC88137}
+      IID 74
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA227830-424E-984A-B820-ADEE435D62A6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Mouse_02_1_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.63696145124717
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BC566ECB-4963-0642-9051-35CFCFC5DF80}
+      IID 75
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EECA516-D49E-3D43-A213-16C92376EB07}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_13.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.70662131519274
+      SNAPOFFS 0
+      LENGTH 0.16253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A97E45FC-48C2-3B48-8D0E-17859033BA50}
+      IID 76
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30D8756A-83BB-6A44-81AF-578B3AECDBA2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.86916099773243
+      SNAPOFFS 0
+      LENGTH 0.441179138322
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56F94039-A92F-D24D-97EC-04A1DAAC103B}
+      IID 77
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF9AD880-0449-AE47-BF46-AEDD3990AC93}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.31034013605442
+      SNAPOFFS 0
+      LENGTH 0.81269841269841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A6FAA09-DF9B-4D49-B842-E35927251D0C}
+      IID 78
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0514D284-CE9D-064C-A7C5-7EA8934F75A6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_11.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.12303854875283
+      SNAPOFFS 0
+      LENGTH 0.08126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6CBB82D-DB0F-DF45-9748-EE2003B8E666}
+      IID 79
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF0205FB-F22B-7F42-A56F-9A63978DCE50}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.20430839002268
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93398B12-EACE-A14B-B82F-9D18847A1A1D}
+      IID 80
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A554BEA7-59FA-2E45-8E77-2578E83C00D2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_14.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.23913832199546
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD00941F-C9E7-3E40-85CC-4B03E4F1B6B0}
+      IID 81
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A231C76-5602-5D4D-849C-65313E71AD45}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_344.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.29718820861678
+      SNAPOFFS 0
+      LENGTH 0.41793650793651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0062362E-970C-784C-A507-0BDF8DE6DB97}
+      IID 82
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01AF7C66-983A-EA4C-8461-9E1A49F0CB26}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.71512471655329
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C321342E-F1F2-1248-A0DC-AC0D7E6B8470}
+      IID 83
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E58B20AD-9F69-AC4E-A280-5987A6D3E960}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_191.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.74995464852608
+      SNAPOFFS 0
+      LENGTH 1.04489795918367
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E39AD6CF-88F1-DE4F-97E4-9B3536C24B4C}
+      IID 84
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02A6241D-F3AC-FD45-8977-60B2DFF3ECF0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Mouse_02_1_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.79485260770975
+      SNAPOFFS 0
+      LENGTH 0.33668934240363
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A3DA598-7125-7F4D-BA12-26F1F3ADA299}
+      IID 85
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12D0B3D5-9CC2-EF4D-A2E0-4243C6C3556A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.13154195011338
+      SNAPOFFS 0
+      LENGTH 0.17414965986395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0D45EA2-6F08-C446-BFCD-43026AB04951}
+      IID 86
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3334F40B-EDD8-0D42-9EA0-854825A6E570}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Mouse_02_1_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.30569160997732
+      SNAPOFFS 0
+      LENGTH 0.20897959183673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F952087-F431-6D42-AC0D-45E389C38B7A}
+      IID 87
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D15A8218-4CC1-3E49-98C4-3C8E3AE08487}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_14.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.51467120181406
+      SNAPOFFS 0
+      LENGTH 0.12770975056689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B162496-FD52-8343-AA84-3ABE9A3DBCB8}
+      IID 88
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA08A721-A9A1-B342-A447-02AB5360C8C5}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.64238095238095
+      SNAPOFFS 0
+      LENGTH 0.34829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F57DDF5-66CC-DC45-AE91-337C7E87B4B9}
+      IID 89
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC3673C8-58C5-A140-BD29-8E48E8926C02}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_15.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.99068027210884
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C818B18C-2567-4A4E-83DD-9BD4DD8E921C}
+      IID 90
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E31F3ADB-3C33-3148-890E-6362BC8DAFBC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_19.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.08356009070295
+      SNAPOFFS 0
+      LENGTH 0.16253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C52F00E9-36B0-A544-B27D-AE7F07A05E66}
+      IID 91
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78875E85-6A81-4F4C-9BA2-AFC2966E6EF0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_25.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.24609977324263
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93B8582E-EBB0-8747-AF81-09CA0352B27C}
+      IID 92
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {53D77363-E30F-724D-BBFF-890DB3796ADB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_376.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.28092970521542
+      SNAPOFFS 0
+      LENGTH 0.34829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E08C7977-7CD7-7C46-8073-D277148D9E8B}
+      IID 93
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC77E60B-A6E6-D940-9D59-045D0185FEFF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_24.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.62922902494331
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFF1020C-444D-8A4C-AF74-588D0418D44A}
+      IID 94
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E251EFD8-098B-9F48-A2E8-875150C8C3CC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_203.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.6640589569161
+      SNAPOFFS 0
+      LENGTH 4.04027210884354
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40D699CC-0EC3-2747-A89C-5F9253E25649}
+      IID 95
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B90AED9-4899-4B4D-80FA-F1F41017D9CA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_03_0_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.70433106575964
+      SNAPOFFS 0
+      LENGTH 0.9752380952381
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52E1B58C-8491-7D45-BD6F-72351F88A1B0}
+      IID 96
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8A7D374-CB3B-7248-AF5B-AD542B563C74}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.67956916099773
+      SNAPOFFS 0
+      LENGTH 0.17414965986395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A4E96605-92AE-354B-B3E1-6317AE31892C}
+      IID 97
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60C6C530-1125-0443-AC1C-3DE9921E01FE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.85371882086168
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C585D405-4881-0841-9D6E-1E684C084BC0}
+      IID 98
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D7969A5-BEA5-6E4A-B633-27B7894370BE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_102.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.91176870748299
+      SNAPOFFS 0
+      LENGTH 0.10446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87A1576A-D76F-D744-A289-DE24BFE9D6DC}
+      IID 99
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF2529D6-73C6-DA40-A7C0-C6B42565E812}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_27.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.0162358276644
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF60A6BD-AED5-0447-B033-82E8CEF68BF9}
+      IID 100
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4CC9253-FD94-944A-9527-CC05EC97D885}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_238.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.05106575963719
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {23B285EC-1E6C-CF42-AF09-8F6A3CAD6BD0}
+      IID 101
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB3418A7-C686-9146-92B3-26EE20B04BB2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.12072562358276
+      SNAPOFFS 0
+      LENGTH 0.29024943310658
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ABA32999-47B6-8C42-B4C5-45B6C63BB591}
+      IID 102
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C07B90EE-D6E7-1E49-BE9C-1EB04B6A8C64}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_11.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.41097505668934
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6793399-FFAF-6145-8D0E-3E9191D220AF}
+      IID 103
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {261B4509-5A71-9D46-A21C-7D2D96D0F12A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_21.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.44580498866213
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E257DCEF-55A5-1240-90AD-308F3379AA45}
+      IID 104
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF12AB93-6259-A247-BE28-C17B22E246E8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_1_86.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.48065759637188
+      SNAPOFFS 0
+      LENGTH 0.04646258503401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {848F00A8-43F4-6042-955B-D22DF4C211EF}
+      IID 105
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2B107A6-E00A-3744-9942-76DFC6D25A64}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_23.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.52712018140589
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {470A4B72-1869-AF44-A056-43705486140D}
+      IID 106
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {907528CA-DAC1-274C-8C49-D43EAA7B5A43}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_370.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.56195011337868
+      SNAPOFFS 0
+      LENGTH 0.13931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC5379F9-7298-2E42-A624-81C41E8E6377}
+      IID 107
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCD939D1-6939-9248-9CB7-1ED7A4FA8A84}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_1_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.70126984126984
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C8E49D3D-4EA9-B947-BDC9-CB9313F8537B}
+      IID 108
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC0A43A9-4046-EF4D-9BD0-9ABC9F62B350}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_365.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.73609977324263
+      SNAPOFFS 0
+      LENGTH 0.04646258503401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {660A1B29-A72F-E945-A88A-D9B3AE785F65}
+      IID 109
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7672D557-C0C0-3849-A928-12FC2880FA9F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_36.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.78256235827664
+      SNAPOFFS 0
+      LENGTH 0.06965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {774245C5-764C-9A49-A50A-83CDBEF3CF49}
+      IID 110
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DF4D0DE-F9B5-4546-86F2-5E35E81D3DB6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_0_165.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.85222222222222
+      SNAPOFFS 0
+      LENGTH 3.12308390022676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {049C3E9E-3126-8B4E-B4A5-C619579B4939}
+      IID 111
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91F61FFA-6FBC-0745-8F29-8274D6634D3D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_03_0_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.97530612244898
+      SNAPOFFS 0
+      LENGTH 0.04641723356009
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ADF46EB9-AA6D-5B4A-B7A7-0C4034CAD493}
+      IID 112
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {747BC44B-33FE-7048-A515-4ECB197C200E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_1_91.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.02172335600907
+      SNAPOFFS 0
+      LENGTH 0.31344671201814
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8441E34-7B67-0648-AFD1-11822C4136EC}
+      IID 113
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8669617-1638-2647-B361-CA3675CD7387}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_22.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.33517006802721
+      SNAPOFFS 0
+      LENGTH 0.30185941043084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64DFB084-9E6D-DB48-8C5C-2153E6B88D58}
+      IID 114
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5DF7B65-D609-444E-901D-FB215FBE1EA8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_20.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.63702947845805
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8A8DB14-60EB-3E4B-80A6-8C337BC5AFDC}
+      IID 115
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8FCE6E8-773E-514F-9B8C-9729ADC4B232}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_261.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.67185941043084
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C35FF810-D2A5-0445-A5E7-35121C78F00E}
+      IID 116
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E83F40C-BD19-224D-948C-344FCBF0CBD3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_60.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.70668934240363
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E958306-8E63-D540-AA42-E080A73CF269}
+      IID 117
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F27995F-01F4-464E-A30C-FC8F58EB7990}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_314.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.74151927437642
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A42FE487-F86F-1348-B009-08B6BE9D8164}
+      IID 118
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24C0729F-F9CA-114A-A233-ED4EB67EE7B0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_84.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.77634920634921
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {702BFC87-4176-494F-A00D-9C7C4CF3E48D}
+      IID 119
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A4C3C7AD-D8FA-924C-8579-7296B3CEC57C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_316.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.811179138322
+      SNAPOFFS 0
+      LENGTH 0.220589569161
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {003A5134-FA71-2B4C-97C6-CACECBAB410E}
+      IID 120
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AB1F9E5-1FC7-EE42-B148-CAFDC94E868E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.031768707483
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB6311AC-92F2-224E-B792-D8852E09DD5F}
+      IID 121
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BCF1E2B-B5A8-0946-9988-8EDB1A23B885}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_115.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.06659863945579
+      SNAPOFFS 0
+      LENGTH 4.71365079365079
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2894D806-FFE3-4C48-B9A3-2308EDEEDB6A}
+      IID 122
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29DAEA8F-4439-1E44-B0FC-163BF540952E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_292.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.78024943310658
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E6661F1-7488-8645-8D96-A9D5E12BE00F}
+      IID 123
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3168241-E302-2246-AFBD-239189A08A83}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_62.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.82668934240364
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05D8E998-5DAF-324C-8B0C-DB44B8B1888E}
+      IID 124
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DEF4ADB-F317-DA41-A562-5B1F974FDFF8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_273.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.86151927437643
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B1DF9E6-427D-EB49-89F9-06C6550613FB}
+      IID 125
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8A6BBBC-7BF0-C548-8A2B-5BC736728DD3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_56.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.89634920634922
+      SNAPOFFS 0
+      LENGTH 0.0928798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C4270FCC-1A86-F54C-8CB1-7C34FF380C3F}
+      IID 126
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46D94B93-DC88-E44D-896C-B25B60234A32}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_65.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.98922902494332
+      SNAPOFFS 0
+      LENGTH 0.3134693877551
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79077016-ED48-3947-90AB-74A19F314C8C}
+      IID 127
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B505A0F4-E569-1B49-BA76-B18520EE7006}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_40.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.30269841269842
+      SNAPOFFS 0
+      LENGTH 0.10446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F388CC2A-F710-B743-AC94-482BBE93A487}
+      IID 128
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C60D9FA-3D23-774B-BA0F-F5FC134C9161}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_41.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.40716553287983
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {59358F3A-B070-2A45-BB80-A1AF3E65CA0D}
+      IID 129
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A2873F6-5FD9-444C-A103-9F206A3520A1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_266.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.44199546485262
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE7B1126-3DDE-F040-8D24-33EEB984FCD9}
+      IID 130
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6A28F81-D89E-A54C-891F-9AA87FCCF675}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_0_71.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.47682539682541
+      SNAPOFFS 0
+      LENGTH 0.23219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EE8FCEF9-A42C-904D-A40A-87C3386363D3}
+      IID 131
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7E2071E-207A-CD49-A36C-6A0703C93938}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_43.wav"
+      >
+    >
+    <ITEM
+      POSITION 22.70902494331067
+      SNAPOFFS 0
+      LENGTH 1.89242630385488
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E4E84A5-67BD-1740-BBB1-9860436E40B5}
+      IID 132
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B513EA4-B8AE-7D4D-82F0-69FB6EC5D8A1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_62.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.60145124716555
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7D727D79-6AA1-D949-850D-4DFB9E9C76B5}
+      IID 133
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BF78003-FCCE-B946-B282-3D71211A829C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_339.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.63628117913834
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F279C1AF-2A85-3347-8E9B-0440C3187F00}
+      IID 134
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E771FC33-3D0D-414C-AFD0-B90EA87D7DCA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_1_30.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.69433106575966
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3679B38-30E0-9A48-9192-DA3AA211CF8D}
+      IID 135
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {587D5EBC-7301-1E4B-9DE1-1EB231335124}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_42.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.72918367346941
+      SNAPOFFS 0
+      LENGTH 1.03328798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08568357-0F4C-CB4E-B592-74792A5FE3EB}
+      IID 136
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {069ACC0E-38C3-DA45-A35E-623E0399B0AA}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_64.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.76247165532882
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {990DF975-F4DF-574F-B67D-73E18E41CFD3}
+      IID 137
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21680668-22A0-B14F-8DD8-E0E960B6F629}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_04_0_15.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.80891156462587
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1D6302B-8E00-8749-979E-244FDE906D72}
+      IID 138
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D511983-A6EC-0247-9C9E-F9C110E27F5D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_271.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.84374149659866
+      SNAPOFFS 0
+      LENGTH 6.44353741496599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4E080E36-C757-3347-A1BE-CE06A78CAAFD}
+      IID 139
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E4ED1C2-0F3A-6F40-A6CE-175802F71769}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_116.wav"
+      >
+    >
+  >
+  <TRACK {2F5BCF31-D26C-094A-A76C-B92CBECCB78C}
+    NAME -1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2F5BCF31-D26C-094A-A76C-B92CBECCB78C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75AB7628-713D-EF40-B7B0-8613F337EACE}
+      IID 140
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07811127-8C29-BF4D-8332-3D83E5F15185}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_240.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.03482993197279
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {82B7D0F3-80BD-5C48-A800-FE64C7272F73}
+      IID 141
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6D30CC5-0B70-4342-BF66-34CF4C61C4EC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_337.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.06965986394558
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8A4FB64-A463-384A-9C29-AF0FBC2F1515}
+      IID 142
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62D6DE2C-EF86-E64A-B5D1-63DD85334B46}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_324.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.10448979591837
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE8E964D-4F8D-E64E-BAA5-54DB26F627EF}
+      IID 143
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {285D81F1-83F3-2C43-9C76-285A3F67210A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.13931972789116
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACAC87BC-97B0-C64E-B2B0-7476B8E9FCCD}
+      IID 144
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7594495-C827-B144-B668-C973BE67DF62}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_28.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.18575963718821
+      SNAPOFFS 0
+      LENGTH 0.37151927437642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9ADFCEB6-F58F-E649-B73B-20D1B232AD48}
+      IID 145
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8330AFDF-2E32-6845-8650-9DAED0BBD2AC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_02_0_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.55727891156463
+      SNAPOFFS 0
+      LENGTH 3.68036281179138
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BA3CB83-4ADB-3647-A108-6BE6742BCCA1}
+      IID 146
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {090ACB1C-795D-F54B-9FE4-F13F75D772B9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.23764172335601
+      SNAPOFFS 0
+      LENGTH 4.44662131519274
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3DE8C56A-6161-0F4E-A650-49D277081620}
+      IID 147
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9A649AC-8973-5D43-A756-82CED9DE10DD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.68426303854875
+      SNAPOFFS 0
+      LENGTH 0.73142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01E94F41-0900-B94B-96B7-313B9DDF965C}
+      IID 148
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {676A918C-ECAE-064D-B347-113391294A3F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_26.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.41569160997732
+      SNAPOFFS 0
+      LENGTH 0.05804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {809E67F3-5C70-E84E-9B80-1DF74A0303EC}
+      IID 149
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF810F9B-ACF8-6D47-853C-36F5ECF562BE}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_399.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.47374149659864
+      SNAPOFFS 0
+      LENGTH 0.40634920634921
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06C60AA8-6645-3347-926E-8A5F2498766F}
+      IID 150
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32D4FAAE-DE6D-084D-BFC8-0CB074528F43}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_46.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.88009070294785
+      SNAPOFFS 0
+      LENGTH 0.04643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99EA5DB4-EC0E-5B41-A0EE-D2980FCBC0B6}
+      IID 151
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5ED75881-FB19-814F-AE6D-2363C1F0BF12}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Keyboard_01_0_47.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.9265306122449
+      SNAPOFFS 0
+      LENGTH 0.03482993197279
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3AC8D46D-CD3D-184D-9480-7E55DC4D0D52}
+      IID 152
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99708F14-8E4B-3744-8607-E8028A98C204}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_03_1_199.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.96136054421769
+      SNAPOFFS 0
+      LENGTH 0.03485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C42DB002-B747-0A4D-9757-ED3092F11A72}
+      IID 153
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E7CF70D-9ED4-8646-AB5C-C2781BF63FE1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xiamo Note 4X_01_1_277.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.99621315192744
+      SNAPOFFS 0
+      LENGTH 2.49614512471655
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3EE88AF7-A2B4-444D-93B2-D2083BAD88E3}
+      IID 154
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DE02154-54BE-D44A-8C74-AAFF84BF15D5}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Xbox Controller_01_1_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.49235827664399
+      SNAPOFFS 0
+      LENGTH 11.38938775510204
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {889EB361-BE56-764E-9EA5-91E191732FA7}
+      IID 155
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C05C415-7A70-4545-B0BD-63282B8A1E40}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/WD Hard Drive_02_0_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.88174603174603
+      SNAPOFFS 0
+      LENGTH 7.54648526077098
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5FA3000E-C5F3-C64D-ADAB-0A627582E5E1}
+      IID 156
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44A7A095-E331-C84D-98B2-232E214318B4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/WD Hard Drive_02_0_27.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>
