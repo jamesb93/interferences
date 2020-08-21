@@ -1,0 +1,79 @@
+{
+    "analyser": {
+        "0_FluidOnsetslice": {
+            "name": "FluidOnsetslice",
+            "order": 0,
+            "input_order_hash": "",
+            "fftsettings": [
+                1024,
+                512,
+                1024
+            ],
+            "filtersize": 5,
+            "framedelta": 20,
+            "metric": 0,
+            "minslicelength": 2,
+            "threshold": 0.3,
+            "identity_hash": "a71f563009a89e3a4105a0a803e697247f6de902"
+        },
+        "1_ExplodeAudio": {
+            "name": "ExplodeAudio",
+            "order": 1,
+            "input_order_hash": "",
+            "identity_hash": "2af97a83d2bf3df49d32e4e1399d9d8b241d22d4"
+        },
+        "2_FluidMFCC": {
+            "name": "FluidMFCC",
+            "order": 2,
+            "input_order_hash": "",
+            "fftsettings": [
+                4096,
+                512,
+                4096
+            ],
+            "numbands": 40,
+            "numcoeffs": 20,
+            "minfreq": 80,
+            "maxfreq": 20000,
+            "discard": true,
+            "identity_hash": "7d8fdaaab7efbe205a6bc79bd0f4c4e93d5d31ea"
+        },
+        "3_Stats": {
+            "name": "Stats",
+            "order": 3,
+            "input_order_hash": "",
+            "numderivs": 1,
+            "flatten": true,
+            "spec": [
+                "mean",
+                "stddev",
+                "skewness",
+                "kurtosis",
+                "min",
+                "median",
+                "max"
+            ]
+        },
+        "4_Standardise": {
+            "name": "Standardise",
+            "order": 4,
+            "input_order_hash": ""
+        },
+        "5_UmapDR": {
+            "name": "UMAP",
+            "order": 5,
+            "input_order_hash": "",
+            "mindist": 0.01,
+            "neighbours": 7,
+            "components": 2
+        }
+    },
+    "success": {
+        "0_FluidOnsetslice": true,
+        "1_ExplodeAudio": true,
+        "2_FluidMFCC": false,
+        "3_Stats": true,
+        "4_Standardise": true,
+        "5_UmapDR": true
+    }
+}

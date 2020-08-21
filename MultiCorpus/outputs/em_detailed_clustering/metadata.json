@@ -1,0 +1,59 @@
+{
+    "analyser": {
+        "0_FluidMFCC": {
+            "name": "FluidMFCC",
+            "order": 0,
+            "input_order_hash": "",
+            "fftsettings": [
+                1024,
+                -1,
+                -1
+            ],
+            "numbands": 40,
+            "numcoeffs": 20,
+            "minfreq": 80,
+            "maxfreq": 20000,
+            "discard": true,
+            "identity_hash": "b0bd629d34e36339cd082c1b478ecfff5ee70d7a"
+        },
+        "1_Stats": {
+            "name": "Stats",
+            "order": 1,
+            "input_order_hash": "",
+            "numderivs": 1,
+            "flatten": true,
+            "spec": [
+                "mean",
+                "stddev",
+                "skewness",
+                "kurtosis",
+                "min",
+                "median",
+                "max"
+            ],
+            "identity_hash": "a42f7d72edf350bd67b1090902b6b09998bf0327"
+        },
+        "2_Standardise": {
+            "name": "Standardise",
+            "order": 2,
+            "input_order_hash": "",
+            "identity_hash": "893b437bb08018eb126db85214a18b7c17e45939"
+        },
+        "3_HDBSCluster": {
+            "name": "HDBSCluster",
+            "order": 3,
+            "input_order_hash": "",
+            "minclustersize": 10,
+            "minsamples": 1,
+            "identity_hash": "a2526ee93426590855b253fee9057e6f852474ec"
+        }
+    },
+    "success": {
+        "0_FluidMFCC": true,
+        "1_Stats": true,
+        "2_Standardise": true,
+        "3_HDBSCluster": true
+    },
+    "time": "20:01:11 | August 20, 2020",
+    "io": "['FluidMFCC', 'Stats', 'Standardise', 'HDBSCluster']"
+}

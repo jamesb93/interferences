@@ -1,0 +1,9 @@
+2020-08-20 20:01:11,325 : DEBUG : ftis.process : Logging initialised
+2020-08-20 20:01:11,329 : DEBUG : ftis.process : FluidMFCC: Initiating
+2020-08-20 20:01:11,786 : DEBUG : ftis.process : FluidMFCC: Ran Successfully
+2020-08-20 20:01:11,787 : DEBUG : ftis.process : Stats: Initiating
+2020-08-20 20:01:11,810 : DEBUG : ftis.process : Stats: Ran Successfully
+2020-08-20 20:01:11,811 : DEBUG : ftis.process : Standardise: Initiating
+2020-08-20 20:01:11,837 : DEBUG : ftis.process : Standardise: Ran Successfully
+2020-08-20 20:01:11,838 : DEBUG : ftis.process : HDBSCluster: Initiating
+2020-08-20 20:01:11,858 : DEBUG : ftis.process : HDBSCluster: Ran Successfully
