@@ -1,4 +1,4 @@
-from ftis.analyser import FluidMFCC, Stats, Standardise, UmapDR, Normalise, HDBSCluster
+from ftis.analyser import FluidMFCC, Stats, Standardise, UMAP, Normalise, HDBSCluster
 from ftis.common.io import get_duration
 from ftis.corpus import CorpusLoader, CorpusFilter
 from ftis.process import FTISProcess as Chain
@@ -19,7 +19,7 @@ process.add(
     FluidMFCC(discard=True, numcoeffs=20, fftsettings=[8192, 128, 8192]),
     Stats(numderivs=1, 
         spec = ["median", "max", "min", "stddev", "mean", "skewness"]),
-    UmapDR(components=2),
+    UMAP(components=2),
     clustering
 )
 

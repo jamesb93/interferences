@@ -9,7 +9,7 @@ from ftis.analyser import (
     ClusteredSegmentation, 
     FluidOnsetslice, 
     ExplodeAudio,
-    UmapDR)
+    UMAP)
 from ftis.process import FTISProcess as Chain
 from ftis.common.conversion import samps2ms
 from pathlib import Path

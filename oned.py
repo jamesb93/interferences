@@ -3,7 +3,7 @@
 Arrange segmentations along a single axis using dimension reduction
 """
 
-from ftis.analyser import FluidMFCC, UmapDR, Stats, Normalise
+from ftis.analyser import FluidMFCC, UMAP, Stats, Normalise
 from ftis.process import FTISProcess as Chain
 from ftis.common.conversion import samps2ms
 
@@ -17,7 +17,7 @@ process = Chain(
 
 mfcc = FluidMFCC(cache=True)
 stats = Stats(flatten=True, numderivs=1, cache=True)
-umap = UmapDR(components=1, cache=True)
+umap = UMAP(components=1, cache=True)
 normalise = Normalise()
 
 process.add(

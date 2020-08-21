@@ -1,4 +1,4 @@
-from ftis.analyser import FluidMFCC, Stats, Standardise, UmapDR, Normalise, HDBSCluster
+from ftis.analyser import FluidMFCC, Stats, Standardise, UMAP, Normalise, HDBSCluster
 from ftis.corpus import CorpusLoader, CorpusFilter
 from ftis.process import FTISProcess as Chain
 
@@ -15,7 +15,7 @@ process.add(
     CorpusFilter(max_loudness=10, cache=1),
     FluidMFCC(discard=True, cache=1),
     Stats(numderivs=1, cache=1),
-    UmapDR(components=10, cache=1),
+    UMAP(components=10, cache=1),
     HDBSCluster(minclustersize=5)
 )
 

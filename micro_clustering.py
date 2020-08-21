@@ -6,7 +6,7 @@ from ftis.analyser import (
     FluidMFCC, 
     HDBSCluster, 
     Stats, 
-    UmapDR, 
+    UMAP, 
     Standardise,
     Normalise
 )
@@ -25,7 +25,7 @@ process.add(
     Stats(numderivs=1, flatten=True, cache=False),
     Standardise(cache=False),
     Normalise(cache=False),
-    UmapDR(components=6),
+    UMAP(components=6),
     HDBSCluster(minclustersize=10)
 )
 
