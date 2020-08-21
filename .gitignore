@@ -7,3 +7,4 @@ __pycache__
 *.reapeaks
 .vscode/settings.json
 **/.cache
+MultiCorpus/scripts/.vscode/settings.json
