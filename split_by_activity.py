@@ -3,7 +3,7 @@
 Split by activity into two clusters hopefully rendering sections that are static, versus those that are more gestural or dynamic
 """
 
-from ftis.analyser import Flux, Stats, Normalise, AGCluster
+from ftis.analyser import Flux, Stats, Normalise, AgglomerativeClustering
 from ftis.process import FTISProcess as Chain
 from pathlib import Path
 from shutil import copyfile
@@ -16,7 +16,7 @@ process = Chain(
     folder=folder
 )
 
-cluster = AGCluster(numclusters=2)
+cluster = AgglomerativeClustering(numclusters=2)
 
 process.add(
     Flux(cache=False),
