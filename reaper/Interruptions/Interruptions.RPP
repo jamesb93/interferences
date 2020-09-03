@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.13/OSX64" 1597444427
+<REAPER_PROJECT 0.1 "6.13/OSX64" 1599145258
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -13,9 +13,9 @@
   GRID 3454 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   PANMODE 3
-  CURSOR 3016.7361056106142
-  ZOOM 210.21494018670214 633794 0
-  VZOOMEX 8 0
+  CURSOR 1943.0215994088562
+  ZOOM 0.34482375296489 0 0
+  VZOOMEX 8 438
   USE_REC_CFG 1
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -45,7 +45,7 @@
   <RENDER_CFG
     ZXZhdyABAA==
   >
-  LOCK 1
+  LOCK 16384
   <METRONOME 6 2
     VOL 0.25 0.125
     FREQ 800 1600 1
@@ -106,7 +106,10 @@
     ARM 0
     DEFSHAPE 1 -1 -1
   >
+  MARKER 3 2693.4895305174605 "gridded out" 0 0 1 B {583040A6-CA30-E546-913C-A501401692D5}
+  MARKER 4 2693.6097822860233 "Timing 161" 0 0 1 B {9BF94964-0773-8C44-9B22-5F7A7F9CC0DE}
   MARKER 1 2720.73673494488 "extending and breaking" 0 0 1 B {F0534624-2F35-454F-9E19-67589465E948}
+  MARKER 2 2887.9874816700626 "different organisations of iterated material" 0 0 1 B {8A9A5EE4-3500-6A4A-9B9E-7E1B7ECA07C6}
   <PROJBAY
   >
   <TRACK {5C5182BA-1316-9742-865B-651C3A2AF6E6}
@@ -4027,6 +4030,33 @@
         FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_04_0_7.wav"
       >
     >
+    <ITEM
+      POSITION 850.32183134264517
+      SNAPOFFS 0
+      LENGTH 97.42877551020524
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5067E668-BBAE-B045-9DD1-EB12F59E7A24}
+      IID 19
+      <NOTES
+        |To be convolved
+      >
+      IMGRESOURCEFLAGS 0
+      NAME "05-WD Hard Drive-200619_1555.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {9220DF41-DC0D-0A40-AA0C-43211760457A}
+      RECPASS 12
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/05-WD Hard Drive-200619_1555.wav"
+      >
+    >
   >
   <TRACK {B7EF91DB-1B78-DE41-950C-655920999C58}
     NAME ""
@@ -4041,7 +4071,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -5256,6 +5286,7 @@
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0 0
+      COLOR 21106063 B
       SEL 0
       IGUID {D5F89FC8-5B75-9742-9ED4-281607A725A0}
       IID 426
@@ -5460,7 +5491,7 @@
       NAME ""
       VOLPAN 1 0 1 -1
       SOFFS 0
-      PLAYRATE 1 0 0.2 -1 0 0.0025
+      PLAYRATE 1 0 0 -1 0 0.0025
       CHANMODE 0
       GUID {98285ED7-1089-F248-BCEF-59BAB9846D50}
       <SOURCE WAVE
@@ -5812,7 +5843,7 @@
       NAME ""
       VOLPAN 1 0 1 -1
       SOFFS 0
-      PLAYRATE 1 1 -0.15 -1 0 0.0025
+      PLAYRATE 1 1 -0.07 -1 0 0.0025
       CHANMODE 0
       GUID {6B8898D6-68BC-2E49-A953-A8BD7597F12A}
       <SOURCE WAVE
@@ -13553,7 +13584,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0
@@ -13565,9 +13596,9 @@
     MIDIOUT -1
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 1567 203 931 510
+      WNDRECT 1567 179 812 534
       SHOW 0
-      LASTSEL 1
+      LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST3: MEqualizer (MeldaProduction)" MEqualizer.vst3 0 "" 928022665{4D656C646170726F4D4165334D416533} ""
@@ -13591,14 +13622,14 @@
       WAK 0 0
       BYPASS 0 0 0
       <VST "VST3: MCompressor (MeldaProduction)" MCompressor.vst3 0 "" 886559297{4D656C646170726F4D4165314D416531} ""
-        QdLXNO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAF4CAAABAAAAAAAQAA==
-        JwEAAAEAAAB42m2RTW/CMAyG7/yKyL1ubT5KP6SmSCA4gYbGtHugoY0WkioJE9uvnyigobH3ZNmP/Vp2NTkdNPqUzitrOJAYA5JmZxtlWg7HsH8uYFKPqtXMHnonvbfO
-        yxCUaT2KOBBAkRNBWQ5pTArCClywHOeAotA56TurGw44pgSXFJA49FqFYyOvPRjQzJrgrNbS+bkRWy2bIT1vVLBuo74lh5Kxp3FKAXVC71uhzEAsXzfnYUEOFOGQ5jTO
-        rsr/1ikHyrKY3QRoJU7LxctU293HxYZRQGt9bJV5s1ZvhZtZrUXvzxsRQO+3G5WkpGUGddU60Xd1tbbKBLTQovVTDiRlkDwmMaDT3SG+fuN/YDLA5IoxnGGa0TE+F5K6
-        Si6+oyp5fIqvRz/yU4smJwEAAAAAAAB42m2RTW/CMAyG7/yKyL1ubT5KP6SmSCA4gYbGtHugoY0WkioJE9uvnyigobH3ZNmP/Vp2NTkdNPqUzitrOJAYA5JmZxtlWg7H
-        sH8uYFKPqtXMHnonvbfOyxCUaT2KOBBAkRNBWQ5pTArCClywHOeAotA56TurGw44pgSXFJA49FqFYyOvPRjQzJrgrNbS+bkRWy2bIT1vVLBuo74lh5Kxp3FKAXVC71uh
-        zEAsXzfnYUEOFOGQ5jTOrsr/1ikHyrKY3QRoJU7LxctU293HxYZRQGt9bJV5s1ZvhZtZrUXvzxsRQO+3G5WkpGUGddU60Xd1tbbKBLTQovVTDiRlkDwmMaDT3SG+fuN/
-        YDLA5IoxnGGa0TE+F5K6Si6+oyp5fIqvRz/yU4sm
+        QdLXNO5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFgCAAABAAAAAAAQAA==
+        JAEAAAEAAAB42m2Ry27CMBBF93yFNWzbxI88pThIIFiBikrVvSEmsWrsyDYV7ddXBNJF6V2N7px5aKaaXU4afUrnlTUcSIQBSXOwjTIth3M4PhcwqyfVZmFPvZPeW+dl
+        CMq0Hk05EEBTJ4KyHJKIFIQVuGA5zgFNQ+ek76xuOOAoxSkgceq1CudG3iswoIU1wVmtpfNLI/ZaNoO9bFSwbqe+JYeSsac0oYA6oY+tUGYg1q+7a7MgB4pwSHIaZXfl
+        f/OUA2VZxEYB2ojLevUy1/bwcRvDKKCtPrfKvFmr98ItrNai99eNCKD38UIlKWmZQV21TvRdXW2tMgGttGj9nANJGMSPJgZ0+T3D1xj9A5IBJCNUJhlLU1ZgWl7p+DZz
+        UsWP7/D15AceFYoXJAEAAAAAAAB42m2Ry27CMBBF93yFNWzbxI88pThIIFiBikrVvSEmsWrsyDYV7ddXBNJF6V2N7px5aKaaXU4afUrnlTUcSIQBSXOwjTIth3M4Phcw
+        qyfVZmFPvZPeW+dlCMq0Hk05EEBTJ4KyHJKIFIQVuGA5zgFNQ+ek76xuOOAoxSkgceq1CudG3iswoIU1wVmtpfNLI/ZaNoO9bFSwbqe+JYeSsac0oYA6oY+tUGYg1q+7
+        a7MgB4pwSHIaZXflf/OUA2VZxEYB2ojLevUy1/bwcRvDKKCtPrfKvFmr98ItrNai99eNCKD38UIlKWmZQV21TvRdXW2tMgGttGj9nANJGMSPJgZ0+T3D1xj9A5IBJCNU
+        JhlLU1ZgWl7p+DZzUsWP7/D15AceFYoX
         AFByZXNldHM6IDAAEAAAAA==
       >
       PRESETNAME "Presets: 0"
@@ -15715,667 +15746,7 @@
       >
     >
     <ITEM
-      POSITION 564.32722433767617
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5D599B3E-9B42-D44D-B4E7-5738B92B6B7F}
-      IID 2234
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999976 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E9939C4A-95AD-2D4B-942F-0AF772556CC1}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 564.4732243376759
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7A7A359D-2591-B448-A4A1-C04AAB496A7E}
-      IID 2235
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999457 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6701DEA2-F59A-C048-B2B1-C6E103B27F44}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 564.61922433767586
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {13CD9778-470C-974C-BA63-C01C9CCD3A6B}
-      IID 2236
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000084 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3FDC994A-53B7-1641-AF80-7C2E2F18A8AF}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 564.76522433767605
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {91B56834-DBD0-554E-94A5-A3033DBC3528}
-      IID 2237
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999444 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0D917684-D289-1F42-987D-BB5FF8145EFE}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 564.911224337676
-      SNAPOFFS 0
-      LENGTH 0.02192589784954
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1809EE60-13BD-2A48-B920-C5F3F249130F}
-      IID 2238
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000535 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AFDDFBBF-4A36-F04C-8615-3B89C83B2AEF}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 565.05722433767596
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A816A53E-DB15-F040-883B-BD0407E990BE}
-      IID 2239
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000076 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E672D1AE-D8AE-3042-B294-81B771F84F10}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 565.20322433767592
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C695D33C-8B30-C44B-9CD6-7B40AA6389A4}
-      IID 2240
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000076 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E4D5F268-D63E-0C4B-9142-66D61FD74F6E}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 565.34922433767611
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {30E38FEE-F32C-4C45-976E-1979DC8FF55E}
-      IID 2241
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999565 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F0266967-0010-7540-91EA-1C9E37C8FF3C}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 565.49522433767606
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3B585A2F-D7EA-524E-BFDE-79C231A45269}
-      IID 2242
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000084 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {531E292A-EF67-B446-9D61-DEC7A3362F98}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 565.64122433767591
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {90C39EAB-FFB1-8541-A6E1-B7268885FA86}
-      IID 2243
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999444 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FBD5CE80-BF80-3844-AEB2-0B09D2BFB8DE}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 565.78722433767621
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {CE0DCF16-470E-6C49-B6F4-CA39A295C5EC}
-      IID 2244
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999565 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5F950F68-E1C9-6E4A-9EA9-79F61023A0CE}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 565.93322433767617
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {AF8B4981-843A-E14A-AAE8-591B105D0230}
-      IID 2764
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999533 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0E3FA448-5648-1545-B5BF-4F2FA74BBCA4}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 566.07922433767612
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BCE73F52-261D-D24D-99D8-0B5C9472A8BA}
-      IID 2765
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000052 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D7312495-8800-844D-B901-81A42EEE75EC}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 566.2252243376762
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3BC45501-CEC4-5F4C-A537-9B762D3C6324}
-      IID 2766
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999412 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B0636D56-42AC-6346-ACBB-F3D86E3C4032}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 566.37122433767604
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {DE9A798A-191F-C24A-A7CF-1CF10416B1C9}
-      IID 2767
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000052 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {96A1AF6F-034C-EA4C-91D4-1BFD07F48CFE}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 566.51722433767611
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4A23C4CF-F423-5548-9685-0BE327A30E71}
-      IID 2768
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {49588954-72CC-4B4D-AC9B-76166392C958}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 566.66322433767641
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E020F5E5-AFF3-6245-9B63-760D4513B68B}
-      IID 2769
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999472 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {720D5352-9B05-D94A-85BD-86DA07831831}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 566.80922433767614
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E31960D6-E672-5B49-AD4D-8090BB3B614D}
-      IID 2770
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000084 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E458B539-2085-0F4C-91C0-698541127A55}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 566.95522433767587
-      SNAPOFFS 0
-      LENGTH 0.02192589784954
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {91BCA3D7-2313-354D-B25A-85B9074EB281}
-      IID 2771
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000481 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5B83E778-CD58-824F-8249-17DD0794E992}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 567.10122433767583
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BB6437DE-7AF1-9F43-AAED-A4B3FAD1E00E}
-      IID 2772
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000016 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6F7C5B81-B177-2644-9493-BF87C675CB58}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 567.24722433767602
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C26D8FAA-2B37-6447-AD92-A7C0EAEB2082}
-      IID 2773
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999557 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {77825B93-83F4-C141-99E1-A8008FEADE1A}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 567.39322433767597
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {04F88B87-C024-AA4B-B6AE-6D4364D816F4}
-      IID 2774
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999557 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9C62BC23-E610-8546-9061-1F2644F06038}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 567.53922433767593
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {39963CC3-E47E-8E48-A434-D7B3A07D4F94}
-      IID 2775
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000084 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {870AE841-50C4-2047-91B3-0A440B599564}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 567.68522433767589
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EF8779B9-ACE8-3B47-A21E-7E7ED680E2DB}
-      IID 2776
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000084 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9E4DB3AB-8B1D-B640-9ED8-57E710ABCAC1}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 567.83122433767608
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {13E82B9E-DB7F-F447-91FB-35D3C634AFF3}
-      IID 2777
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999444 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {73408105-0256-1B44-8465-73BDBB608384}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 567.97722433767603
-      SNAPOFFS 0
-      LENGTH 0.02192589784966
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D3326725-E2DF-0F48-A80B-5EC497ADA38C}
-      IID 2778
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 1.00000000000084 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5360A414-F299-CD4C-9AFB-E060672DB685}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 568.12322433767588
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {00F62216-B014-1241-9279-C1049028F566}
-      IID 2779
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999562 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D77CF6DE-7D3F-534A-9ECC-EDFE7D8BD29D}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 568.26922433767618
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {22AF7C53-A360-324B-A2B2-ED6013BA046F}
-      IID 2780
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999562 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2982F959-EF58-4B43-8ACD-5836249E6C32}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 568.41522433767614
-      SNAPOFFS 0
-      LENGTH 0.02192589784977
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D3F24FC4-3DD9-084B-82F3-B795914929DB}
-      IID 2781
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999441 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EDAE8281-0FFC-CC47-B191-18FB2C5B589A}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 568.56122433767609
-      SNAPOFFS 0
-      LENGTH 0.02192589784988
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {40A9866D-185D-CA40-B89D-9D676DEF0508}
-      IID 2782
-      NAME ""
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08824341282286
-      PLAYRATE 0.99999999999044 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D09AC521-0DC0-5645-9039-64CE097B2AA4}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_02_3_44.wav"
-      >
-    >
-    <ITEM
-      POSITION 580.17517523452227
+      POSITION 597.44537388001879
       SNAPOFFS 0
       LENGTH 75.82206573325095
       LOOP 1
@@ -16470,7 +15841,7 @@
       VOLPAN 1 0 1 -1
       SOFFS 337.07338206104771
       PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 2
+      CHANMODE 0
       GUID {DA859F37-FB0D-7648-9EB6-74CE1B057C1C}
       RECPASS 11
       <SOURCE WAVE
@@ -16479,7 +15850,7 @@
     >
   >
   <TRACK {7CF0915F-5C82-5C4F-99DE-BA3E450FB62B}
-    NAME ""
+    NAME somewhat-compressed
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -17541,6 +16912,381 @@
         FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/04-Xiamo Note 4X-200619_1546-01.wav"
       >
     >
+    <ITEM
+      POSITION 1359.3577804402396
+      SNAPOFFS 0
+      LENGTH 92.46574563685795
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C1DF276-4314-8543-B81A-914B48427D93}
+      IID 16
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5F760BD-D288-2544-92AE-5579F922C9D7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 1451.8235260770975
+      SNAPOFFS 0
+      LENGTH 109.82959183673461
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26B8E8C1-86E8-AC48-B251-A7D2B35A23D3}
+      IID 4937
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 92.46574563685795
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF493DB1-D12E-1C44-B0C7-3C03A6F748D8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_02.wav"
+      >
+    >
+    <ITEM
+      POSITION 1561.6531179138321
+      SNAPOFFS 0
+      LENGTH 106.85298452187249
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4839E21B-FBD3-114B-8B79-51F7E7C7DE41}
+      IID 4938
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 202.29533747359255
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {113B1296-5E8D-1741-906E-21B1A68939E8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_02.wav"
+      >
+    >
+  >
+  <TRACK {7F934D67-1C49-BA4B-BB6D-272517BEC4C7}
+    NAME hyper-compressd
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.00000000000025 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7F934D67-1C49-BA4B-BB6D-272517BEC4C7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 875 931 510
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: MCompressor (MeldaProduction)" MCompressor.vst 0 "" 1296131377<5653544D4165316D636F6D7072657373> ""
+        MWVBTe5e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFQBAAABAAAAAAAQAA==
+        eNptUUtvwjAMvvMrInPdSh59Sg1IoO0EGhrT7hn12og0QUmY2H791MIuA9/8PfxZdr0494Z8oQ/aWQksoUDQ7l2jbSvhFD8fS1jMJ/Vm5fqjxxCcDxijtm0gUwkMyFTF
+        qPYHCRTI9GARe9eghLW2qDyQqVdROwk84WWaDj0aVAEl0ITStOKsSmkm8iwfuD4YtG3sLiyvsnKwxM5j6JxpRlgUBaeU0jIbPKo/Gh1PDV5zKJCVs9E7Y9CHJ6s+DDYj
+        /NTo6PxO/6CESoiHLOVAOmU+W6XtqFi/7oZhEUcVk5AWPMmvVfznuQQu8kT8FZCNOq+fX5bG7Q+XGMGBbM2p1fbNOfOh/MoZo45h2IgBef87e8UqXuUwr1uvjt283jpt
+        I3k2qg1LCSwVMLsFKZDznYN832J3zGw0s6ucZaUoeCZEUfFBPbvsMalnt38P88kvKVultg==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {361EECC1-85FD-7545-89D0-F10F0755BA97}
+      <PARMENV 5 0 1 0.5
+        EGUID {98AE5927-3191-9642-B7F6-D99D3A85370F}
+        ACT 1 -1
+        VIS 0 1 1
+        LANEHEIGHT 0 0
+        ARM 1
+        DEFSHAPE 0 -1 -1
+        PT 0 0.028 0
+        PT 2632.86348089 0.028 0
+        PT 2678.74641772 0.043 0
+        PT 2694.96974163 0.043 0
+        PT 2697.17420848 0.03721974 0
+        PT 2697.648338 0.03302377 0
+        PT 2706.50603841 0.03803137 0
+        PT 2706.60211859 0.028 0
+        PT 2720.70390535 0.028 0
+        PT 2722.45162684 0.02857136 0
+        PT 2722.45212684 0.0411326 0
+        PT 2728.1642477 0.043 0
+        PT 2741.99620979 0.043 0
+        PT 2741.99670979 0.03721843 0
+        PT 2742.36353972 0.03625657 0
+        PT 2742.36403972 0.043 0
+        PT 2742.49420979 0.043 0
+        PT 2742.49470979 0.03629946 0
+        PT 2742.56436965 0.03632223 0
+        PT 2742.56486965 0.043 0
+        PT 2742.66020979 0.043 0
+        PT 2742.66070979 0.03635373 0
+        PT 2742.74197963 0.03638029 0
+        PT 2742.74247963 0.043 0
+        PT 2742.82620979 0.043 0
+        PT 2742.82670979 0.03640799 0
+        PT 2742.89636965 0.03643077 0
+        PT 2742.89686965 0.043 0
+        PT 2742.99220979 0.043 0
+        PT 2742.99270979 0.03646226 0
+        PT 2743.0391497 0.03647744 0
+        PT 2743.0396497 0.043 0
+        PT 2743.15820979 0.043 0
+        PT 2743.15870979 0.03651653 0
+        PT 2743.22836965 0.0365393 0
+        PT 2743.22886965 0.043 0
+        PT 2743.32420979 0.043 0
+        PT 2743.32470979 0.0365708 0
+        PT 2743.35953972 0.03658219 0
+        PT 2743.36003972 0.043 0
+        PT 2743.49020979 0.043 0
+        PT 2743.49070979 0.03662507 0
+        PT 2743.5371497 0.03664025 0
+        PT 2743.5376497 0.043 0
+        PT 2743.65620979 0.043 0
+        PT 2743.65670979 0.03667934 0
+        PT 2743.76119958 0.0367135 0
+        PT 2743.76169958 0.043 0
+        PT 2743.82220979 0.043 0
+        PT 2743.82270979 0.03673361 0
+        PT 2743.8691497 0.03674879 0
+        PT 2743.8696497 0.043 0
+        PT 2743.98820979 0.043 0
+        PT 2743.98870979 0.03678787 0
+        PT 2744.05836965 0.03681065 0
+        PT 2744.05886965 0.043 0
+        PT 2744.15420979 0.043 0
+        PT 2744.15470979 0.03684214 0
+        PT 2744.18953972 0.03685353 0
+        PT 2744.19003972 0.043 0
+        PT 2744.32020979 0.043 0
+        PT 2744.32070979 0.03689641 0
+        PT 2744.3671497 0.03691159 0
+        PT 2744.3676497 0.043 0
+        PT 2744.48620979 0.043 0
+        PT 2744.48670979 0.03695068 0
+        PT 2744.57958961 0.03698104 0
+        PT 2744.58008961 0.043 0
+        PT 2744.65220979 0.043 0
+        PT 2744.65270979 0.03700495 0
+        PT 2745.01953972 0.03712487 0
+        PT 2745.02003972 0.043 0
+        PT 2745.15020979 0.043 0
+        PT 2745.15070979 0.03716775 0
+        PT 2745.22036965 0.03719053 0
+        PT 2745.22086965 0.043 0
+        PT 2745.31620979 0.043 0
+        PT 2745.31670979 0.03722202 0
+        PT 2745.37475967 0.037241 0
+        PT 2745.37525967 0.043 0
+        PT 2745.48220979 0.043 0
+        PT 2745.48270979 0.03727629 0
+        PT 2745.5291497 0.03729147 0
+        PT 2745.5296497 0.043 0
+        PT 2745.64820979 0.043 0
+        PT 2745.64870979 0.03733056 0
+        PT 2745.68353972 0.03734195 0
+        PT 2745.68403972 0.043 0
+        PT 2745.81420979 0.043 0
+        PT 2745.81470979 0.03513612 0
+        PT 2745.88436965 0.03523631 0
+        PT 2745.88486965 0.043 0
+        PT 2745.98020979 0.043 0
+        PT 2745.98070979 0.03537488 0
+        PT 2746.03875967 0.03545838 0
+        PT 2746.03925967 0.043 0
+        PT 2746.14620979 0.043 0
+        PT 2746.14670979 0.03561365 0
+        PT 2746.55997963 0.03620807 0
+        PT 2746.56047963 0.043 0
+        PT 2746.64420979 0.043 0
+        PT 2746.64470979 0.03632994 0
+        PT 2746.72597963 0.03644684 0
+        PT 2746.72647963 0.043 0
+        PT 2746.81020979 0.043 0
+        PT 2746.81070979 0.03656871 0
+        PT 2746.86875967 0.0366522 0
+        PT 2746.86925967 0.043 0
+        PT 2746.97620979 0.043 0
+        PT 2746.97670979 0.03680747 0
+        PT 2747.05797963 0.03692437 0
+        PT 2747.05847963 0.043 0
+        PT 2747.14220979 0.043 0
+        PT 2747.14270979 0.03704624 0
+        PT 2747.23558961 0.03717983 0
+        PT 2747.23608961 0.043 0
+        PT 2747.30820979 0.043 0
+        PT 2747.30870979 0.037285 0
+        PT 2747.36675967 0.0373685 0
+        PT 2747.36725967 0.043 0
+        PT 2747.47420979 0.043 0
+        PT 2747.47470979 0.03752377 0
+        PT 2747.5211497 0.03759056 0
+        PT 2747.5216497 0.043 0
+        PT 2747.64020979 0.043 0
+        PT 2747.64070979 0.03776253 0
+        PT 2747.67553972 0.03781263 0
+        PT 2747.67603972 0.043 0
+        PT 2747.80620979 0.043 0
+        PT 2747.80670979 0.0380013 0
+        PT 2747.83797963 0.03804627 0
+        PT 2747.83807963 0.028 0
+        PT 2747.88797963 0.028 0
+        PT 2747.88847963 0.043 0
+        PT 2747.97220979 0.043 0
+        PT 2747.97270979 0.028 0
+        PT 2748.03075967 0.028 0
+        PT 2748.03125967 0.043 0
+        PT 2748.13820979 0.043 0
+        PT 2748.13870979 0.028 0
+        PT 2748.39758961 0.028 0
+        PT 2748.39808961 0.043 0
+        PT 2748.47020979 0.043 0
+        PT 2748.47070979 0.028 0
+        PT 2748.87236965 0.028 0
+        PT 2748.87286965 0.043 0
+        PT 2748.96820979 0.043 0
+        PT 2748.96870979 0.028 0
+        PT 2749.0151497 0.028 0
+        PT 2749.0156497 0.043 0
+        PT 2749.13420979 0.043 0
+        PT 2749.13470979 0.028 0
+        PT 2749.21597963 0.028 0
+        PT 2749.21647963 0.043 0
+        PT 2749.30020979 0.043 0
+        PT 2749.30070979 0.028 0
+        PT 2749.37036965 0.028 0
+        PT 2749.37086965 0.043 0
+        PT 2749.46620979 0.043 0
+        PT 2749.46670979 0.028 0
+        PT 2749.50153972 0.028 0
+        PT 2749.50203972 0.043 0
+        PT 2749.63220979 0.043 0
+        PT 2749.63270979 0.028 0
+        PT 2749.71397963 0.028 0
+        PT 2749.71447963 0.043 0
+        PT 2749.79820979 0.043 0
+        PT 2749.79870979 0.028 0
+        PT 2749.85675967 0.028 0
+        PT 2749.85725967 0.043 0
+        PT 2749.96420979 0.043 0
+        PT 2749.96470979 0.028 0
+        PT 2749.97704539 0.028 0
+        PT 2749.97754539 0.043 0
+        PT 2750.13020979 0.043 0
+        PT 2750.13070979 0.028 0
+        PT 2750.1771497 0.028 0
+        PT 2750.1776497 0.043 0
+        PT 2750.29620979 0.043 0
+        PT 2750.29670979 0.028 0
+        PT 2750.36636965 0.028 0
+        PT 2750.36686965 0.043 0
+        PT 2750.46220979 0.043 0
+        PT 2750.46270979 0.028 0
+        PT 2750.54397963 0.028 0
+        PT 2750.54447963 0.043 0
+        PT 2750.62820979 0.043 0
+        PT 2750.62870979 0.028 0
+        PT 2750.6751497 0.028 0
+        PT 2750.6756497 0.043 0
+        PT 2750.79420979 0.043 0
+        PT 2750.79470979 0.028 0
+        PT 2751.20797963 0.028 0
+        PT 2751.20847963 0.043 0
+        PT 2751.29220979 0.043 0
+        PT 2751.29270979 0.028 0
+        PT 2751.32753972 0.028 0
+        PT 2751.32803972 0.043 0
+        PT 2751.45820979 0.043 0
+        PT 2751.45870979 0.028 0
+        PT 2751.49353972 0.028 0
+        PT 2751.49403972 0.043 0
+        PT 2751.62420979 0.043 0
+        PT 2751.62470979 0.028 0
+        PT 2751.70597963 0.028 0
+        PT 2751.70647963 0.043 0
+        PT 2751.79020979 0.043 0
+        PT 2751.79070979 0.028 0
+        PT 2751.88358961 0.028 0
+        PT 2751.88408961 0.043 0
+        PT 2751.95620979 0.043 0
+        PT 2751.95670979 0.028 0
+        PT 2751.99153972 0.028 0
+        PT 2751.99203972 0.043 0
+        PT 2752.12220979 0.043 0
+        PT 2752.12270979 0.028 0
+        PT 2752.34675967 0.028 0
+        PT 2752.34725967 0.043 0
+        PT 2752.45420979 0.043 0
+        PT 2752.45470979 0.028 0
+        PT 2752.67875967 0.028 0
+        PT 2752.67925967 0.043 0
+        PT 2752.78620979 0.043 0
+        PT 2752.78670979 0.028 0
+        PT 2752.82153972 0.028 0
+        PT 2752.82203972 0.043 0
+        PT 2752.95220979 0.043 0
+        PT 2752.95270979 0.028 0
+        PT 2753.05719958 0.028 0
+        PT 2753.05769958 0.043 0
+        PT 2753.11820979 0.043 0
+        PT 2753.11870979 0.028 0
+        PT 2753.18836965 0.028 0
+        PT 2753.18886965 0.043 0
+        PT 2753.28420979 0.043 0
+        PT 2753.28470979 0.028 0
+        PT 2753.50875967 0.028 0
+        PT 2753.50925967 0.043 0
+        PT 2753.61620979 0.043 0
+        PT 2753.61670979 0.028 0
+        PT 2753.70958961 0.028 0
+        PT 2753.71008961 0.043 0
+        PT 2753.78220979 0.043 0
+        PT 2753.78270979 0.028 0
+        PT 2753.9951497 0.028 0
+        PT 2753.9956497 0.043 0
+        PT 2754.11420979 0.043 0
+        PT 2754.11470979 0.028 0
+        PT 2754.19597963 0.028 0
+        PT 2754.19647963 0.043 0
+        PT 2754.28020979 0.043 0
+        PT 2754.28070979 0.028 0
+        PT 2754.29304539 0.028 0
+        PT 2754.29354539 0.043 0
+        PT 2754.44620979 0.043 0
+        PT 2754.44670979 0.028 0
+        PT 2754.56280956 0.028 0
+        PT 2754.56330956 0.043 0
+      >
+      WAK 0 0
+    >
   >
   <TRACK {25F00A72-65CB-4047-9CC2-D68DCF7F8D2E}
     NAME ""
@@ -18118,7 +17864,7 @@
       LENGTH 5.3543325822057
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 1.84108 0 1 0 0
+      FADEIN 0 3.378148 0 0 0 0
       FADEOUT 1 0 0 1 0 0
       MUTE 0 0
       SEL 0
@@ -18505,4256 +18251,9 @@
         FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/07-200622_1607-01.wav"
       >
     >
-    <ITEM
-      POSITION 1450.4468744480989
-      SNAPOFFS 0
-      LENGTH 1017.3215539966548
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {AB7C3A23-946B-B24F-B5D0-A7DE9889A475}
-      IID 4183
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 717.99963022678605
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {148F45B1-C88B-4F41-B059-ECC22ABD7B58}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 2721.3411322846077
-      SNAPOFFS 0
-      LENGTH 290.96530510022512
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {85B1327E-4A78-8143-A4CF-07928CF70AEA}
-      IID 4183
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 717.99963022678605
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {62CBC60F-71A3-164C-A9FF-08DF068B5282}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3012.3064373848329
-      SNAPOFFS 0
-      LENGTH 3.04029093347708
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4E34F2E8-7E1C-244C-9C22-2DE666F4C65B}
-      IID 4274
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1008.9649353270112
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {060DA79C-5E85-3F43-BF19-FBDDD8E98FEB}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3015.3467283183099
-      SNAPOFFS 0
-      LENGTH 3.66163400637333
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1555FC2A-D46C-4845-A460-EE5E315F7C3F}
-      IID 4275
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1012.0052262604883
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {68ACCCCD-3A49-3F4A-B1CC-FC8AE70C1AC5}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.0083623246833
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {132275B9-F043-4647-B95F-7AFA8ADBC1F8}
-      IID 4277
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {11EF7FAB-495F-4644-B539-321E22568328}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.0754630684769
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A35217F9-6AE8-3944-88B2-6E29A4F49699}
-      IID 4278
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {52470348-2B51-644B-86D1-D65EDA929BBB}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.1425638122705
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E11EEF8C-B99E-814E-A4A9-B3AC62B934EE}
-      IID 4279
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {37ADF3AE-442B-4A4B-935D-10AB83A8D5EE}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.2096645560641
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C0B1631B-A469-F342-8F89-42C1E8897EA0}
-      IID 4280
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BB995DE1-926D-364E-8B07-DB8A22021EB0}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.2767652998577
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E41D319F-84FD-0349-A279-A005D7C63CC5}
-      IID 4281
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {CA08ABD9-441C-FC4C-8FD6-4F24ECD32EC2}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.3438660436514
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {34601380-7B94-9041-8F23-0B8B9B340866}
-      IID 4282
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0C8C5AD8-9072-4E42-B0B0-60D1C11B70B2}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.410966787445
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2C448F58-9436-4C4F-BADF-CA7830229BCB}
-      IID 4283
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BA4FAC48-7EAD-954F-A843-67177692E71D}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.4780675312386
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2C011A74-B011-A545-8B8C-D5B041AAADCD}
-      IID 4284
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {34526D35-97EA-8942-9679-D54834292410}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.5451682750322
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {69B69666-37F3-1A4D-B5C1-5375E4644F38}
-      IID 4285
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {649733C5-A9AF-C142-AC7A-DBD3BAC19F75}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.6122690188258
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {50711BC0-A809-4E48-965E-AF2618DEBEA5}
-      IID 4286
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8612503F-34F5-CE4F-857F-162A7F4AAD89}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.6793697626194
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {602AAA95-4D4B-984C-9326-34EF4F103535}
-      IID 4287
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C18C6E3B-FB62-6F4E-A900-1C79C77F8AE4}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.7464705064131
-      SNAPOFFS 0
-      LENGTH 0.06710074379362
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A434D79A-1D08-2E4B-A944-9F734EDC42EE}
-      IID 4288
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {CC988C4D-8ACA-8A42-A644-AB25C90A44C0}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.8135712502067
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9498F125-6F3E-814C-B326-22D1DB9B5B21}
-      IID 4289
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C3CCBC8D-B89D-F047-B3A5-49246553DC28}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.880671994
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D0126DD6-9F9B-504D-A9AF-D81B682C9557}
-      IID 4290
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0446CCF2-8A68-B24A-B996-0DA3F22BB54F}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3019.947772737793
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {32D44A40-A85B-774C-AC8D-503BCDECE42D}
-      IID 4291
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6B612FF2-3692-5945-AC09-E30C4E50A159}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.0148734815862
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D6E8F87C-5141-3E4B-A013-B2373E65A545}
-      IID 4292
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {07DF2E2C-6BF6-8444-8D0C-A24EDB60259F}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.0819742253793
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1707AB7B-6FF2-1B4D-AB1A-93AF84F63B86}
-      IID 4293
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {60A04FC5-4CF7-8948-B56F-12F1A7F6CCBF}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.1490749691725
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3CA21BFB-D6E4-0A45-B742-3D285898FC93}
-      IID 4294
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {32178AA8-0140-BC4D-88CC-0408174CE9D5}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.2161757129657
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9AFAAB09-6359-A74E-AD58-335671B9ED43}
-      IID 4295
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5F6858D9-74C3-3046-B2CF-AF1CCC3F2BCF}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.2832764567588
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3932ADA1-68B8-2848-BC9A-5A7EB33A73CF}
-      IID 4296
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {0E2354E1-7817-DA46-B4EC-D68ED06B424E}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.350377200552
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A597619C-B3AA-914E-923D-1C45B0B6D020}
-      IID 4297
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3A6CF507-7F59-7246-86DE-7110AE8A5814}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.4174779443451
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2C7D8BD9-5111-1843-B3F5-0DCB12D3951E}
-      IID 4298
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BFD67A4D-9D0B-664A-91EC-E9CFC7CCAC62}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.4845786881383
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4118BCD8-D37F-9C49-B67B-B4DABF15CCD1}
-      IID 4299
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {774FC500-89DD-DC4D-9BE3-32E2F1ABEE55}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.5516794319315
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E838CC24-23B6-BC4C-8BA9-C16E7F4BDAD3}
-      IID 4300
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {943B999E-2A20-6741-B362-ECF669075374}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.6187801757246
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {25FB4024-849C-024C-9370-C4085BA70D38}
-      IID 4301
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7D2AFB79-F4A2-0645-8E4B-F20BEC356C5F}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.6858809195178
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6B75890E-10D2-B648-A59D-806524511A50}
-      IID 4302
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AA8A0B90-3150-8A4D-915D-66C3DCD29A1B}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.7529816633109
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {DA1E06A1-4E07-B24D-8EB8-A31B88BD97C6}
-      IID 4303
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {129FB6CE-CEC7-664D-AE07-7FE952C6FF36}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.8200824071041
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2CF106B9-8455-6B47-B4C5-6810ACEB7260}
-      IID 4304
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8812AE9E-C1FC-A647-BC85-60B1C36122D9}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.8871831508973
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {FD44BC72-FA2C-164A-9066-8FF97899E724}
-      IID 4305
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {77DF6293-7B67-7548-B752-AE620AB08EC9}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3020.9542838946904
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9991DC20-54A6-1A4B-9B8C-847F3A27C5B0}
-      IID 4306
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5A41AB0F-B7AA-F848-8B12-857CF6E8E002}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3021.0213846384836
-      SNAPOFFS 0
-      LENGTH 0.06710074379316
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {24F30235-362E-8B4A-AF0E-93E31728B1F4}
-      IID 4307
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.6668602668616
-      PLAYRATE 1.00000000000678 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {953F63DF-728B-2046-B4C2-49F77AA65015}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3022.5328705247102
-      SNAPOFFS 0
-      LENGTH 6.53655509698001
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F3217AC3-523E-9042-BB95-4760CFFEACEF}
-      IID 4273
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1015.7339610106552
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {865DD7FF-18C9-4A4C-AD3D-4D528DC33CE0}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.0694256216902
-      SNAPOFFS 0
-      LENGTH 0.09684255275442
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {81F50F68-7A1A-214A-AE53-10596FF2DEB3}
-      IID 4308
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.2705161076352
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D862070B-095B-7B4C-B8DD-A1B0BA157000}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.1662681744447
-      SNAPOFFS 0
-      LENGTH 0.3016396091939
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2FDE3CFE-BE85-E344-B5C7-D5E0D120A513}
-      IID 4310
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.3673586603896
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BC9CD6DD-ED8A-0D45-8D63-A813CA9FD025}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.4679077836386
-      SNAPOFFS 0
-      LENGTH 0.00224489795937
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BAE62C58-8B46-B046-88CE-3A53BE6B5ED6}
-      IID 4312
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.3673586603896
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F4DBD41D-3E7D-7D41-AD8C-6D6CEB078996}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.4701526815979
-      SNAPOFFS 0
-      LENGTH 0.04761904761881
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {AE55BDC1-3247-7148-8EA3-025F75CAA9C7}
-      IID 4318
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.369603558349
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {037B8E52-70F5-BA4E-A22C-32DCBC240E6B}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.5177717292167
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {703E811E-9119-F545-A8DC-E9581DA815CF}
-      IID 4356
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5691500436097
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2D56EEA8-80E7-624B-A973-08D2D54AC12B}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.5200393029127
-      SNAPOFFS 0
-      LENGTH 0.00224489795937
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E10D9209-8CEB-2249-B745-17F47405C1A5}
-      IID 4315
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.3673586603896
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {01FDA4A6-AC98-E24D-8CA2-7572113CA299}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.522284200872
-      SNAPOFFS 0
-      LENGTH 0.00453514739229
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {91102E3F-40A9-614F-AE37-5518C232A3D6}
-      IID 4337
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4716443746753
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5079A3C5-6F90-6A41-95A6-3FEA87C720C6}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.5268193482643
-      SNAPOFFS 0
-      LENGTH 0.04542645726633
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8A509FD0-B66D-554C-BF69-4CDF5D303494}
-      IID 4407
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.6235718123172
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {80D7BA89-153C-944F-9719-544633175EFB}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.5722458055307
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EB0DC7EC-30BF-2C4E-BF53-617D0609A95E}
-      IID 4344
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5804879120902
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A0E907E0-DA18-644A-83DA-936BBF21E5E8}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.5813161003152
-      SNAPOFFS 0
-      LENGTH 0.01133786848095
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E59591F6-A121-DD4F-A0C9-279C4BCD813A}
-      IID 4394
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4172226059678
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5DD9598E-8EF8-BC46-88A3-31405B82B1E2}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.5926539687962
-      SNAPOFFS 0
-      LENGTH 0.0408163265306
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {AAD0C4FB-A6DB-434B-B215-0283A0F94702}
-      IID 4350
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4285604744488
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E6FD85C6-61B3-DC46-9000-F1921D50CE3F}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.6334702953268
-      SNAPOFFS 0
-      LENGTH 0.05668934240339
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7C4F0324-6CF9-DF43-8605-6D6CB326DA30}
-      IID 4384
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.478447095764
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6C0D0329-ED67-8E4B-873C-AA8D2CFFF5FF}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.6901596377302
-      SNAPOFFS 0
-      LENGTH 0.04542645726633
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6E452AA3-C64E-A34F-9DB9-617D0D9D8369}
-      IID 4347
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.6235718123172
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {53BBFF25-204A-FB48-A2DE-268F718C068C}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.7355860949965
-      SNAPOFFS 0
-      LENGTH 0.00680272108866
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A1C08CF1-F44B-5B40-8929-13A0C69F6E0D}
-      IID 4402
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5714176173057
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {91420BF8-8128-F246-A21B-F45593CAE715}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.7423888160852
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6B5747FE-EFB0-654A-AB89-BB48267B0B69}
-      IID 4396
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4693768009794
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2FC47A89-0301-B847-BC16-EFB1F8FCB53D}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.7446563897811
-      SNAPOFFS 0
-      LENGTH 0.0408163265306
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {471A0F14-E3E7-044B-9EF0-1B76CEF1D29F}
-      IID 4365
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4285604744488
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {ADD777C1-C380-304C-A6E6-8AAC65E13DD9}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.7854727163117
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {27332F6C-9A39-DF4C-B088-6F20CCFCA21D}
-      IID 4401
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5691500436097
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A7E1FB97-39F7-1540-B417-F04E79B91B94}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.7877402900076
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B99AFEA3-36F2-A44E-A3A8-C887306F7D8E}
-      IID 4405
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5895582068748
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {21255FAC-735C-2340-A326-F7D017C07091}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.7968105847922
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {70DB54FD-B85C-8F4F-A57B-EC0BE8D2C742}
-      IID 4374
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5804879120902
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {68E1C7A9-30FB-264F-80CA-44EC09641799}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.8058808795768
-      SNAPOFFS 0
-      LENGTH 0.0340136054424
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {DB41FABF-E9FF-FE4D-AD10-65C9CB7AE464}
-      IID 4340
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5351364381673
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {744BB624-D7D6-4D4C-9555-EEA23B8C6097}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.8398944850192
-      SNAPOFFS 0
-      LENGTH 0.02494331065782
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3A92FAC1-D525-494F-BBEC-C3E911052856}
-      IID 4376
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5986285016594
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {69F74A9E-B59B-1546-9887-88A4D3CB1047}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.864837795677
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8FD97DEC-FEC5-9D4A-9376-4133CD010F0A}
-      IID 4343
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5782203383943
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {553F4DF0-A779-6047-B433-DC1A66F1BB65}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.8671053693729
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {186A93D3-7F13-834C-A021-D0DF94CD55DE}
-      IID 4328
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5782203383943
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {08295F6B-447E-AB46-85BC-74030202AE74}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.8693729430688
-      SNAPOFFS 0
-      LENGTH 0.05668934240339
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F8C224BA-9366-234F-8679-8F4E594A8875}
-      IID 4339
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.478447095764
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6D2F6A48-B653-FA47-937B-090AB6B2A66A}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9260622854722
-      SNAPOFFS 0
-      LENGTH 0.00224489795937
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1A5B848E-65F4-7443-8D70-34667539AFFA}
-      IID 4316
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.3673586603896
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E65D20C1-3B67-9C46-AF7E-050DD4C0820C}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9283071834316
-      SNAPOFFS 0
-      LENGTH 0.01133786848095
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9D202D36-03F3-304D-8C26-3D0A6BF5BF44}
-      IID 4319
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4172226059678
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4274A0C5-37AC-164B-AA66-E81141E23FA6}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9396450519125
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3A496E9B-182D-AC46-932E-B9F4323BA986}
-      IID 4389
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5804879120902
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FF98B4BA-DF92-B647-A7FE-BE060541FFBA}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9487153466971
-      SNAPOFFS 0
-      LENGTH 0.02494331065782
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D4E48FFA-C019-824B-A01F-7F6BC6ECDC11}
-      IID 4361
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5986285016594
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4E751EBE-9A35-6C43-9D0C-87FCA68441A8}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9736586573549
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {0B04E3C1-A803-364A-ABAF-F0EBCAC6453F}
-      IID 4341
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5691500436097
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {662E67DC-AAF0-DF40-9FF7-BC30B7A8906E}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9759262310508
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C1BDBE74-D2D1-AF47-84B7-9248BB967AE8}
-      IID 4330
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5895582068748
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {02B92255-6522-3649-B57C-9D0B1AF64DB5}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9849965258354
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6C541414-1C67-DC47-894A-C4C254B08458}
-      IID 4360
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5895582068748
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {520109C9-CE84-CE44-8105-A9C6C2E7CF4E}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.99406682062
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {AE9F51F5-8E82-B348-B547-8B027CA30C8F}
-      IID 4351
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4693768009794
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B3AEBBA1-23AB-274B-96AE-627D45D94D32}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9963343943159
-      SNAPOFFS 0
-      LENGTH 0.00224489795937
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D6713960-4124-4540-A626-AFAB34ED5518}
-      IID 4317
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.3673586603896
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {59EC71B8-0C42-084D-BC1F-BA56CD15C177}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3029.9985792922753
-      SNAPOFFS 0
-      LENGTH 0.00680272108866
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D9B37272-85E0-874D-93D9-CBB30F42E4BD}
-      IID 4387
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5714176173057
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A4F4D7FB-E79A-BC49-830A-A08D0E1544A6}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0053820133639
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D2E8A202-5067-C74B-8FAC-665BEA16045A}
-      IID 4326
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5691500436097
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E7EF5316-7779-304C-86CF-D0785987D92B}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0076495870599
-      SNAPOFFS 0
-      LENGTH 0.00226757369637
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {73A020F4-E893-E147-9318-590FE3D4A5E7}
-      IID 4323
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4761795220676
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {029C188E-91EE-0648-A94C-B10434C6A982}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0099171607562
-      SNAPOFFS 0
-      LENGTH 0.00453514739229
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2D7A3A80-E771-8443-8E9B-64299F67C2EA}
-      IID 4322
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4716443746753
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {07ED8FBF-B042-AE4B-82BF-7E8F2DA646A2}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0144523081485
-      SNAPOFFS 0
-      LENGTH 0.0340136054424
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {35C93EB7-0D0E-7E43-BBA6-62E26256A237}
-      IID 4400
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5351364381673
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1AD95C1A-73C1-DC4C-BA59-6A6B0830CAAA}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0484659135909
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B6EDD9EA-F432-A248-B792-BB1581EF1C48}
-      IID 4371
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5691500436097
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C12EC5EE-6C5A-5745-B47E-41D638DE005C}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0507334872868
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {460B714E-67E7-AE44-8110-3125EE734197}
-      IID 4403
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5782203383943
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {CEC81340-2D1E-4C41-8E83-A5EA7C072755}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0530010609828
-      SNAPOFFS 0
-      LENGTH 0.00226757369637
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A513C1CD-423C-AD47-A8B5-9A885A72E034}
-      IID 4368
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4761795220676
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E72B9FAD-75F1-A341-BC8D-123088197B50}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0552686346791
-      SNAPOFFS 0
-      LENGTH 0.00680272108866
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {732F417C-5856-CA4F-9A7D-BC482A8103D0}
-      IID 4357
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5714176173057
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {928F60EB-2948-094D-BC67-33192E377C71}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0620713557678
-      SNAPOFFS 0
-      LENGTH 0.01133786848095
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {86ABB9FC-BE0C-6F4C-85ED-C7A53C2EC33B}
-      IID 4379
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4172226059678
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7954C3E7-F0AC-BF49-A6EF-E9F889728666}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0734092242487
-      SNAPOFFS 0
-      LENGTH 0.00226757369637
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BD5FCE7A-86C5-6E48-B43B-69AE614A2076}
-      IID 4383
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4761795220676
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {42D43F63-44FF-3E4A-B3F4-3C323C81D6DB}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0756767979451
-      SNAPOFFS 0
-      LENGTH 0.00224489795937
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7256692E-7366-D648-85D4-061082E9341D}
-      IID 4313
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.3673586603896
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4CCEC5D2-8659-2B48-982E-3C2C806DC82D}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.0779216959045
-      SNAPOFFS 0
-      LENGTH 0.0408163265306
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8DFE1172-21F3-D64F-8F29-8BF833E6570A}
-      IID 4320
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4285604744488
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {599016EF-829A-924A-9F69-5C0BF2E71E0B}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.1187380224351
-      SNAPOFFS 0
-      LENGTH 0.04542645726633
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {FC15584E-F3BA-6A41-BF38-7EBF7DB31BFA}
-      IID 4392
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.6235718123172
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C4A84CBC-E856-9347-97CA-881C31F372F7}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.1641644797014
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {70137E3B-B2A2-714D-9DA1-EE41E4951C15}
-      IID 4381
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4693768009794
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {304B2F34-EB00-E647-BC43-CADD9D6CF00F}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.1664320533973
-      SNAPOFFS 0
-      LENGTH 0.05668934240339
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A51A77A9-F62E-F246-907E-34051CDFBD5A}
-      IID 4324
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.478447095764
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {50452018-CC99-714F-997C-D956D9BDD4D1}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.2231213958007
-      SNAPOFFS 0
-      LENGTH 0.00224489795937
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {DAAD580B-A941-3244-BA70-30DBFD2EC482}
-      IID 4314
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.3673586603896
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4CF2EFEC-C635-6549-BBB4-3FE1831600BD}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.2253662937601
-      SNAPOFFS 0
-      LENGTH 0.0340136054424
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B76B83E4-CC66-FD4A-AE0B-D877CE66E8C8}
-      IID 4385
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5351364381673
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B9170A6F-4E25-3F48-AE76-C5FA7C45FE61}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.2593798992025
-      SNAPOFFS 0
-      LENGTH 0.01133786848095
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7EA8AAD8-B0E9-7D44-8514-6CF189CDCD25}
-      IID 4364
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4172226059678
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E0AD55B2-53E4-754D-9C28-EFC0679A9A7B}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.2707177676834
-      SNAPOFFS 0
-      LENGTH 0.04761904761881
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {CFDFEC88-A9EA-DA45-941E-14B3C4B0BE35}
-      IID 4333
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.369603558349
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {002B5E5B-9EC2-5A4D-BDF1-1850D03F8546}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.3183368153022
-      SNAPOFFS 0
-      LENGTH 0.02494331065782
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D92AD742-5744-CD48-9551-EC9B0A8022FE}
-      IID 4406
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5986285016594
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {247B5682-783D-1946-A487-3C66D99CC4E9}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.3432801259601
-      SNAPOFFS 0
-      LENGTH 0.00453514739229
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9BE2A595-1647-274E-B09D-8A780BB22830}
-      IID 4397
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4716443746753
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6C65C176-5B4C-BF4B-97E5-1F0B44F71CD0}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.3478152733524
-      SNAPOFFS 0
-      LENGTH 0.02494331065782
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B9C66442-CE57-104F-BF94-9180860831CD}
-      IID 4391
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5986285016594
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {65758244-C125-5C44-804B-CADC220CE817}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.3727585840102
-      SNAPOFFS 0
-      LENGTH 0.05668934240339
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {B7E1F199-AF5D-6A4E-A45B-7CF9B9F831A5}
-      IID 4399
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.478447095764
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D361A2C1-D944-764C-918E-20B1D067F9D6}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.4294479264136
-      SNAPOFFS 0
-      LENGTH 0.00226757369637
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {42E33060-9CEB-9A46-A0A6-ABF652046E13}
-      IID 4398
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4761795220676
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {04BCADC0-115A-5D49-AFAE-F68EA7F2D89B}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.4317155001099
-      SNAPOFFS 0
-      LENGTH 0.00680272108866
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {CAD7A926-F6CD-9F41-BBC9-9FE7653EB3ED}
-      IID 4342
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5714176173057
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {FE0EFD4E-E69C-8742-BEF0-6ED7E04ABD7F}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.4385182211986
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2DEB0E81-24BB-564E-A8DF-488FD4B14A01}
-      IID 4345
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5895582068748
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EE14FCE6-6857-E14F-8320-CEA4E6430A48}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.4475885159832
-      SNAPOFFS 0
-      LENGTH 0.0340136054424
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A7CF2834-0DAC-A94A-AFEE-1C5E29CE9135}
-      IID 4355
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5351364381673
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1A70080B-EB2F-FD41-8632-54D495355927}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.4816021214256
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4E833660-ABF4-7D40-8A48-62D13AF5C13E}
-      IID 4404
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5804879120902
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {393B08F9-80F2-3A45-9F7C-515FCA8064D2}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.4906724162101
-      SNAPOFFS 0
-      LENGTH 0.00226757369637
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D5A4C769-FFE2-2E48-8ED0-15ADA95EE63B}
-      IID 4338
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4761795220676
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {43691152-16A0-684B-8E18-9D689304E110}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.4929399899065
-      SNAPOFFS 0
-      LENGTH 0.0408163265306
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BF6A6864-DE22-BE4D-B7B2-86BB202A0A73}
-      IID 4335
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4285604744488
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DAFBAC70-45A1-3E48-9E82-D7CAA1DECDD0}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.5337563164371
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4A2D9917-F8F8-334E-A5A4-800B9B12266E}
-      IID 4375
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5895582068748
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {27364120-5944-B14A-BC04-8E3D88B6E78C}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.5428266112217
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {439A6B00-0BA4-8941-8447-3F29FC604999}
-      IID 4366
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4693768009794
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {030D88CE-6EEF-9240-9B07-1E6129519FFC}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.5450941849176
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {773AEF1E-3B49-EA43-AA53-25312E306A2C}
-      IID 4336
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4693768009794
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E707FC22-D56E-BC4E-8372-C5EAF77F132C}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.5473617586135
-      SNAPOFFS 0
-      LENGTH 0.04542645726633
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {C3789C23-957E-274F-B46B-6E1B3860C993}
-      IID 4377
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.6235718123172
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1DCAC2BD-6DD0-1D4E-9998-4D8976E77EED}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.5927882158799
-      SNAPOFFS 0
-      LENGTH 0.01133786848095
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D0C974E2-749F-7B42-86F5-BBAEFC0185FF}
-      IID 4334
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4172226059678
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E45469BC-16C7-3145-9BC5-6F95496E530B}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.6041260843608
-      SNAPOFFS 0
-      LENGTH 0.04542645726633
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D9BFC535-E9A2-C049-86FD-8B871A1BC4B3}
-      IID 4362
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.6235718123172
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F5F99F97-2E13-FF4D-8BEF-0EEFD42BB7D8}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.6495525416271
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8A63791C-D215-954E-AD3E-76F1FE49AE0A}
-      IID 4388
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5782203383943
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {14E5342B-C3BD-7D4B-A469-4CF910E06F08}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.6518201153231
-      SNAPOFFS 0
-      LENGTH 0.04761904761881
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {30B30755-E9A8-AA43-8312-051F3F6E6236}
-      IID 4363
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.369603558349
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DBEB65AC-E96A-6C46-8B7C-EDDDAD07844C}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.6994391629419
-      SNAPOFFS 0
-      LENGTH 0.02494331065782
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {70B433C3-7CD6-0F46-97E7-7BDD06F6FE3B}
-      IID 4331
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5986285016594
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {87BAF421-432A-4D41-89A1-AA281CB083F5}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.7243824735997
-      SNAPOFFS 0
-      LENGTH 0.00453514739229
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {47C81AD0-E861-8B4C-81D7-6683647127E1}
-      IID 4367
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4716443746753
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1B47B893-6425-D643-95AE-ED4E71D65374}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.728917620992
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {A522394A-0B45-4443-9E9D-BDBAA8C1C909}
-      IID 4358
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5782203383943
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {29832E26-B8D7-A14B-85EE-250BFC1B33F3}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.7311851946879
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {57A46741-4DFD-8847-864A-D085588AED02}
-      IID 4359
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5804879120902
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6DD1E62F-F509-D144-A2D2-098BC2184332}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.7402554894725
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6319C614-1D18-FD4E-88D9-BA3C104FA2DA}
-      IID 4329
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5804879120902
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1152390C-3B99-C048-984F-41240C36F95A}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.7493257842571
-      SNAPOFFS 0
-      LENGTH 0.00680272108866
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7EA6135C-425F-FA46-ACA6-08B218F3DA47}
-      IID 4327
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5714176173057
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {214DB14C-67E0-E34B-9E68-C69AEBAE5DBE}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.7561285053457
-      SNAPOFFS 0
-      LENGTH 0.00907029478458
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {CB365D93-B04E-E647-93D5-867C109BEE3C}
-      IID 4390
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5895582068748
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F3064C4B-460D-3B41-9B1F-20771AF832B6}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.7651988001303
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {ACF0CD2F-7EFA-2B4F-B182-6349AEDF8A36}
-      IID 4386
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5691500436097
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {82D0C512-E1E5-2048-A57C-C04D23E3798E}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.7674663738262
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4A210A37-6337-1443-94EC-D02E5ADFA06B}
-      IID 4373
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5782203383943
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DDA15565-9E55-D34D-9970-14FFA6A82415}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.7697339475221
-      SNAPOFFS 0
-      LENGTH 0.04761904761881
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {F1921451-B484-B741-BDF0-CFA78E991616}
-      IID 4393
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.369603558349
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E40CBF62-DE49-8145-A12C-AF3D68E5549D}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.8173529951409
-      SNAPOFFS 0
-      LENGTH 0.0408163265306
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E8452CF3-3C70-694F-8500-62D3EDA8B53C}
-      IID 4380
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4285604744488
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7CBCC6DF-DEF3-AE4C-838F-27EFFF3A5F45}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.8581693216715
-      SNAPOFFS 0
-      LENGTH 0.0340136054424
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {19A9D38B-CD1A-794C-95D3-35BAAD65C950}
-      IID 4325
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5351364381673
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E6B5E3EC-9519-0F4E-B3B9-4CA4746F0F64}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.8921829271139
-      SNAPOFFS 0
-      LENGTH 0.04761904761881
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {419F75EA-E6B5-3E4B-B005-42670745BC82}
-      IID 4378
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.369603558349
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3AAD4237-E34F-2945-A18D-9133CB9077D9}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.9398019747327
-      SNAPOFFS 0
-      LENGTH 0.05668934240339
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9149C930-B2C6-1447-81C6-980FBD331A97}
-      IID 4369
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.478447095764
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3CFC09AC-7A4B-A143-A2E2-550CFF17BCC2}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3030.9964913171361
-      SNAPOFFS 0
-      LENGTH 0.04542645726633
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2A347B7A-CFE4-9047-98DE-BAE88CA37C72}
-      IID 4332
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.6235718123172
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E6EB37E7-E79C-BB46-8131-170D6AA926BA}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.0419177744025
-      SNAPOFFS 0
-      LENGTH 0.04761904761881
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BD2907F6-0227-A94E-BD47-916525112AF2}
-      IID 4348
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.369603558349
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {67B8C3F2-2053-D645-A57C-14650AB8056D}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.0895368220213
-      SNAPOFFS 0
-      LENGTH 0.00226757369637
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {119CB0CF-26FD-2A48-9814-6AE0A5DE08E7}
-      IID 4353
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4761795220676
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {62D02A73-94EA-AE40-BB72-D9AC9F076CEA}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.0918043957176
-      SNAPOFFS 0
-      LENGTH 0.01133786848095
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4BB8A888-67B3-D243-BDEE-147E71031A24}
-      IID 4349
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4172226059678
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {1B5DF3E4-E5C0-164D-A7B6-279745BD7B53}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.1031422641986
-      SNAPOFFS 0
-      LENGTH 0.02494331065782
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BCECBCA1-C3A8-1F41-B04C-D55463AB9B5D}
-      IID 4346
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5986285016594
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AED9E29F-1D91-9C4E-9E36-5E025EDAF481}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.1280855748564
-      SNAPOFFS 0
-      LENGTH 0.05668934240339
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {653DD20E-0494-E54E-A6D0-4BFC1C823562}
-      IID 4354
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.478447095764
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {52256516-179A-8742-8828-26DE14D629FD}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.1847749172598
-      SNAPOFFS 0
-      LENGTH 0.00453514739229
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {63F51621-F6CD-514B-A19B-71B753B92446}
-      IID 4382
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4716443746753
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4E07D1A7-19A4-6449-A925-3C1C08F2F67F}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.1893100646521
-      SNAPOFFS 0
-      LENGTH 0.0340136054424
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1D916228-3192-994A-9D9C-6BF7A9DAEBED}
-      IID 4370
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5351364381673
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {341F4441-4386-8844-855D-CD44511CD258}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.2233236700945
-      SNAPOFFS 0
-      LENGTH 0.00680272108866
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {1025FB5D-EF3C-B74F-A232-043A2F97EBB9}
-      IID 4372
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.5714176173057
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {12F8A4A8-1A60-F940-8CA3-49AF0E224263}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.2301263911831
-      SNAPOFFS 0
-      LENGTH 0.0408163265306
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {373E40B0-AEE4-5445-8A9F-ECF84ABA7AA1}
-      IID 4395
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4285604744488
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {661BE3BF-42CC-FA4F-B232-5C5AA4F2A194}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.2709427177138
-      SNAPOFFS 0
-      LENGTH 0.00453514739229
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BC9B2E96-E443-A940-9388-7AFA0565009C}
-      IID 4352
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4716443746753
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5893CB71-CED8-A840-A5D8-8DC5048D56D9}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.275477865106
-      SNAPOFFS 0
-      LENGTH 0.00226757369592
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {175E59E9-8B4C-8B4F-933D-FD162D7403CB}
-      IID 4321
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.4693768009794
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {C6C6056D-3581-F540-9085-31B55ADCBE5F}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3031.6805100625925
-      SNAPOFFS 0
-      LENGTH 3.13786397858075
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EFDAB5C5-03D2-8343-AB00-1D01A35B943A}
-      IID 4309
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1022.6689982695835
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9110B080-9F41-F043-A7B5-658372E66FC1}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3034.8183740411732
-      SNAPOFFS 0
-      LENGTH 1.61953226582727
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {ACEE0856-69C5-944B-A1B6-6C7A77FDE5F0}
-      IID 4408
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1025.8068622481642
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3FFC8C1C-E7D8-8640-B1AE-8778F48278FB}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
-    <ITEM
-      POSITION 3357.464047393421
-      SNAPOFFS 0
-      LENGTH 707.89478970944901
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D8CB75E5-3EAF-5747-9578-BCBE1B71E136}
-      IID 4409
-      <NOTES
-        |I think that static vs interruptions aspect here is what I am truly trying to reconstruct.
-        |There is surely a way to capitalise on this sound file. Perhaps just composing around it.
-        |
-        |For the static this means:
-        |
-        |Adding more layers to beef out the sections
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "06-Kindle Off-200513_1547.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 1027.4263945139915
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {63A4EDE4-AFD8-DB4D-B385-99E4A4DDEE66}
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/06-Kindle Off-200513_1547.wav"
-      >
-    >
   >
-  <TRACK {9B9F09F6-54EA-EE4A-A275-338D074C904A}
-    NAME Convolutions
+  <TRACK {ED6E064D-6DF0-5E41-A86F-14D50DCD1C20}
+    NAME "KDTree from Static"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -22762,8 +18261,8 @@
     MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
-    ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
     SEL 0
@@ -22773,45 +18272,18 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {9B9F09F6-54EA-EE4A-A275-338D074C904A}
+    TRACKID {ED6E064D-6DF0-5E41-A86F-14D50DCD1C20}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <ITEM
-      POSITION 730.08389878865466
-      SNAPOFFS 0
-      LENGTH 97.42877551020376
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {5067E668-BBAE-B045-9DD1-EB12F59E7A24}
-      IID 19
-      <NOTES
-        |To be convolved
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "05-WD Hard Drive-200619_1555.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 2
-      GUID {9220DF41-DC0D-0A40-AA0C-43211760457A}
-      RECPASS 12
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/05-WD Hard Drive-200619_1555.wav"
-      >
-    >
   >
-  <TRACK {6B6F7C25-06D2-1C43-9DD7-11D60DA959A1}
+  <TRACK {785D8672-0BA7-6845-835C-51D2BA9BB893}
     NAME ""
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -22821,205 +18293,14 @@
     SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0
+    TRACKHEIGHT 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {6B6F7C25-06D2-1C43-9DD7-11D60DA959A1}
+    TRACKID {785D8672-0BA7-6845-835C-51D2BA9BB893}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <FXCHAIN
-      WNDRECT 1398 287 751 550
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-      BYPASS 0 0 0
-      <VST "VST: ReaVerb (Cockos)" reaverb.vst.dylib 0 "" 1919252066<56535472657662726561766572620000> ""
-        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAtwAAAAEAAAAAABAA
-        AAAAwZ58vj4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/RklMRUxEUgBdAAAADQAAAC9Vc2Vycy9qYW1lcy9DbG91ZC9Qcm9qZWN0cy9FbGVjdHJvTWFnbmV0aWMv
-        cmVhcGVyL0ludGVycnVwdGlvbnMvbWVkaWEvTW91c2UtMS1nbHVlZC53YXYAQkFTSUNFRElUABwAAAAAAIA/AAAAAFvZmUILRoA/AAAAAAAAgD8AAAAA
-        AAAQAAAA
-      >
-      FLOATPOS 0 0 0 0
-      FXID {3B24A0A8-7C1B-9347-B93E-524E39106F8F}
-      WAK 0 0
-    >
-    <ITEM
-      POSITION 3.37415696274943
-      SNAPOFFS 0
-      LENGTH 23.35712018140589
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {89A89FAF-F9AF-1E4B-B9BC-2EB03DBCD796}
-      IID 6
-      <NOTES
-        |Fade in could make a nice gesture to work around
-      >
-      IMGRESOURCEFLAGS 0
-      NAME "02-RME Face Panel-200619_1538-01.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 2
-      GUID {13B58E82-379E-384D-9684-14E28019E62C}
-      RECPASS 4
-      <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/media/02-RME Face Panel-200619_1538-01.wav"
-      >
-    >
-    <ITEM
-      POSITION 33.97329081782401
-      SNAPOFFS 0
-      LENGTH 7.03082737633964
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {CC2C5A35-C9AD-DD4A-AEE1-4993FBCD5A48}
-      IID 2245
-      NAME 04-iterated-glued.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {815658C1-6375-6542-8AD7-ABB9B6322694}
-      <SOURCE WAVE
-        FILE "media/04-iterated-glued.wav"
-      >
-    >
-  >
-  <TRACK {AB9996A8-C326-5F42-802D-2C50BD4B5B4C}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {AB9996A8-C326-5F42-802D-2C50BD4B5B4C}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <FXCHAIN
-      WNDRECT 1398 287 751 550
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-      BYPASS 0 0 0
-      <VST "VST: ReaVerb (Cockos)" reaverb.vst.dylib 0 "" 1919252066<56535472657662726561766572620000> ""
-        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAsgAAAAEAAAAAABAA
-        AAAAwTpyQz4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/RklMRUxEUgBYAAAADAAAAC9Vc2Vycy9qYW1lcy9DbG91ZC9Qcm9qZWN0cy9FbGVjdHJvTWFnbmV0aWMv
-        cmVhcGVyL0ludGVycnVwdGlvbnMvbWVkaWEvUk1FX0NvbnYud2F2AEJBU0lDRURJVAAcAAAAAACAPwAAAAC61lpCAACAPwAAAAAAAIA/AAAAAA==
-        AAAQAAAA
-      >
-      FLOATPOS 0 0 0 0
-      FXID {FCC313DE-FAE9-E54E-9C5D-19CB453022A1}
-      WAK 0 0
-    >
-    <ITEM
-      POSITION 41.01475241386529
-      SNAPOFFS 0
-      LENGTH 7.00260775932556
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {89426A50-C58F-0242-843C-23895DB29F84}
-      IID 2245
-      NAME 04-iterated-glued.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8A8EDA52-C19D-C247-B4EB-FEC9A29CE9B2}
-      <SOURCE WAVE
-        FILE "media/04-iterated-glued.wav"
-      >
-    >
-  >
-  <TRACK {31D762C5-47FB-AC42-BA33-C99C4C4CEF7D}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 2 -1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 1 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {31D762C5-47FB-AC42-BA33-C99C4C4CEF7D}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <FXCHAIN
-      WNDRECT 1809 283 751 550
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-      BYPASS 0 0 0
-      <VST "VST: ReaVerb (Cockos)" reaverb.vst.dylib 0 "" 1919252066<56535472657662726561766572620000> ""
-        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAhQAAAAEAAAAAABAA
-        AAAAwTpyQz4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/RklMRUxEUgBVAAAADAAAAC9Vc2Vycy9qYW1lcy9DbG91ZC9Qcm9qZWN0cy9FbGVjdHJvTWFnbmV0aWMv
-        cmVhcGVyL0ludGVycnVwdGlvbnMvbWVkaWEvQ29udjIud2F2AA==
-        AAAQAAAA
-      >
-      FLOATPOS 0 0 0 0
-      FXID {8459B8DE-9A75-424B-9F6C-31330CDA2725}
-      WAK 0 0
-    >
-    <ITEM
-      POSITION 48.2129539343974
-      SNAPOFFS 0
-      LENGTH 7.00260775932554
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0
-      FADEOUT 1 0 0 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {122471CE-B6F0-6641-9473-E8314C82029D}
-      IID 4177
-      NAME 04-iterated-glued.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4C902806-A530-0944-BAD4-390B0B157903}
-      <SOURCE WAVE
-        FILE "media/04-iterated-glued.wav"
-      >
-    >
   >
   <TRACK {DF594F74-92D2-A04C-987F-EF0E6F7C52E4}
     NAME ""
@@ -27203,31 +22484,6 @@
         FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/micro_segmentation/2_ExplodeAudio/Kindle_04_8_65.wav"
       >
     >
-  >
-  <TRACK {70EA8E8E-EF1A-E34C-99FE-D3A013E57559}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FREEMODE 0
-    SEL 0
-    REC 0 0 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {70EA8E8E-EF1A-E34C-99FE-D3A013E57559}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
   >
   <EXTENSIONS
   >
