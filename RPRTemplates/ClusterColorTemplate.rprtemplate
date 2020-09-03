@@ -1,0 +1,20 @@
+<REAPER_PROJECT 0.1 "6.11/x64" 1591355987
+  
+  {%- for name, items in tracks.items() %}
+  <TRACK 
+    NAME "{{name}}"
+    {%- for item in items %}  
+    <ITEM 
+      POSITION  {{item.position}}
+      NAME {{item.name}}
+      LENGTH {{item.length}}
+      COLOR {{item.color}}
+      SOFFS {{item.start}}
+      <SOURCE WAVE
+        FILE "{{item.file}}"
+      >
+    >
+  {% endfor -%}
+  >
+  {% endfor -%}
+>
