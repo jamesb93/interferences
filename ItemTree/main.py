@@ -10,15 +10,15 @@ app = FastAPI()
 
 # https://fastapi.tiangolo.com/tutorial/cors/
 origins = [
-  "http://localhost:8080",
-  "http://127.0.0.1:8080"
+  "http://localhost:8080", "http://127.0.0.1:8080",
+  "http://localhost:3000", "http://127.0.0.1:3000"
 ]
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
     allow_credentials=True,
-    allow_methods=["GET"],
+    allow_methods=["*"],
     allow_headers=["*"],
 )
 
@@ -48,16 +48,11 @@ async def query():
         node_id = [x["id"] for x in d["nodes"]]
         
         if keys[z] not in node_id:
-            print('false')
-            node = {"id" : keys[z], "group": 1}
+            node = {"id" : keys[z], "value" : 1}
             d["nodes"].append(node)
 
-        link = {"source" : keys[z], "target" : keys[t], "value" : 1}
+        link = {"source" : keys[z], "target" : keys[t]}
         d["links"].append(link)
         z = t # assign the new node as the next origin
         skips+=1
-    print(d)
     return d
-
-    
-    
