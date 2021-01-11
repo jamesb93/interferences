@@ -41,8 +41,10 @@ if __name__ == "__main__":
             }
             pos += dur
 
-            if track_id in tracks: tracks[track_id].append(item)
-            else: tracks[track_id] = [item]
+            if track_id in tracks: 
+                tracks[track_id].append(item)
+            else: 
+                tracks[track_id] = [item]
 
     # Now make the folders
     reaper_session = Path(folder) / "Quietest.rpp"
