@@ -22,7 +22,7 @@
             "max": 1
         },
         "3_AGCluster": {
-            "name": "AGCluster",
+            "name": "AgglomerativeClustering",
             "order": 3,
             "numclusters": 2
         }
