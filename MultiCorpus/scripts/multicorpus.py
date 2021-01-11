@@ -19,6 +19,7 @@ em_corpus = (
     Corpus("../outputs/em_detailed_segmentation/1_ExplodeAudio")
     .duration(min_duration=0.1, max_duration=20)
 )
+
 output = "../outputs/multicorpus_exploring"
 analysis = Chain(
     source = (db_corpus + em_corpus), 
