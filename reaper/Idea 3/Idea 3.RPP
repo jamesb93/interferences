@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.13/OSX64" 1597321455
+<REAPER_PROJECT 0.1 "6.12c/linux64" 1602543590
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -131,7 +131,7 @@
       CHANMODE 0
       GUID {7E56722B-6630-B248-8951-0142029CA4A3}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -153,7 +153,7 @@
       CHANMODE 0
       GUID {EB01F41D-42A1-BB42-8BDA-44458E12DAD6}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -175,7 +175,7 @@
       CHANMODE 0
       GUID {6E55216F-2B83-D745-89EF-CC8A83072251}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -197,7 +197,7 @@
       CHANMODE 0
       GUID {1EDF5D66-EF9D-4F45-A2D0-3D009501ACF8}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -219,7 +219,7 @@
       CHANMODE 0
       GUID {A2B64C6A-C76B-B444-AB57-0AACD555FDB7}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -241,7 +241,7 @@
       CHANMODE 0
       GUID {9170C8A6-DD0C-6742-9EC4-014E38D7B61E}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -263,7 +263,7 @@
       CHANMODE 0
       GUID {1E671E65-EB3C-DC43-8948-C91F67047D41}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -285,7 +285,7 @@
       CHANMODE 0
       GUID {5EAEDC15-B2DA-9A42-8A26-30CCC865F7C1}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -307,7 +307,7 @@
       CHANMODE 0
       GUID {39DA8E01-CD6C-8E46-9056-EA1E15583D60}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -329,7 +329,7 @@
       CHANMODE 0
       GUID {EF214B63-A937-BE4C-8EFE-9B7246939037}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -351,7 +351,7 @@
       CHANMODE 0
       GUID {6E58C09F-E7B6-084C-AF72-DDCBADED4DE1}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -373,7 +373,7 @@
       CHANMODE 0
       GUID {6D661774-9F97-124E-B26A-A562A04B88BE}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -395,7 +395,7 @@
       CHANMODE 0
       GUID {7F168022-BE6F-8A47-AD62-467734217EE0}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -417,7 +417,7 @@
       CHANMODE 0
       GUID {11A7F773-186E-354E-9616-64431990144A}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -439,7 +439,7 @@
       CHANMODE 0
       GUID {CBEEB6AD-AC7D-9947-AAB5-B7E4C57B28E2}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -461,7 +461,7 @@
       CHANMODE 0
       GUID {1C6A8179-8741-8949-A83E-ABC7B9331D59}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -483,7 +483,7 @@
       CHANMODE 0
       GUID {FB17B6E0-A613-6143-9AD3-30913D73352A}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -505,7 +505,7 @@
       CHANMODE 0
       GUID {28D3355A-0FF7-8A4A-A055-C2855A0F1A7C}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -527,7 +527,7 @@
       CHANMODE 0
       GUID {E06349AE-3860-BA41-8B24-567978C553D9}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -549,7 +549,7 @@
       CHANMODE 0
       GUID {12517284-40E1-A849-ABDC-A7079FAADD05}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -571,7 +571,7 @@
       CHANMODE 0
       GUID {E185D6C9-ACFF-F74B-826A-B5F571AB2E44}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -593,7 +593,7 @@
       CHANMODE 0
       GUID {44DEE268-8140-164E-B0FA-25E92E0D4465}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -615,7 +615,7 @@
       CHANMODE 0
       GUID {32F7038E-C4D0-2747-9FDB-5522AFAB3FA7}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -637,7 +637,7 @@
       CHANMODE 0
       GUID {44692871-8F99-B748-AFCC-A1D1A53E206A}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -659,7 +659,7 @@
       CHANMODE 0
       GUID {C43A911B-C80F-7E4C-B9E6-32B19C7BF6F5}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -681,7 +681,7 @@
       CHANMODE 0
       GUID {2BE73190-1450-984D-A62F-83E5529BBC36}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -703,7 +703,7 @@
       CHANMODE 0
       GUID {FDB2D557-1F21-D44D-8C70-154A3F9A47BE}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -725,7 +725,7 @@
       CHANMODE 0
       GUID {4251293F-7470-8B49-9ECB-3D9E76DA8E42}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -747,7 +747,7 @@
       CHANMODE 0
       GUID {72009B59-2881-674D-BFCE-5723B2863E63}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -769,7 +769,7 @@
       CHANMODE 0
       GUID {670F2466-3AC0-264D-B0AE-C0F693A6DB9E}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -791,7 +791,7 @@
       CHANMODE 0
       GUID {313B7979-2C71-AE46-B506-80E313F71DF4}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_04_8_326.wav"
+        FILE "media/Kindle_04_8_326.wav"
       >
     >
     <ITEM
@@ -813,7 +813,7 @@
       CHANMODE 0
       GUID {03CF5B3B-3784-AD4B-87ED-F2E326096EC2}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_04_8_30.wav"
+        FILE "media/Kindle_04_8_30.wav"
       >
     >
     <ITEM
@@ -835,7 +835,7 @@
       CHANMODE 0
       GUID {90A47578-57C8-FC44-9995-148BD40746F1}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_3_129.wav"
+        FILE "media/Kindle_02_3_129.wav"
       >
     >
     <ITEM
@@ -857,7 +857,7 @@
       CHANMODE 0
       GUID {62C2316F-4177-644B-8B5A-3558E166A4CD}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_2_326.wav"
+        FILE "media/Kindle_02_2_326.wav"
       >
     >
     <ITEM
@@ -879,7 +879,7 @@
       CHANMODE 0
       GUID {B2ECC9C3-715B-ED45-ABBC-0B633A237668}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_2_366.wav"
+        FILE "media/Kindle_02_2_366.wav"
       >
     >
     <ITEM
@@ -901,7 +901,7 @@
       CHANMODE 0
       GUID {5ADC690F-AC25-9B43-9FAA-D8B7A53354FB}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_81.wav"
+        FILE "media/Xiamo Note 4X_01_1_81.wav"
       >
     >
     <ITEM
@@ -923,7 +923,7 @@
       CHANMODE 0
       GUID {5EF59FCC-5C16-564D-A8C7-CCE06E76465C}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -945,7 +945,7 @@
       CHANMODE 0
       GUID {33F6795B-BB4B-224E-88E1-754A690E267E}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -967,7 +967,7 @@
       CHANMODE 0
       GUID {C1126941-7738-E845-AD15-379E18D5710D}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -989,7 +989,7 @@
       CHANMODE 0
       GUID {F526871A-4775-4243-8664-136B5F3FA0C6}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -1011,7 +1011,7 @@
       CHANMODE 0
       GUID {4AC9F16F-284E-7F43-BEEE-D3F2EC9C27D7}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_3_129.wav"
+        FILE "media/Kindle_02_3_129.wav"
       >
     >
     <ITEM
@@ -1033,7 +1033,7 @@
       CHANMODE 0
       GUID {D9B93ED8-3264-2041-B9A5-7EA5516BF05A}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -1055,7 +1055,7 @@
       CHANMODE 0
       GUID {A2329683-E882-9E42-B5E6-D35F0D1ACF11}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -1077,7 +1077,7 @@
       CHANMODE 0
       GUID {198D2F79-7D5D-EB4E-8B82-A490566A50F3}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_81.wav"
+        FILE "media/Xiamo Note 4X_01_1_81.wav"
       >
     >
     <ITEM
@@ -1099,7 +1099,7 @@
       CHANMODE 0
       GUID {8B030629-4BA2-AE49-AA53-02064A4848A4}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_04_8_326.wav"
+        FILE "media/Kindle_04_8_326.wav"
       >
     >
     <ITEM
@@ -1121,7 +1121,7 @@
       CHANMODE 0
       GUID {0C12FC54-9A54-2948-8F2F-8CC304393160}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -1143,7 +1143,7 @@
       CHANMODE 0
       GUID {C41C4484-0E60-704D-9A84-6FB66F99B6C2}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -1165,7 +1165,7 @@
       CHANMODE 0
       GUID {DBE040FB-48B1-2E44-A564-0C07880E7C1E}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -1187,7 +1187,7 @@
       CHANMODE 0
       GUID {058D48FA-CA93-E44C-A25A-93BBAEDA6AEF}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_314.wav"
+        FILE "media/Xiamo Note 4X_01_1_314.wav"
       >
     >
     <ITEM
@@ -1209,7 +1209,7 @@
       CHANMODE 0
       GUID {BB2577BB-C5CD-3C4F-A3CD-F33A00B4B7D6}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -1231,7 +1231,7 @@
       CHANMODE 0
       GUID {43FBC48A-7F8D-D14E-B5D5-F1DD35C15BAD}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_2_326.wav"
+        FILE "media/Kindle_02_2_326.wav"
       >
     >
     <ITEM
@@ -1253,7 +1253,7 @@
       CHANMODE 0
       GUID {C5313619-3B36-1A44-B3D4-013B41E83A5E}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -1275,7 +1275,7 @@
       CHANMODE 0
       GUID {019F1232-AE24-8047-840F-39A89255E8DB}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -1297,7 +1297,7 @@
       CHANMODE 0
       GUID {D2CE135A-6600-C64B-95F2-73320A968367}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -1319,7 +1319,7 @@
       CHANMODE 0
       GUID {12AA90CD-BB5B-6342-A1E8-AAE8B3BC64F6}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_04_8_30.wav"
+        FILE "media/Kindle_04_8_30.wav"
       >
     >
     <ITEM
@@ -1341,7 +1341,7 @@
       CHANMODE 0
       GUID {C7120FAC-006B-4645-BB6D-CA18D2FB5560}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -1363,7 +1363,7 @@
       CHANMODE 0
       GUID {A77D5511-E79B-EA44-B16E-9DE32ABA7311}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -1385,7 +1385,7 @@
       CHANMODE 0
       GUID {79AD11F0-AC5A-374F-859D-2F7BF692775A}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -1407,7 +1407,7 @@
       CHANMODE 0
       GUID {2C1FD2E2-120D-A74A-8DF3-BA9A5763A6D8}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -1429,7 +1429,7 @@
       CHANMODE 0
       GUID {733B62DE-B8CA-ED41-85A3-9F44C1009ECE}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_02_2_366.wav"
+        FILE "media/Kindle_02_2_366.wav"
       >
     >
     <ITEM
@@ -1451,7 +1451,7 @@
       CHANMODE 0
       GUID {DCA55EE9-DAFA-F84D-A401-3305A79D52C6}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -1473,7 +1473,7 @@
       CHANMODE 0
       GUID {9B3571F5-FA69-2D4A-9DDE-26945F61B442}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -1495,7 +1495,7 @@
       CHANMODE 0
       GUID {8BC6C016-FAFA-CC41-9CC0-9CDEF07CED47}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_380.wav"
+        FILE "media/Xiamo Note 4X_01_1_380.wav"
       >
     >
     <ITEM
@@ -1517,7 +1517,7 @@
       CHANMODE 0
       GUID {A9B54FB7-6B81-0547-9252-0A11C2E852AD}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -1539,7 +1539,7 @@
       CHANMODE 0
       GUID {264CD0AB-8770-CD4D-9837-E16CCFAF494B}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Xiamo Note 4X_01_1_277.wav"
+        FILE "media/Xiamo Note 4X_01_1_277.wav"
       >
     >
     <ITEM
@@ -1561,7 +1561,7 @@
       CHANMODE 0
       GUID {0608FF34-CEE0-5C43-A755-164F62A71FBE}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -1583,7 +1583,7 @@
       CHANMODE 0
       GUID {47E315A3-9BD4-AC48-8467-88639480DD6B}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -1605,7 +1605,7 @@
       CHANMODE 0
       GUID {7403C11D-D971-CE45-AA6D-6DF366F096C4}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
     <ITEM
@@ -1627,7 +1627,7 @@
       CHANMODE 0
       GUID {6A8019D0-0ADA-3446-A062-4FCE10CDA506}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Keyboard_01_0_10.wav"
+        FILE "media/Keyboard_01_0_10.wav"
       >
     >
     <ITEM
@@ -1649,7 +1649,7 @@
       CHANMODE 0
       GUID {4768E278-E5D0-0446-B6BD-600138EBBFB2}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -1671,7 +1671,7 @@
       CHANMODE 0
       GUID {656B3D57-C8D5-6A4B-B080-2E42D560163A}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_9.wav"
+        FILE "media/Kindle_03_0_9.wav"
       >
     >
     <ITEM
@@ -1693,7 +1693,7 @@
       CHANMODE 0
       GUID {DCCA4BDB-E9BD-E940-B0BC-C7A019DBCA9B}
       <SOURCE WAVE
-        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/reaper/idea1/media/Kindle_03_0_44.wav"
+        FILE "media/Kindle_03_0_44.wav"
       >
     >
   >
@@ -2585,7 +2585,5 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-  >
-  <EXTENSIONS
   >
 >
