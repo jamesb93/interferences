@@ -35,7 +35,7 @@ if __name__ == "__main__":
     process.run()
     # Write out the clustered segemnts to a REAPER file
     tracks = {}
-    for audio_src, slices in zip(cluster_segmentation.output.keys(), cluster_segmentation.output.values()):
+    for audio_src, slices in cluster_segmentation.output.items():
         f = Path(audio_src).resolve()
         track_id = str(f.name)
         pos = 0
