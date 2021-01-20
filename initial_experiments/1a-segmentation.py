@@ -1,4 +1,3 @@
-# Description
 """
 Segment using clustered segmentation approach and create an audio file per segment
 """
@@ -12,19 +11,16 @@ from ftis.corpus import Corpus # a corpus object
 from pathlib import Path
 
 src = Corpus("../reaper/highgain_source/bounces")
-# folder = "outputs/segments"
-folder = "../dump/segments"
-
-world = World(sink=folder)
+world = World(sink = "../dump/segments")
 
 slicer = Noveltyslice(
     threshold=0.1, 
     minslicelength=4096, 
     feature=0, 
-    cache=1
+    cache=1,
 )
 
-cs = ClusteredSegmentation(numclusters=3, windowsize=5)
+cs = ClusteredSegmentation(numclusters=3, windowsize=5, cache=1)
 
 src >> slicer >> cs >> ExplodeAudio()
 world.build(src)

@@ -3,34 +3,31 @@
 Split by activity into two clusters hopefully rendering sections that are static, versus those that are more gestural or dynamic
 """
 
-from ftis.analyser import Flux, Stats, Normalise, AgglomerativeClustering
-from ftis.process import FTISProcess as Chain
+from ftis.analyser.descriptor import Flux
+from ftis.analyser.stats import  Stats
+from ftis.analyser.scaling import Normalise
+from ftis.analyser.clustering import AgglomerativeClustering
+from ftis.world import World
+from ftis.corpus import Corpus
 from pathlib import Path
 from shutil import copyfile
 
-src = "outputs/segments/2_ExplodeAudio"
-folder = "outputs/classification"
+src = Corpus("../dump/segments/3.0-ClusteredSegmentation.ExplodeAudio") 
+output = "../dump/classification"
 
-process = Chain(
-    source=src, 
-    folder=folder
-)
+world = World(sink=output)
 
 cluster = AgglomerativeClustering(numclusters=2)
 
-process.add(
-    Flux(cache=False),
-    Stats(numderivs=2),
-    Normalise(),
-    cluster
-)
+src >> Flux() >> Stats(numderivs=2) >> Normalise() >> cluster
+world.build(src)
 
 if __name__ == "__main__":
-    process.run()
+    world.run()
 
     # Now implement a quasi one-shot analyser to copy the sound files to individual directories
     # We will use the directories as a significant progress point from which new analysis will be orchestrated
-    out = Path(folder) / "4_Split"
+    out = Path(output) / "4_Split"
     out.mkdir(exist_ok=True)
 
     for c in cluster.output:
