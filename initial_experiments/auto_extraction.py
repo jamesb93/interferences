@@ -1,21 +1,14 @@
-from ftis.analyser import ClusteredNMF
-from ftis.process import FTISProcess as Chain
+from ftis.analyser.meta import ClusteredNMF
+from ftis.world import World
+from ftis.corpus import Corpus
 
-src = "outputs/classification/4_Split/1"
-folder = "outputs/layers_extractions"
+src = "../outputs/classification/4_Split/1"
+out = "../dump/layers_extraction"
 
-process = Chain(
-    source=src, 
-    folder=folder
-)
-
-process.add(
-    ClusteredNMF(
-        iterations=200,
-        components=10,
-        cluster_selection_method='leaf'
-    )
-)
+corpus = Corpus(src)
+process = World(sink=out)
+corpus >> ClusteredNMF(iterations=200, components=10, cluster_selection_method='leaf')
 
 if __name__ == "__main__":
+    process.build(corpus)
     process.run()
