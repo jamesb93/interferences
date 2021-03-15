@@ -23,9 +23,9 @@ cluster_segmentation = ClusteredSegmentation(cache=True)
 
 src >> initial_segmentation >> cluster_segmentation >> ExplodeAudio()
 
-world.build(src)
 
 if __name__ == "__main__":
+    world.build(src)
     world.run()
     # Write out the clustered segemnts to a REAPER file
     session = reaper.Project()
@@ -34,7 +34,7 @@ if __name__ == "__main__":
     for audio_src, slices in cluster_segmentation.output.items():
         p = Path(audio_src)
         source = reaper.Source(file = p.resolve())
-        track = reaper.Track(name=p.stem)
+        track = reaper.Track(name = p.stem)
         pos = 0
         for i, (start, end) in enumerate(zip(slices, slices[1:])):
             start /= 44100
@@ -47,38 +47,7 @@ if __name__ == "__main__":
                     length = float(end-start)
                 )
             )
-            
             pos += end-start
         session.add(track)
+
     session.write(Path(out) / "2_VisaluseSlices.rpp")
-
-    # tracks = {}
-    # for audio_src, slices in cluster_segmentation.output.items():
-    #     f = Path(audio_src).resolve()
-    #     track_id = str(f.name)
-    #     pos = 0
-    #     for i, (start, end) in enumerate(zip(slices, slices[1:])):
-    #         start /= 44100
-    #         end /= 44100
-
-    #         item = {
-    #             "file": f,
-    #             "length": end - start,
-    #             "start": start,
-    #             "position": pos
-    #         }
-    #         pos += end-start
-
-    #         if track_id in tracks:
-    #             tracks[track_id].append(item)
-    #         else:
-    #             tracks[track_id] = [item]
-
-    #     # make the necessary folders
-    #     reaper_session = Path(folder) / "2_VisaluseSlices.rpp"
-
-    #     env = jinja2.Environment(loader=jinja2.FileSystemLoader(['./RPRTemplates']))
-    #     template = env.get_template("SegmentationTemplate.rprtemplate")
-
-    #     with open(reaper_session, "w") as f:
-    #         f.write(template.render(tracks=tracks, metadata={"none" : "none"}))
