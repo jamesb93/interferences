@@ -36,7 +36,7 @@ pandas==1.0.4
 panel==0.9.5
 param==1.9.3
 partd==1.1.0
-Pillow==7.1.2
+Pillow==8.1.1
 psutil==5.7.0
 pycparser==2.20
 pyct==0.4.6
