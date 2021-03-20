@@ -19,7 +19,7 @@ hdbscan==0.8.26
 HeapDict==1.0.1
 holoviews==1.13.2
 idna==2.9
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.15.1
 kiwisolver==1.2.0
 llvmlite==0.31.0
