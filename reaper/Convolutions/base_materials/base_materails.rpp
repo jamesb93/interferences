@@ -1,0 +1,2209 @@
+<REAPER_PROJECT 0.1 "6.13/OSX64" 1602090900
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  CURSOR 1808
+  ZOOM 0.97898465022416 607 0
+  VZOOMEX 8 0
+  USE_REC_CFG 1
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "media" ""
+  <RECORD_CFG
+    ZXZhdyAAAA==
+  >
+  <APPLYFX_CFG
+    ZXZhdyABAA==
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdyABAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 47.5660544217687 48.24379940875996
+  SELECTION2 47.5660544217687 48.24379940875996
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {E7F05EE0-B098-5B46-9A62-634F589B8EEB}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {416E3F5C-4827-C34C-9F24-60811BE08E5A}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {122DADA9-AF6B-4343-B630-4DDA5E6201C0}
+    NAME 1
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {122DADA9-AF6B-4343-B630-4DDA5E6201C0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 23.3571201814059
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7BCFCE45-4D16-5B41-AA6A-9FFBB8396846}
+      IID 1
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E1E2FCA-52B5-4B4A-961B-EC4945FB799F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/RME Face Panel_01_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 23.3571201814059
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90C338AB-89AD-0E44-9419-769485ED4B81}
+      IID 2
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E116F6F-2E68-BC4B-BE80-ACB7AC42789A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_29.wav"
+      >
+    >
+    <ITEM
+      POSITION 70.92319727891157
+      SNAPOFFS 0
+      LENGTH 47.55446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {455430CE-C005-6B44-83B7-58D13F3379C9}
+      IID 3
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA6D3171-3D9C-3149-89E9-E62F5BDAE81D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/04-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 118.47766439909299
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D1E985F-1CF7-124E-A147-97E6FB4ECB35}
+      IID 4
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07E495A7-08F0-D641-99E5-EBC235074C23}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_16.wav"
+      >
+    >
+    <ITEM
+      POSITION 166.06696145124718
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65BBC1D3-2B95-694E-9546-3A954A35FDEE}
+      IID 5
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {260B8DD6-1F41-6F43-858D-1015448F5BF8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_14.wav"
+      >
+    >
+    <ITEM
+      POSITION 213.63303854875284
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA36DFEB-120D-F141-A4C7-36C71DA2B6D6}
+      IID 6
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {812D3C9A-C70D-1A45-970F-88C9487B81D3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_13.wav"
+      >
+    >
+    <ITEM
+      POSITION 261.21072562358279
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {50059673-EA80-5048-B362-AFCEAE35D1DD}
+      IID 7
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB19D1F5-04D3-0C44-AE5B-49D60547C59E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 308.77680272108847
+      SNAPOFFS 0
+      LENGTH 95.15537414965986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA62FF92-F1FE-9241-8074-70065E463C3A}
+      IID 8
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1C95460-43BD-D842-804A-A40F72E23560}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 403.93217687074832
+      SNAPOFFS 0
+      LENGTH 95.13215419501134
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {735AC0AA-A710-784A-9710-D3707A2EA8AD}
+      IID 9
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3F1F354-7C9C-1242-817F-7C88168F18E1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_28.wav"
+      >
+    >
+    <ITEM
+      POSITION 499.06433106575969
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42EB585B-3412-4246-AEBD-5D7C320DC720}
+      IID 10
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D5D4099-B095-6849-97E8-733941EF6EB8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 546.65362811791385
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD683999-D17C-8145-ACB2-4D67DFFAB6D6}
+      IID 11
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD31D541-96E6-174D-A1B3-9A4AD3D94DF7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_11.wav"
+      >
+    >
+    <ITEM
+      POSITION 594.23131519274375
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {809E3498-F7C9-9242-95C9-369AFA2DA3A3}
+      IID 12
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B438D86-1BEC-6D43-92DB-B268DBAFC346}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 641.80900226757365
+      SNAPOFFS 0
+      LENGTH 95.15537414965986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35641760-F9C7-D244-AA60-8E5CE2C7A43C}
+      IID 13
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {492FD054-6725-D943-A557-C27A0DCCE298}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 736.96437641723355
+      SNAPOFFS 0
+      LENGTH 142.69823129251699
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A47104E-0EE3-5748-B92F-92D6D2C9215C}
+      IID 14
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F32B6867-36C5-4E4C-92F5-179B54C847A8}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_15.wav"
+      >
+    >
+    <ITEM
+      POSITION 879.66260770975055
+      SNAPOFFS 0
+      LENGTH 19.65859410430839
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16CEA8E3-419C-E840-8EDF-5E21E777F938}
+      IID 15
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82837BB1-7E78-8C4E-B85F-848B475C9036}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_01_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 899.3212018140589
+      SNAPOFFS 0
+      LENGTH 47.60090702947846
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77A4577E-9CFC-034E-9507-66794D058548}
+      IID 16
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CF16C8B-C635-4043-98F3-CFB21F427DFC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/06-KindleOffLG_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 946.92210884353733
+      SNAPOFFS 0
+      LENGTH 95.16698412698413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C70D2D06-6086-8E48-880F-3989A16DE24B}
+      IID 17
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F19FB70-FA4A-2E4A-8C49-26671050B205}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 1042.0890929705215
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {77C44750-992C-0945-9D6E-A53391E9B762}
+      IID 18
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02EB2B4B-235D-5946-A039-EE21AE418A09}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/02-KindleOffLG_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 1089.6551700680272
+      SNAPOFFS 0
+      LENGTH 47.55446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F5C2396C-08A5-5043-8B2B-EEF73E06F4A4}
+      IID 19
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7835F97D-BE85-D14C-A8DF-81B4B4152B4E}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/02-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 1137.2096371882087
+      SNAPOFFS 0
+      LENGTH 95.15537414965986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93F70D96-5E5B-294F-8409-C5F9E52833BD}
+      IID 20
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {189D2B40-75B5-4148-9173-F1CFB572F8F7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 1232.3650113378685
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06EC34DE-4670-F64B-8B46-A8CF8D749FD7}
+      IID 21
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {844B73C9-9B9D-AF46-830D-5050509AA37C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_40.wav"
+      >
+    >
+    <ITEM
+      POSITION 1279.9426984126985
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09A97285-344A-6F40-8E93-C73E7965579D}
+      IID 22
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F72552CF-5406-674A-BD49-0304549B18EF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_11.wav"
+      >
+    >
+    <ITEM
+      POSITION 1327.5087755102043
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C44FC04-7F4F-2F4C-A95D-37952B8AC730}
+      IID 23
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EFC7289-A480-DD4B-90AD-74CD1F9B408F}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 1375.0980725623585
+      SNAPOFFS 0
+      LENGTH 95.15537414965986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92B85219-94D0-4E48-A117-E4A3E06F55CA}
+      IID 24
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07502D7E-426C-D947-9DD6-445C282990B9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/02-KindleOffLG_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1470.2534467120183
+      SNAPOFFS 0
+      LENGTH 47.60090702947846
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5D25330-77E2-E74B-B76D-E52DB99B4D54}
+      IID 25
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A63EB50-1326-D246-91E2-09C70C63693A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_20.wav"
+      >
+    >
+    <ITEM
+      POSITION 1517.8543537414969
+      SNAPOFFS 0
+      LENGTH 47.57766439909297
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {57B9D9CF-63A2-F340-A4B1-47863663C9CD}
+      IID 26
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B829C748-4417-5347-90C2-CA037FEC38C0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_34.wav"
+      >
+    >
+    <ITEM
+      POSITION 1565.4320181405899
+      SNAPOFFS 0
+      LENGTH 95.15535147392291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BA41875-6D7D-7B47-B4B4-61185CAB5EE9}
+      IID 27
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {227D6E51-0C2E-5041-BDE8-6FCFA7B92896}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_14.wav"
+      >
+    >
+    <ITEM
+      POSITION 1660.5873696145127
+      SNAPOFFS 0
+      LENGTH 95.17859410430839
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {704136E6-5F22-5A49-BB04-2C4E963B9A8A}
+      IID 28
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A29488A9-C76E-C448-8845-96EBFC615035}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_15.wav"
+      >
+    >
+    <ITEM
+      POSITION 1755.765963718821
+      SNAPOFFS 0
+      LENGTH 47.60090702947846
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3EA0A95-3236-7640-BA05-ACA5B53AC1F0}
+      IID 29
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3E7671B-3216-0145-958D-A958CA2E21EF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/09-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 1803.3668707482996
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE081E30-F68E-374A-86B7-902CCB591563}
+      IID 30
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D813431A-B530-234C-9AEA-B41F4BF49C61}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_21.wav"
+      >
+    >
+    <ITEM
+      POSITION 1850.9329478458053
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {756CA2F0-7D86-2F47-9F95-BB2DB5559B22}
+      IID 31
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2967812F-A7BA-3540-AFA9-D67E922AE8EC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/09-KindleOffLG_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 1898.5106349206353
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {921C411A-E8E9-0241-816D-22C22CFCD2E3}
+      IID 32
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF0AFF8A-FB7F-6844-AAA0-DDA6D3F9B9A9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_22.wav"
+      >
+    >
+    <ITEM
+      POSITION 1946.0999319727896
+      SNAPOFFS 0
+      LENGTH 142.72145124716553
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E042565-A7E7-A242-8003-A9A948341A00}
+      IID 33
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ECF0DA8-9FAA-164B-8A3A-A084C2D68F97}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 2088.8213832199554
+      SNAPOFFS 0
+      LENGTH 47.61253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {87BEBF25-12B1-484E-87E8-FE0CEF773E94}
+      IID 34
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEF12E9D-DFA0-AE41-86FC-3552D644A5F9}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_33.wav"
+      >
+    >
+    <ITEM
+      POSITION 2136.4339229024949
+      SNAPOFFS 0
+      LENGTH 47.5660544217687
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15CCD859-2A85-3040-90FB-7F6B65E81484}
+      IID 35
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6310C89-1D8B-5E4F-A1A4-0007E230E47C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_31.wav"
+      >
+    >
+    <ITEM
+      POSITION 2183.9999773242635
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C082A77-F66B-5A47-BB44-6F7A06CDB615}
+      IID 36
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B45E49A-792C-E44A-A521-C85CFC3A84ED}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/08-KindleOffLG_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 2231.5776643990935
+      SNAPOFFS 0
+      LENGTH 95.16698412698413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E47F750-9DBE-3E4F-BCD2-7E276F9D80B3}
+      IID 37
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D53E32D-2823-7043-8119-2082961D5CF7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/08-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 2326.7446485260775
+      SNAPOFFS 0
+      LENGTH 95.14376417233561
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4420A71B-975B-6D4C-BD96-1162FA3AD57E}
+      IID 38
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5451CCEA-4CD4-FB46-936C-DED2CA6BCF80}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_19.wav"
+      >
+    >
+    <ITEM
+      POSITION 2421.888412698413
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {660C4326-51C9-C741-A663-D2C56B06F96D}
+      IID 39
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AF0BF28-E0C0-2846-8E06-0E8C741B15A1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_24.wav"
+      >
+    >
+    <ITEM
+      POSITION 2469.4544897959186
+      SNAPOFFS 0
+      LENGTH 142.74467120181407
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {48DB4F64-C473-FA4E-B84E-9B136F7B67F0}
+      IID 40
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58AAF720-CEAE-9947-B69B-ABA18B9F9A60}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_32.wav"
+      >
+    >
+    <ITEM
+      POSITION 2612.1991609977326
+      SNAPOFFS 0
+      LENGTH 95.13215419501134
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EBE2E1D8-08F2-6A42-9D8D-D8BE24806A15}
+      IID 41
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {907F3B4E-63CD-4940-B0D2-A0C151C727B1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/08-KindleOffLG_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 2707.3313151927441
+      SNAPOFFS 0
+      LENGTH 95.14378684807257
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2165D5B9-3A3E-7D49-8436-12CB39690720}
+      IID 42
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ECB5E1A6-F512-2343-AC6B-935861AFD2C2}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_18.wav"
+      >
+    >
+    <ITEM
+      POSITION 2802.4751020408166
+      SNAPOFFS 0
+      LENGTH 190.28752834467122
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {99A1AE16-885B-7340-87B0-2719526004B7}
+      IID 43
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A04A0A3E-CF62-9840-BD47-25B3ABC76703}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_26.wav"
+      >
+    >
+  >
+  <TRACK {EB7E270A-A531-CB4D-B535-9D82BBEB3500}
+    NAME 0
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EB7E270A-A531-CB4D-B535-9D82BBEB3500}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 39.40619047619047
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B657C1CF-D34B-FD48-99B2-E87E0EFCE706}
+      IID 44
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9CFC696-73E2-F84C-B6B0-72679EAD83A7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Mouse_01_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 39.40619047619047
+      SNAPOFFS 0
+      LENGTH 47.55446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA69DECC-0711-A547-ACF2-33E1EBD5CC30}
+      IID 45
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D54B95F4-A7D8-2A4F-BFF5-A445376CDE6D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/WD Hard Drive_01_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.96065759637187
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05273F05-E391-0D41-8639-A0C9FDF07839}
+      IID 46
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6271190-AAF4-9841-B67B-F389A7B8FFBB}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/WD Hard Drive_01_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 134.54995464852607
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B59271AE-167B-6946-8C69-F916E62C417D}
+      IID 47
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F697E693-E60E-2442-922A-79478648A3F6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/01-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 182.11603174603175
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B23573E-41B1-9D49-8144-4936E3C3E7AA}
+      IID 48
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BD712D1-966B-8041-AB26-5246EA1FFDB3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/01-KindleOffLG_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 229.70532879818595
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F5722F6-71F2-8745-A209-22C4FF3E2606}
+      IID 49
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE34BE09-E91A-C541-8305-8B916A15E37A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 277.29462585034014
+      SNAPOFFS 0
+      LENGTH 47.55446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1FFC864-7A03-AF43-AEB4-2346CADDC72C}
+      IID 50
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97CE6E36-73B0-BB47-86D1-71EAAF9CD541}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/05-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 324.84909297052155
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9803BF49-8FE2-F04A-8953-3B2C8CA1BB27}
+      IID 51
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBBD020F-C2C5-C143-B7FA-B64BDDBC7D02}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/05-KindleOffLG_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 372.43839002267578
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D7EB0D87-1E2C-D94E-9431-28B906A11220}
+      IID 52
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {781B52F4-9A64-EE41-8C58-C353DD5CC9B1}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Xiamo Note 4X_01_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 420.01607709750573
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15B017D2-3A7A-0A4D-AEBD-35A95E152263}
+      IID 53
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {885B7365-DED9-434E-BD52-09DD4E2DE2AF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/03-KindleOffLG_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 467.59376417233568
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB1A5E08-2387-F44A-91DA-937CD64FACBA}
+      IID 54
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4303D800-3069-B14B-9476-C08B2ADA3221}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Xiamo Note 4X_01_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 515.15984126984131
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B2FF5F2-9D32-DD41-A102-7A9557DF55ED}
+      IID 55
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD552A48-1258-6C49-ACC0-A25498823EF3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/03-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 562.7375283446712
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {157093D7-9E30-4543-B193-FD32F03C3408}
+      IID 56
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {245F9740-AAE4-614D-9D24-DDAD37D85CE3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/03-KindleOffLG_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 610.30360544217683
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98B0CFEF-691C-D542-9B05-2E5A6C3539F0}
+      IID 57
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BBD91D9-BF44-B04D-A16B-EB0F317B0349}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/07-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 657.88129251700673
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF9B7299-4D46-5644-9E45-655F052C057A}
+      IID 58
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB8CAB0F-706A-7841-855B-75D7118FA136}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/07-KindleOffLG_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 705.44736961451235
+      SNAPOFFS 0
+      LENGTH 95.17859410430839
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {960B1D00-FFD2-5741-92C3-1C9C0BEBB824}
+      IID 59
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1DAADDA5-7C0F-AA48-94F5-D908C62C54FD}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Xiamo Note 4X_01_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 800.62596371882069
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A8A927A-FB59-B74A-B47A-7F8A94D43E1B}
+      IID 60
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {570C5D2A-17BE-4F4D-BDF7-64D017AA2556}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Xiamo Note 4X_01_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 848.19204081632631
+      SNAPOFFS 0
+      LENGTH 95.15537414965986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F208F6FF-BD4A-5043-86B5-4F49F1098752}
+      IID 61
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1F88C41-6F0A-E541-9C17-336C340F5746}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/02-KindleOffLG_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 943.34741496598622
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C6D7A947-AE16-7A40-A46F-7D9A7350915C}
+      IID 62
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E243BACF-B890-4E42-9954-66DF9B820940}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/07-KindleOffLG_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 990.93671201814038
+      SNAPOFFS 0
+      LENGTH 95.17859410430839
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE8272C5-E28A-F048-84AD-7AFE8A4F745E}
+      IID 63
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A88D359-4CF9-8044-B77E-7DBCD2F5EB91}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Xiamo Note 4X_01_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 1086.1153061224488
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F0F6BDCD-A1AA-AF40-9BD1-8AF554B02160}
+      IID 64
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0D1B17E-803D-8A4A-B619-015A0AD99270}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/09-KindleOffLG_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1133.7046031746031
+      SNAPOFFS 0
+      LENGTH 95.19020408163266
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12E6CE3B-E9D5-904D-9583-78ACE05B57F7}
+      IID 65
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C868B8E-9BB2-4543-9235-A4AE0EB9284D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/09-KindleOffLG_2.wav"
+      >
+    >
+  >
+  <TRACK {9071CA50-7EE6-8E41-91C2-90B18F2FB19B}
+    NAME 2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9071CA50-7EE6-8E41-91C2-90B18F2FB19B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 47.5660544217687
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46285E95-198B-024B-BA31-4E60BC506419}
+      IID 66
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F07AC8C2-7147-DA4B-97ED-54C66C278593}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_17.wav"
+      >
+    >
+    <ITEM
+      POSITION 47.5660544217687
+      SNAPOFFS 0
+      LENGTH 95.16698412698413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A36F4538-3818-B549-B8A6-AD52DD19BFA0}
+      IID 67
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B0ED2E0-2BCE-9D40-9941-691586D10196}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 142.73303854875283
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A61A5071-404A-724B-86B9-0CC02581FB70}
+      IID 68
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85922B2E-AAE4-8047-8988-BE827DD0D7C4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_12.wav"
+      >
+    >
+    <ITEM
+      POSITION 190.29911564625849
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {03D1324C-2A52-E44C-B7AE-E2B06786A4BB}
+      IID 69
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFE9A578-588A-124B-972C-1C1528040EA6}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 237.87680272108841
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F1F7261-4CE5-A84C-9D57-FF9ED90225B8}
+      IID 70
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6460E01-B3F2-2E42-AAD5-2B93AD0D99E0}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/06-KindleOffLG_0.wav"
+      >
+    >
+    <ITEM
+      POSITION 285.44287981859407
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8F4A4D2-0374-7543-AD52-4AC6DB1351B0}
+      IID 71
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {597C2450-8F73-D54E-BE77-FAC8F71E49F7}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_39.wav"
+      >
+    >
+    <ITEM
+      POSITION 333.03217687074823
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06FB0BE2-F845-444B-B819-6D018778F91E}
+      IID 72
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE9D163A-2DC8-B84F-99B4-83A84FBAECD4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/02-KindleOffLG_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 380.6214739229024
+      SNAPOFFS 0
+      LENGTH 95.14376417233561
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4CAFC68D-E714-3344-B284-C9CAFEEC99E9}
+      IID 73
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {417D270E-DC12-E147-843E-D9DE9BE6E3F4}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_38.wav"
+      >
+    >
+    <ITEM
+      POSITION 475.76523809523803
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {517F3DD6-10C3-D74F-8690-A5ED12AC26DF}
+      IID 74
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EF51CAB-771A-B64C-AE27-FB5B778DEF6A}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 523.3545351473922
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6C3A37A-D1EC-A54C-ADAA-7757DCB544C2}
+      IID 75
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C59A13FF-5903-CB41-AE96-B04C2275C287}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/06-KindleOffLG_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 570.92061224489782
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E046E733-B2BB-F74E-998E-CDAF3E03C151}
+      IID 76
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9370DB5-10B0-B94E-B4D5-90FD5D5E3C30}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/07-KindleOffLG_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 618.50990929705199
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {83499CD6-C031-624D-9435-4BD88F190A82}
+      IID 77
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FA73401-9BF5-9141-B300-C9E112DA188C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 666.09920634920616
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DAF9255A-ADD9-FD4D-BE4C-A008147F08F8}
+      IID 78
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92F6FB27-1EC2-CE4C-A041-328C54C9929D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 713.66528344671178
+      SNAPOFFS 0
+      LENGTH 95.15537414965986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA202BAF-2E2A-5842-9346-1105F37A453A}
+      IID 79
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {197D7A88-C560-004F-8F99-EADB60043A97}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 808.82065759637169
+      SNAPOFFS 0
+      LENGTH 47.5777097505669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF7BD013-16A8-9642-9CC5-74F542C86BCA}
+      IID 80
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {866440E3-F372-6E4A-97A1-54790A892E74}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_16.wav"
+      >
+    >
+    <ITEM
+      POSITION 856.39836734693858
+      SNAPOFFS 0
+      LENGTH 47.57768707482993
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {03B5C51A-B609-F54D-81A8-8DFC4C697F09}
+      IID 81
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {913F548C-96F9-BE44-B252-60DCF7795BFC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 903.97605442176848
+      SNAPOFFS 0
+      LENGTH 190.38040816326532
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AEDAA8B1-530F-B845-8956-C3A4D6158712}
+      IID 82
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA8596E8-19AB-294B-8609-03921B11BAAF}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 1094.3564625850338
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED038715-AAE4-C649-8A65-CFAA499EA0F9}
+      IID 83
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {817FAFFD-63B9-6845-9992-38C14FD72D93}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_13.wav"
+      >
+    >
+    <ITEM
+      POSITION 1141.9457596371881
+      SNAPOFFS 0
+      LENGTH 95.15537414965986
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EEAFD5C-23D0-9F42-9DEE-88FBD9C31DC8}
+      IID 84
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F2412DC-9E44-E744-BDFE-807139B103B3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_05_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 1237.1011337868479
+      SNAPOFFS 0
+      LENGTH 47.56609977324263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D508A832-6D73-6F4B-A578-0F9CE3CAB9B6}
+      IID 85
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {193C095C-9E9F-0F4B-B027-150C66CF0F72}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_35.wav"
+      >
+    >
+    <ITEM
+      POSITION 1284.6672335600906
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A8919A4-F761-1E4C-8706-17A3B3D41665}
+      IID 86
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F09EE58A-A61C-9145-9551-2525CB3AE44D}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_37.wav"
+      >
+    >
+    <ITEM
+      POSITION 1332.2333106575963
+      SNAPOFFS 0
+      LENGTH 47.58929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8233BE6-82BF-B546-91D6-EFE9E28BB29D}
+      IID 87
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B67D6E0-2540-F941-AD93-2C98CEBC2DDC}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_27.wav"
+      >
+    >
+    <ITEM
+      POSITION 1379.8226077097506
+      SNAPOFFS 0
+      LENGTH 47.61251700680272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7FF92D14-D8D9-D846-83EB-7D5F3DF6A001}
+      IID 88
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ADA4AB95-0621-B64F-89B4-90CD98C7FC4B}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/08-KindleOffLG_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1427.4351247165534
+      SNAPOFFS 0
+      LENGTH 47.56607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E68C6968-8F2B-794F-B742-4BCBC4F412A3}
+      IID 89
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45612AA8-719D-4C4A-A2D3-2DEF733804A3}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_25.wav"
+      >
+    >
+    <ITEM
+      POSITION 1475.0012018140592
+      SNAPOFFS 0
+      LENGTH 142.70984126984126
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AD24609-FF19-5747-8D32-72FA806052B2}
+      IID 90
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2090B17-BB32-234D-8CDA-7125C76F0F22}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_23.wav"
+      >
+    >
+    <ITEM
+      POSITION 1617.7110430839004
+      SNAPOFFS 0
+      LENGTH 47.60090702947846
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3731A7D4-A4A0-0E4A-8538-31D679159D8B}
+      IID 91
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F40F2008-A87C-7746-91CF-1B2AD13A2E7C}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 1665.311950113379
+      SNAPOFFS 0
+      LENGTH 95.16698412698413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D3311D2-BEB5-504D-9093-5D4361E88D98}
+      IID 92
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E038F92-7234-9A49-B197-5B6EA8310D43}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_30.wav"
+      >
+    >
+    <ITEM
+      POSITION 1760.4789342403631
+      SNAPOFFS 0
+      LENGTH 190.35718820861678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {5BF7E4AA-2CDF-0B47-8EF3-46F3D81E613F}
+      IID 93
+      NAME ""
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C9CD5E6-E44C-0F40-9270-0D16D0074A78}
+      <SOURCE WAVE
+        FILE "/Users/james/Cloud/Projects/ElectroMagnetic/outputs/classification/4_Split/1/Kindle_04_36.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>

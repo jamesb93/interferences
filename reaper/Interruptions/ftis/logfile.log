@@ -1,0 +1,11 @@
+2021-04-02 18:34:52,590 : DEBUG : ftis.world : Logging initialised
+2021-04-02 18:34:52,596 : DEBUG : ftis.world : MFCC: Initialising
+2021-04-02 18:35:04,435 : DEBUG : ftis.world : MFCC: Ran Successfully
+2021-04-02 18:35:05,023 : DEBUG : ftis.world : Stats: Initialising
+2021-04-02 18:35:13,349 : DEBUG : ftis.world : Stats: Ran Successfully
+2021-04-02 18:35:13,390 : DEBUG : ftis.world : Standardise: Initialising
+2021-04-02 18:35:13,400 : DEBUG : ftis.world : Standardise: Ran Successfully
+2021-04-02 18:35:13,446 : DEBUG : ftis.world : UMAP: Initialising
+2021-04-02 18:35:17,471 : DEBUG : ftis.world : UMAP: Ran Successfully
+2021-04-02 18:35:17,476 : DEBUG : ftis.world : AgglomerativeClustering: Initialising
+2021-04-02 18:35:17,486 : DEBUG : ftis.world : AgglomerativeClustering: Ran Successfully

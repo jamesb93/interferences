@@ -1,0 +1,11 @@
+2020-08-27 14:46:14,236 : DEBUG : ftis.process : Logging initialised
+2020-08-27 14:46:14,240 : DEBUG : ftis.process : FluidMFCC: Initiating
+2020-08-27 14:46:15,245 : DEBUG : ftis.process : FluidMFCC: Ran Successfully
+2020-08-27 14:46:15,246 : DEBUG : ftis.process : Stats: Initiating
+2020-08-27 14:46:15,250 : DEBUG : ftis.process : Stats: Ran Successfully
+2020-08-27 14:46:15,251 : DEBUG : ftis.process : Standardise: Initiating
+2020-08-27 14:46:15,253 : DEBUG : ftis.process : Standardise: Ran Successfully
+2020-08-27 14:46:15,253 : DEBUG : ftis.process : UMAP: Initiating
+2020-08-27 14:46:15,254 : DEBUG : ftis.process : UMAP: Ran Successfully
+2020-08-27 14:46:15,255 : DEBUG : ftis.process : AgglomerativeClustering: Initiating
+2020-08-27 14:46:15,265 : DEBUG : ftis.process : AgglomerativeClustering: Ran Successfully

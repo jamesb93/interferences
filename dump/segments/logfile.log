@@ -1,0 +1,7 @@
+2021-03-15 13:14:40,860 : DEBUG : ftis.world : Logging initialised
+2021-03-15 13:14:40,869 : DEBUG : ftis.world : Noveltyslice: Initialising
+2021-03-15 13:14:40,870 : DEBUG : ftis.world : Noveltyslice: Ran Successfully
+2021-03-15 13:14:40,871 : DEBUG : ftis.world : ClusteredSegmentation: Initialising
+2021-03-15 13:14:40,871 : DEBUG : ftis.world : ClusteredSegmentation: Ran Successfully
+2021-03-15 13:14:40,872 : DEBUG : ftis.world : ExplodeAudio: Initialising
+2021-03-15 13:14:43,383 : DEBUG : ftis.world : ExplodeAudio: Ran Successfully

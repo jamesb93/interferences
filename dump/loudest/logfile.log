@@ -1,0 +1,6 @@
+2021-03-15 15:07:04,538 : DEBUG : ftis.world : Logging initialised
+2021-03-15 15:07:04,544 : DEBUG : ftis.world : MFCC: Initialising
+2021-03-15 15:07:12,301 : DEBUG : ftis.world : MFCC: Ran Successfully
+2021-03-15 15:07:17,247 : DEBUG : ftis.world : Stats: Initialising
+2021-03-15 15:07:29,109 : DEBUG : ftis.world : Stats: Ran Successfully
+2021-03-15 15:07:29,199 : DEBUG : ftis.world : UMAP: Initialising
