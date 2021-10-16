@@ -10,7 +10,7 @@
       LENGTH 47.57768707482993
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xbox Controller_02.wav"
+        FILE "../../reaper/highgain_source/bounces/Xbox Controller_02.wav"
       >
     >
   >
@@ -23,7 +23,7 @@
       LENGTH 47.56607709750567
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Keyboard_01.wav"
+        FILE "../../reaper/highgain_source/bounces/Keyboard_01.wav"
       >
     >
   >
@@ -36,7 +36,7 @@
       LENGTH 47.55446712018141
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/WD Hard Drive_02.wav"
+        FILE "../../reaper/highgain_source/bounces/WD Hard Drive_02.wav"
       >
     >
   >
@@ -49,7 +49,7 @@
       LENGTH 47.55446712018141
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/WD Hard Drive_01.wav"
+        FILE "../../reaper/highgain_source/bounces/WD Hard Drive_01.wav"
       >
     >
     
@@ -59,7 +59,7 @@
       LENGTH 47.5892970521542
       SOFFS 47.55446712018141
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/WD Hard Drive_01.wav"
+        FILE "../../reaper/highgain_source/bounces/WD Hard Drive_01.wav"
       >
     >
   >
@@ -72,7 +72,7 @@
       LENGTH 47.55446712018141
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/04-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/04-KindleOffLG.wav"
       >
     >
   >
@@ -85,7 +85,7 @@
       LENGTH 47.56607709750567
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/01-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/01-KindleOffLG.wav"
       >
     >
     
@@ -95,7 +95,7 @@
       LENGTH 47.589297052154194
       SOFFS 47.56607709750567
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/01-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/01-KindleOffLG.wav"
       >
     >
   >
@@ -108,7 +108,7 @@
       LENGTH 47.56607709750567
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/06-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/06-KindleOffLG.wav"
       >
     >
     
@@ -118,7 +118,7 @@
       LENGTH 47.60090702947846
       SOFFS 47.56607709750567
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/06-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/06-KindleOffLG.wav"
       >
     >
     
@@ -128,7 +128,7 @@
       LENGTH 47.56607709750567
       SOFFS 95.16698412698413
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/06-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/06-KindleOffLG.wav"
       >
     >
   >
@@ -141,7 +141,7 @@
       LENGTH 47.589297052154194
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_03.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_03.wav"
       >
     >
     
@@ -151,7 +151,7 @@
       LENGTH 47.57768707482994
       SOFFS 47.589297052154194
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_03.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_03.wav"
       >
     >
   >
@@ -164,7 +164,7 @@
       LENGTH 47.55446712018141
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/05-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/05-KindleOffLG.wav"
       >
     >
     
@@ -174,7 +174,7 @@
       LENGTH 47.5892970521542
       SOFFS 47.55446712018141
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/05-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/05-KindleOffLG.wav"
       >
     >
   >
@@ -187,7 +187,7 @@
       LENGTH 47.56607709750567
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xbox Controller_03.wav"
+        FILE "../../reaper/highgain_source/bounces/Xbox Controller_03.wav"
       >
     >
     
@@ -197,7 +197,7 @@
       LENGTH 47.56607709750567
       SOFFS 47.56607709750567
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xbox Controller_03.wav"
+        FILE "../../reaper/highgain_source/bounces/Xbox Controller_03.wav"
       >
     >
   >
@@ -210,7 +210,7 @@
       LENGTH 47.57768707482993
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/03-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/03-KindleOffLG.wav"
       >
     >
     
@@ -220,7 +220,7 @@
       LENGTH 47.566077097505676
       SOFFS 47.57768707482993
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/03-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/03-KindleOffLG.wav"
       >
     >
     
@@ -230,7 +230,7 @@
       LENGTH 47.577687074829925
       SOFFS 95.14376417233561
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/03-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/03-KindleOffLG.wav"
       >
     >
   >
@@ -243,7 +243,7 @@
       LENGTH 47.600907029478456
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/09-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/09-KindleOffLG.wav"
       >
     >
     
@@ -253,7 +253,7 @@
       LENGTH 47.5892970521542
       SOFFS 47.600907029478456
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/09-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/09-KindleOffLG.wav"
       >
     >
     
@@ -263,7 +263,7 @@
       LENGTH 95.19020408163266
       SOFFS 95.19020408163266
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/09-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/09-KindleOffLG.wav"
       >
     >
     
@@ -273,7 +273,7 @@
       LENGTH 47.577687074829925
       SOFFS 190.38040816326532
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/09-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/09-KindleOffLG.wav"
       >
     >
   >
@@ -286,7 +286,7 @@
       LENGTH 47.57768707482993
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/07-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/07-KindleOffLG.wav"
       >
     >
     
@@ -296,7 +296,7 @@
       LENGTH 47.566077097505676
       SOFFS 47.57768707482993
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/07-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/07-KindleOffLG.wav"
       >
     >
     
@@ -306,7 +306,7 @@
       LENGTH 47.589297052154194
       SOFFS 95.14376417233561
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/07-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/07-KindleOffLG.wav"
       >
     >
     
@@ -316,7 +316,7 @@
       LENGTH 47.589297052154194
       SOFFS 142.7330612244898
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/07-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/07-KindleOffLG.wav"
       >
     >
   >
@@ -329,7 +329,7 @@
       LENGTH 47.55446712018141
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_02.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_02.wav"
       >
     >
     
@@ -339,7 +339,7 @@
       LENGTH 47.56607709750566
       SOFFS 47.55446712018141
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_02.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_02.wav"
       >
     >
     
@@ -349,7 +349,7 @@
       LENGTH 95.19020408163266
       SOFFS 95.12054421768707
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_02.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_02.wav"
       >
     >
     
@@ -359,7 +359,7 @@
       LENGTH 95.14376417233561
       SOFFS 190.31074829931973
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_02.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_02.wav"
       >
     >
   >
@@ -372,7 +372,7 @@
       LENGTH 95.16698412698413
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/08-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/08-KindleOffLG.wav"
       >
     >
     
@@ -382,7 +382,7 @@
       LENGTH 47.61251700680272
       SOFFS 95.16698412698413
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/08-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/08-KindleOffLG.wav"
       >
     >
     
@@ -392,7 +392,7 @@
       LENGTH 47.577687074829925
       SOFFS 142.77950113378685
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/08-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/08-KindleOffLG.wav"
       >
     >
     
@@ -402,7 +402,7 @@
       LENGTH 95.13215419501137
       SOFFS 190.35718820861678
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/08-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/08-KindleOffLG.wav"
       >
     >
   >
@@ -415,7 +415,7 @@
       LENGTH 47.55446712018141
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/02-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/02-KindleOffLG.wav"
       >
     >
     
@@ -425,7 +425,7 @@
       LENGTH 95.15537414965985
       SOFFS 47.55446712018141
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/02-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/02-KindleOffLG.wav"
       >
     >
     
@@ -435,7 +435,7 @@
       LENGTH 47.56607709750568
       SOFFS 142.70984126984126
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/02-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/02-KindleOffLG.wav"
       >
     >
     
@@ -445,7 +445,7 @@
       LENGTH 95.15537414965985
       SOFFS 190.27591836734695
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/02-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/02-KindleOffLG.wav"
       >
     >
     
@@ -455,7 +455,7 @@
       LENGTH 47.58929705215422
       SOFFS 285.4312925170068
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/02-KindleOffLG.wav"
+        FILE "../../reaper/highgain_source/bounces/02-KindleOffLG.wav"
       >
     >
   >
@@ -468,7 +468,7 @@
       LENGTH 47.57768707482993
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
+        FILE "../../reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
       >
     >
     
@@ -478,7 +478,7 @@
       LENGTH 47.566077097505676
       SOFFS 47.57768707482993
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
+        FILE "../../reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
       >
     >
     
@@ -488,7 +488,7 @@
       LENGTH 47.566077097505655
       SOFFS 95.14376417233561
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
+        FILE "../../reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
       >
     >
     
@@ -498,7 +498,7 @@
       LENGTH 95.17859410430839
       SOFFS 142.70984126984126
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
+        FILE "../../reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
       >
     >
     
@@ -508,7 +508,7 @@
       LENGTH 95.17859410430839
       SOFFS 237.88843537414965
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
+        FILE "../../reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
       >
     >
     
@@ -518,7 +518,7 @@
       LENGTH 47.56607709750568
       SOFFS 333.06702947845804
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
+        FILE "../../reaper/highgain_source/bounces/Xiamo Note 4X_01.wav"
       >
     >
   >
@@ -531,7 +531,7 @@
       LENGTH 95.15537414965986
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -541,7 +541,7 @@
       LENGTH 95.15537414965986
       SOFFS 95.15537414965986
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -551,7 +551,7 @@
       LENGTH 47.589297052154194
       SOFFS 190.31074829931973
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -561,7 +561,7 @@
       LENGTH 47.56607709750568
       SOFFS 237.90004535147392
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -571,7 +571,7 @@
       LENGTH 47.589297052154166
       SOFFS 285.4661224489796
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -581,7 +581,7 @@
       LENGTH 190.38040816326532
       SOFFS 333.05541950113377
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -591,7 +591,7 @@
       LENGTH 47.577687074829896
       SOFFS 523.4358276643991
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -601,7 +601,7 @@
       LENGTH 95.16698412698418
       SOFFS 571.013514739229
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -611,7 +611,7 @@
       LENGTH 95.1553741496599
       SOFFS 666.1804988662132
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -621,7 +621,7 @@
       LENGTH 47.577687074829896
       SOFFS 761.3358730158731
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -631,7 +631,7 @@
       LENGTH 142.72145124716553
       SOFFS 808.913560090703
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -641,7 +641,7 @@
       LENGTH 47.56607709750563
       SOFFS 951.6350113378685
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -651,7 +651,7 @@
       LENGTH 47.589297052154166
       SOFFS 999.2010884353741
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -661,7 +661,7 @@
       LENGTH 47.58929705215428
       SOFFS 1046.7903854875283
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -671,7 +671,7 @@
       LENGTH 95.15537414965979
       SOFFS 1094.3796825396826
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -681,7 +681,7 @@
       LENGTH 95.17859410430833
       SOFFS 1189.5350566893424
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
     
@@ -691,7 +691,7 @@
       LENGTH 47.57768707483001
       SOFFS 1284.7136507936507
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_05.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_05.wav"
       >
     >
   >
@@ -704,7 +704,7 @@
       LENGTH 47.56607709750567
       SOFFS 0.0
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -714,7 +714,7 @@
       LENGTH 47.589297052154194
       SOFFS 47.56607709750567
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -724,7 +724,7 @@
       LENGTH 95.15537414965986
       SOFFS 95.15537414965986
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -734,7 +734,7 @@
       LENGTH 47.589297052154194
       SOFFS 190.31074829931973
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -744,7 +744,7 @@
       LENGTH 95.15537414965985
       SOFFS 237.90004535147392
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -754,7 +754,7 @@
       LENGTH 95.16698412698412
       SOFFS 333.05541950113377
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -764,7 +764,7 @@
       LENGTH 47.56607709750568
       SOFFS 428.2224036281179
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -774,7 +774,7 @@
       LENGTH 47.589297052154166
       SOFFS 475.7884807256236
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -784,7 +784,7 @@
       LENGTH 142.75628117913834
       SOFFS 523.3777777777777
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -794,7 +794,7 @@
       LENGTH 47.600907029478435
       SOFFS 666.1340589569161
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -804,7 +804,7 @@
       LENGTH 47.57768707483001
       SOFFS 713.7349659863945
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -814,7 +814,7 @@
       LENGTH 47.577687074829896
       SOFFS 761.3126530612245
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -824,7 +824,7 @@
       LENGTH 47.56607709750563
       SOFFS 808.8903401360544
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -834,7 +834,7 @@
       LENGTH 47.57768707483001
       SOFFS 856.45641723356
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -844,7 +844,7 @@
       LENGTH 47.56607709750563
       SOFFS 904.03410430839
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -854,7 +854,7 @@
       LENGTH 142.698231292517
       SOFFS 951.6001814058957
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -864,7 +864,7 @@
       LENGTH 47.58929705215428
       SOFFS 1094.2984126984127
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -874,7 +874,7 @@
       LENGTH 47.56607709750551
       SOFFS 1141.887709750567
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -884,7 +884,7 @@
       LENGTH 95.14376417233575
       SOFFS 1189.4537868480725
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -894,7 +894,7 @@
       LENGTH 95.14376417233552
       SOFFS 1284.5975510204082
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -904,7 +904,7 @@
       LENGTH 47.60090702947855
       SOFFS 1379.7413151927437
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -914,7 +914,7 @@
       LENGTH 47.56607709750551
       SOFFS 1427.3422222222223
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -924,7 +924,7 @@
       LENGTH 47.58929705215428
       SOFFS 1474.9082993197278
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -934,7 +934,7 @@
       LENGTH 142.70984126984126
       SOFFS 1522.497596371882
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -944,7 +944,7 @@
       LENGTH 47.56607709750574
       SOFFS 1665.2074376417233
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -954,7 +954,7 @@
       LENGTH 47.56607709750551
       SOFFS 1712.773514739229
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -964,7 +964,7 @@
       LENGTH 190.28752834467127
       SOFFS 1760.3395918367346
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -974,7 +974,7 @@
       LENGTH 47.58929705215428
       SOFFS 1950.6271201814059
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -984,7 +984,7 @@
       LENGTH 95.13215419501148
       SOFFS 1998.2164172335602
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -994,7 +994,7 @@
       LENGTH 47.56607709750551
       SOFFS 2093.3485714285716
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1004,7 +1004,7 @@
       LENGTH 95.16698412698406
       SOFFS 2140.914648526077
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1014,7 +1014,7 @@
       LENGTH 47.56607709750551
       SOFFS 2236.081632653061
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1024,7 +1024,7 @@
       LENGTH 142.74467120181407
       SOFFS 2283.6477097505667
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1034,7 +1034,7 @@
       LENGTH 47.612517006803046
       SOFFS 2426.392380952381
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1044,7 +1044,7 @@
       LENGTH 47.577687074829555
       SOFFS 2474.004897959184
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1054,7 +1054,7 @@
       LENGTH 47.56607709750597
       SOFFS 2521.5825850340134
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1064,7 +1064,7 @@
       LENGTH 190.35718820861666
       SOFFS 2569.1486621315194
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1074,7 +1074,7 @@
       LENGTH 47.56607709750551
       SOFFS 2759.505850340136
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1084,7 +1084,7 @@
       LENGTH 95.14376417233598
       SOFFS 2807.0719274376415
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1094,7 +1094,7 @@
       LENGTH 47.58929705215405
       SOFFS 2902.2156916099775
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
     
@@ -1104,7 +1104,7 @@
       LENGTH 47.57768707483001
       SOFFS 2949.8049886621316
       <SOURCE WAVE
-        FILE "/home/james/Cloud/Projects/ElectroMagnetic/reaper/highgain_source/bounces/Kindle_04.wav"
+        FILE "../../reaper/highgain_source/bounces/Kindle_04.wav"
       >
     >
   >
